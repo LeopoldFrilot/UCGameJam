@@ -1,0 +1,36 @@
+{
+ "ProjectInfo": {
+  "Project": {
+   "Name": "UCGameJam_WwiseProject",
+   "GUID": "{3C38EFE3-3246-4E26-B519-F4E56D5E98D5}",
+   "Generator": "2024.1.2.8726"
+  },
+  "CacheRoot": "../.cache",
+  "Platforms": [
+   {
+    "Name": "Mac",
+    "GUID": "{FF726AA5-8978-46EC-9234-3F05382D66DD}",
+    "BasePlatform": "Mac",
+    "BasePlatformGUID": "{9C6217D5-DD11-4795-87C1-6CE02853C540}",
+    "Path": "Mac"
+   },
+   {
+    "Name": "Windows",
+    "GUID": "{B021D62E-2166-468F-B80B-8E81F53615DA}",
+    "BasePlatform": "Windows",
+    "BasePlatformGUID": "{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}",
+    "Path": "Windows"
+   }
+  ],
+  "Languages": [
+   {
+    "Name": "English(US)",
+    "Id": "684519430",
+    "GUID": "{29318172-ABF9-4B1D-A202-B7BEA2EA60AF}",
+    "Default": "true",
+    "UseAsStandIn": "true"
+   }
+  ],
+  "FileHash": "{020D8A87-D976-8381-082E-D591CB590CC8}"
+ }
+}
