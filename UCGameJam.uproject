@@ -3,16 +3,6 @@
 	"EngineAssociation": "5.5",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "UCGameJam",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
@@ -25,10 +15,6 @@
 			"Name": "PaperZD",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c4b43502026047d89296cd7bffd92828"
-		},
-		{
-			"Name": "Wwise",
-			"Enabled": true
 		}
 	]
 }
