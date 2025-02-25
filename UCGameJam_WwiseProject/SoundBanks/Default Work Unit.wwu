@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{9A47FD8B-C076-478A-B809-91AFED2733F5}" SchemaVersion="123">
+<WwiseDocument Type="WorkUnit" ID="{7404D635-BAFA-4732-BC94-FAB2CF45FF7D}" SchemaVersion="123">
 	<SoundBanks>
-		<WorkUnit Name="Default Work Unit" ID="{9A47FD8B-C076-478A-B809-91AFED2733F5}" PersistMode="Standalone">
+		<WorkUnit Name="Default Work Unit" ID="{7404D635-BAFA-4732-BC94-FAB2CF45FF7D}" PersistMode="Standalone">
 			<ChildrenList>
-				<SoundBank Name="Main" ID="{9F137ED4-1B57-46C5-BA2A-78CF81750EE6}">
-					<ObjectInclusionList/>
+				<SoundBank Name="Forest" ID="{5444E235-B16B-4399-A663-9DA683C7E502}">
+					<Comment>General Forest Loop</Comment>
+					<ObjectInclusionList>
+						<ObjectRef Name="play_amb_forest_day_calm" ID="{B7603DE0-E0E9-4A1C-9B10-106C7EFC4567}" WorkUnitID="{08B0059D-DCFF-4537-841C-38334892D185}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="stop_amb_forest_day_calm" ID="{736B397D-19E9-4DB0-9BA8-675C57033EEC}" WorkUnitID="{08B0059D-DCFF-4537-841C-38334892D185}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
 				</SoundBank>
