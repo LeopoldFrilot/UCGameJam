@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{5444E235-B16B-4399-A663-9DA683C7E502}",
     "Language": "SFX",
-    "Hash": "{276972A5-7E16-709A-69BE-93A96E30A3B4}",
+    "Hash": "{1B6FA46D-203A-A3B2-A52E-E4FBF3566841}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Forest",
     "ShortName": "Forest",
     "Path": "Forest.bnk",
@@ -21,7 +21,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "amb_forest_day_calm.wav",
-      "CachePath": "AC/{AC18A165-9DE4-9554-4C45-15833AB57A4A}.wem"
+      "CachePath": "1C/{1CAC29D3-1BE5-3BF5-9637-7713D16E9DA2}.wem"
      }
     ],
     "Events": [
@@ -30,9 +30,7 @@
       "Name": "play_amb_forest_day_calm",
       "ObjectPath": "\\Events\\Default Work Unit\\Forest\\play_amb_forest_day_calm",
       "GUID": "{B7603DE0-E0E9-4A1C-9B10-106C7EFC4567}",
-      "DurationType": "OneShot",
-      "DurationMin": "75.12047",
-      "DurationMax": "75.12047",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "976484662"
@@ -52,6 +50,6 @@
     ]
    }
   ],
-  "FileHash": "{7D1E4F3D-8E17-FD5F-6617-AE93B6C05869}"
+  "FileHash": "{1E576C63-238A-FA12-8AF3-7100F3D73904}"
  }
 }

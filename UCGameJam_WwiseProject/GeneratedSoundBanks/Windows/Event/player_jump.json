@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1305133589",
+    "Type": "Event",
+    "GUID": "{0DA6C31B-D131-4A28-88A4-4597AA8F4B3B}",
+    "Language": "SFX",
+    "Hash": "{50BCB403-9F28-5F9A-1DE2-DFC1FC313E37}",
+    "ObjectPath": "player_jump",
+    "ShortName": "player_jump",
+    "Path": "Event/player_jump.bnk",
+    "Events": [
+     {
+      "Id": "1305133589",
+      "Name": "player_jump",
+      "ObjectPath": "\\Events\\Default Work Unit\\Player Character\\Jump_Land\\player_jump",
+      "GUID": "{0DA6C31B-D131-4A28-88A4-4597AA8F4B3B}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{0A2825F7-3474-3EB0-755D-72986CD1AC50}"
+ }
+}

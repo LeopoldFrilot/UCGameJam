@@ -32,6 +32,36 @@
 						</Event>
 					</ChildrenList>
 				</Folder>
+				<Folder Name="Player Character" ID="{CDF95413-48CB-47A2-8FE9-8D32B844EE52}" ShortID="765891653">
+					<ChildrenList>
+						<WorkUnit Name="Jump_Land" ID="{F7E48E56-89E0-4316-A239-347BDDC93511}" PersistMode="Reference"/>
+					</ChildrenList>
+				</Folder>
+				<Event Name="player_footsteps" ID="{718B80B8-A276-496D-AB4C-1E35677095C9}">
+					<ChildrenList>
+						<Action Name="" ID="{0B22BBC5-6B20-49AB-92AA-1B2FE258C6D9}" ShortID="749810894">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="grass_footsteps" ID="{9A21E0FC-7F7A-48A6-A2DC-4309D9D4BE39}" WorkUnitID="{E477D312-73B2-4E34-96D1-428FF7E4A36A}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="player_footsteps_stop" ID="{443EAF3D-31C8-4FB4-AB2F-BBDC3321D68C}">
+					<ChildrenList>
+						<Action Name="" ID="{F965FD02-954D-41C0-93FC-4772E85F2B57}" ShortID="630653213">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="grass_footsteps" ID="{9A21E0FC-7F7A-48A6-A2DC-4309D9D4BE39}" WorkUnitID="{E477D312-73B2-4E34-96D1-428FF7E4A36A}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

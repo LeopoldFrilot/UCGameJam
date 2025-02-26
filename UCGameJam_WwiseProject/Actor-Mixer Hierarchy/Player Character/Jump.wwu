@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{20B4C760-55C1-4A43-80BC-6F9510513FAD}" SchemaVersion="123">
+	<AudioObjects>
+		<WorkUnit Name="Jump" ID="{20B4C760-55C1-4A43-80BC-6F9510513FAD}" PersistMode="Standalone"/>
+	</AudioObjects>
+</WwiseDocument>

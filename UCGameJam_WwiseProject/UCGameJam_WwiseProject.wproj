@@ -11631,6 +11631,9 @@
 				<PhysicalFolder Path="Actor-Mixer Hierarchy\Forest">
 					<WorkUnit Name="Forest" ID="{ABECF88E-A621-4425-B93F-3BD3FA6CD7DD}" PersistMode="Standalone"/>
 				</PhysicalFolder>
+				<PhysicalFolder Path="Actor-Mixer Hierarchy\Player Character">
+					<WorkUnit Name="Player Character" ID="{48AEE0F9-11AB-4C3D-BC8B-7DE1C913F565}" PersistMode="Standalone"/>
+				</PhysicalFolder>
 				<PhysicalFolder Path="Attenuations">
 					<WorkUnit Name="Attenuations" ID="{017BDDA0-1BB1-4CE1-8077-79594EC4585C}" PersistMode="Standalone"/>
 				</PhysicalFolder>
