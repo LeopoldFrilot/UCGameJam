@@ -2,6 +2,6 @@ Event	ID	Name			Wwise Object Path	Notes
 	1730208058	player_footsteps			\Default Work Unit\player_footsteps	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	740614787	footstep_grass_02	D:\UCGameJam\UCGameJam_WwiseProject\.cache\D2\{D27F1FFD-6F99-B901-1954-0536508CE776}.wem		\Actor-Mixer Hierarchy\Player Character\Footsteps\Grass\grass_footsteps\footstep_grass_02		7536
-	966461240	footstep_grass_01	D:\UCGameJam\UCGameJam_WwiseProject\.cache\51\{5196F82F-1F17-AA8E-B023-3711B7DD1002}.wem		\Actor-Mixer Hierarchy\Player Character\Footsteps\Grass\grass_footsteps\footstep_grass_01		7504
+	740614787	footstep_grass_02	D:\UCGameJam\UCGameJam_WwiseProject\.cache\6B\{6B66D23F-AF84-9450-86D2-27900631830A}.wem		\Actor-Mixer Hierarchy\Player Character\Footsteps\Grass\grass_footsteps\footstep_grass_02		7536
+	966461240	footstep_grass_01	D:\UCGameJam\UCGameJam_WwiseProject\.cache\3E\{3EC5079C-0C27-E54A-AFDE-DC1B077DC53B}.wem		\Actor-Mixer Hierarchy\Player Character\Footsteps\Grass\grass_footsteps\footstep_grass_01		7504
 

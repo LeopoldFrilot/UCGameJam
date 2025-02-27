@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{42795032-57AA-4D47-B101-CEF0303C40F8}",
     "Language": "SFX",
-    "Hash": "{EFA70C5D-41D8-F5F0-BF24-0F698A4F7AB4}",
+    "Hash": "{ACE1BAC0-A822-F408-72C6-CC95B61887ED}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Player Character\\player_footsteps",
     "ShortName": "player_footsteps",
     "Path": "player_footsteps.bnk",
@@ -21,7 +21,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "footstep_grass_02.wav",
-      "CachePath": "D2/{D27F1FFD-6F99-B901-1954-0536508CE776}.wem"
+      "CachePath": "6B/{6B66D23F-AF84-9450-86D2-27900631830A}.wem"
      },
      {
       "Id": "966461240",
@@ -29,7 +29,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "footstep_grass_01.wav",
-      "CachePath": "51/{5196F82F-1F17-AA8E-B023-3711B7DD1002}.wem"
+      "CachePath": "3E/{3EC5079C-0C27-E54A-AFDE-DC1B077DC53B}.wem"
      }
     ],
     "Events": [
@@ -53,6 +53,6 @@
     ]
    }
   ],
-  "FileHash": "{5D2E2CC0-A989-7359-CF53-577CD639E430}"
+  "FileHash": "{DD241F44-428F-3443-2862-C6F4D5592667}"
  }
 }

@@ -3,5 +3,5 @@ Event	ID	Name			Wwise Object Path	Notes
 	4194252319	stop_amb_forest_day_calm			\Default Work Unit\Forest\stop_amb_forest_day_calm	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	976484662	amb_forest_day_calm	D:\UCGameJam\UCGameJam_WwiseProject\.cache\1C\{1CAC29D3-1BE5-3BF5-9637-7713D16E9DA2}.wem		\Actor-Mixer Hierarchy\Forest\Forest\amb_forest_day_calm		12323820
+	976484662	amb_forest_day_calm	D:\UCGameJam\UCGameJam_WwiseProject\.cache\8A\{8AD2BBD8-BEEA-3A95-1AE9-83CE2DEC671B}.wem		\Actor-Mixer Hierarchy\Forest\Forest\amb_forest_day_calm		12323820
 

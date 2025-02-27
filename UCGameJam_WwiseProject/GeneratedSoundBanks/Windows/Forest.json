@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{5444E235-B16B-4399-A663-9DA683C7E502}",
     "Language": "SFX",
-    "Hash": "{1B6FA46D-203A-A3B2-A52E-E4FBF3566841}",
+    "Hash": "{B46D99A6-417A-24E5-2CEC-31D93240EB28}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Forest",
     "ShortName": "Forest",
     "Path": "Forest.bnk",
@@ -21,7 +21,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "amb_forest_day_calm.wav",
-      "CachePath": "1C/{1CAC29D3-1BE5-3BF5-9637-7713D16E9DA2}.wem"
+      "CachePath": "8A/{8AD2BBD8-BEEA-3A95-1AE9-83CE2DEC671B}.wem"
      }
     ],
     "Events": [
@@ -50,6 +50,6 @@
     ]
    }
   ],
-  "FileHash": "{1E576C63-238A-FA12-8AF3-7100F3D73904}"
+  "FileHash": "{D4AE6A48-A053-2815-0A69-DC8FC622A4C7}"
  }
 }

@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	979951458	player_doublejump			\Default Work Unit\Player Character\Jump_Land\player_doublejump	
+
