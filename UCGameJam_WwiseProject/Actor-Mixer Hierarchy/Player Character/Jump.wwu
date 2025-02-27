@@ -40,6 +40,37 @@
 						<ActiveSource Name="jump_player" ID="{8DC51190-2C6B-40A7-A674-9BC51BF17F72}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
+				<Sound Name="jump_double_player" ID="{B92E3D01-5AF1-43EF-B41F-7E4F23337D06}" ShortID="386894232">
+					<PropertyList>
+						<Property Name="Pitch" Type="int32">
+							<ModifierList>
+								<ModifierInfo>
+									<Modifier Name="" ID="{FAF46D31-5315-4C9D-B8DD-64B8355B7A62}"/>
+								</ModifierInfo>
+							</ModifierList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{C3475B78-1C4C-461F-A55D-10AB386379D2}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{DCC29D33-7E23-4DDA-A4F3-A04D03EF0544}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="jump_double_player" ID="{E5326CAA-0920-45A2-B975-1ED17B8ACE9B}">
+							<Language>SFX</Language>
+							<AudioFile>jump_double_player.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="962420975"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="jump_double_player" ID="{E5326CAA-0920-45A2-B975-1ED17B8ACE9B}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>

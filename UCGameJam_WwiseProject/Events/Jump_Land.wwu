@@ -25,6 +25,17 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="player_doublejump" ID="{8299E7F1-94E3-423C-B7FD-A1D05FF2BF44}">
+					<ChildrenList>
+						<Action Name="" ID="{3B779B2A-9BA3-4763-A713-EB86F1C218CF}" ShortID="652716427">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="jump_double_player" ID="{B92E3D01-5AF1-43EF-B41F-7E4F23337D06}" WorkUnitID="{20B4C760-55C1-4A43-80BC-6F9510513FAD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
