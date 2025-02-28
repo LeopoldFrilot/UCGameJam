@@ -1,0 +1,55 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "491961918",
+    "Type": "User",
+    "GUID": "{5444E235-B16B-4399-A663-9DA683C7E502}",
+    "Language": "SFX",
+    "Hash": "{B46D99A6-417A-24E5-2CEC-31D93240EB28}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Forest",
+    "ShortName": "Forest",
+    "Path": "Forest.bnk",
+    "Media": [
+     {
+      "Id": "976484662",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "amb_forest_day_calm.wav",
+      "CachePath": "8A/{8AD2BBD8-BEEA-3A95-1AE9-83CE2DEC671B}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1932744689",
+      "Name": "play_amb_forest_day_calm",
+      "ObjectPath": "\\Events\\Default Work Unit\\Forest\\play_amb_forest_day_calm",
+      "GUID": "{B7603DE0-E0E9-4A1C-9B10-106C7EFC4567}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "976484662"
+       }
+      ]
+     },
+     {
+      "Id": "4194252319",
+      "Name": "stop_amb_forest_day_calm",
+      "ObjectPath": "\\Events\\Default Work Unit\\Forest\\stop_amb_forest_day_calm",
+      "GUID": "{736B397D-19E9-4DB0-9BA8-675C57033EEC}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{E29B226B-C93E-1941-6DD4-DDE98A7D569C}"
+ }
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{F7E48E56-89E0-4316-A239-347BDDC93511}" SchemaVersion="123" RootDocumentID="{08B0059D-DCFF-4537-841C-38334892D185}" ParentDocumentID="{08B0059D-DCFF-4537-841C-38334892D185}">
+	<Events>
+		<WorkUnit Name="Jump_Land" ID="{F7E48E56-89E0-4316-A239-347BDDC93511}" OwnerID="{CDF95413-48CB-47A2-8FE9-8D32B844EE52}" PersistMode="Nested">
+			<ChildrenList>
+				<Event Name="player_jump" ID="{0DA6C31B-D131-4A28-88A4-4597AA8F4B3B}">
+					<ChildrenList>
+						<Action Name="" ID="{61301B3C-1648-4391-B89D-CECAC44F85A2}" ShortID="584998184">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="jump_player" ID="{8DE0514E-7512-46CB-A7DA-835C9EDF02EF}" WorkUnitID="{20B4C760-55C1-4A43-80BC-6F9510513FAD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="player_land" ID="{AF8DBF15-1BC2-45FA-93AA-F3353D3234F3}">
+					<ChildrenList>
+						<Action Name="" ID="{7BF02466-C0E8-4305-9FBA-B107083F224F}" ShortID="358992174">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="player_land_stone" ID="{70BC53E5-9B18-433E-B0A5-3295CFC005E7}" WorkUnitID="{BA2D696F-B034-4A64-8254-E851B40370D0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
