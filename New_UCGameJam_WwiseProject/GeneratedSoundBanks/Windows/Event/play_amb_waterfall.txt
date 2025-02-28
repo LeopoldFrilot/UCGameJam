@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1236374173	play_amb_waterfall			\Ambience\Cave\play_amb_waterfall	
+

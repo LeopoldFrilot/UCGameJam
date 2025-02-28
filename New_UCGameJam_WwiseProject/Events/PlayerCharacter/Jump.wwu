@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{F2AA9D07-4280-46E9-95AF-38903F3F25F0}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Jump" ID="{F2AA9D07-4280-46E9-95AF-38903F3F25F0}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="player_doublejump" ID="{F5FBB1D7-9ADD-4060-8CE5-5453A6BFE004}">
+					<ChildrenList>
+						<Action Name="" ID="{82AB98EF-DA0A-4FE7-B70C-516CEE49854E}" ShortID="102745663">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="player_doublejump" ID="{874F1098-B066-48DA-9826-9A7F9C5E4119}" WorkUnitID="{38279856-95DC-4CCD-867E-A9B180286359}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="player_jump" ID="{3FED1418-B546-4C51-A4B3-7DFE96E9ED30}">
+					<ChildrenList>
+						<Action Name="" ID="{408D60F4-F420-4096-BA37-3B68F4DCED56}" ShortID="881699892">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="player_jump_revised" ID="{45D87663-86B3-4813-B7C5-F26328ACA2B9}" WorkUnitID="{38279856-95DC-4CCD-867E-A9B180286359}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="player_land_stone" ID="{04B11424-E8AF-4788-B85B-9714A7506DFB}">
+					<ChildrenList>
+						<Action Name="" ID="{5E7737C0-6290-4A47-AB5C-D707AB5B8C3D}" ShortID="1044925966">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="player_land_stone" ID="{63E6584C-C31E-452D-86EE-24D4618EB39B}" WorkUnitID="{38279856-95DC-4CCD-867E-A9B180286359}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="player_land_snow" ID="{4033963C-18D4-49E2-856E-5EFBD15ED5AE}">
+					<ChildrenList>
+						<Action Name="" ID="{A25D6D40-1790-4606-83EB-C2F20AF60C34}" ShortID="767492102">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="jump_land_snow_random" ID="{B790A862-0676-4E7F-B830-C637F1F9F9AC}" WorkUnitID="{38279856-95DC-4CCD-867E-A9B180286359}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

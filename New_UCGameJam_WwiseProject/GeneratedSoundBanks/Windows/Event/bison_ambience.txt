@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2893159405	bison_ambience			\Animal\Bison\bison_ambience	
+

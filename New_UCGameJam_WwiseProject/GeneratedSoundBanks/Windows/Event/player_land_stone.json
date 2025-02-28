@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3330898608",
+    "Type": "Event",
+    "GUID": "{04B11424-E8AF-4788-B85B-9714A7506DFB}",
+    "Language": "SFX",
+    "Hash": "{61CAED00-F4CC-826A-895F-9C85947C4EE9}",
+    "ObjectPath": "player_land_stone",
+    "ShortName": "player_land_stone",
+    "Path": "Event/player_land_stone.bnk",
+    "Media": [
+     {
+      "Id": "852494195",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "player_land_stone.wav",
+      "Path": "Media/852494195.wem",
+      "CachePath": "A1/{A138946E-46DC-C83A-209D-98946EFA6027}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3330898608",
+      "Name": "player_land_stone",
+      "ObjectPath": "\\Events\\PlayerCharacter\\Jump\\player_land_stone",
+      "GUID": "{04B11424-E8AF-4788-B85B-9714A7506DFB}",
+      "Color": "2",
+      "DurationType": "OneShot",
+      "DurationMin": "0.061496597",
+      "DurationMax": "0.061496597",
+      "MediaRefs": [
+       {
+        "Id": "852494195"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{5A16F584-4F95-1720-E8DA-AD4BA94AB080}"
+ }
+}

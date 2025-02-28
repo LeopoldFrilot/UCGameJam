@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1236374173",
+    "Type": "Event",
+    "GUID": "{A94E4932-642C-4BC7-BF98-3969FB49BF59}",
+    "Language": "SFX",
+    "Hash": "{21273870-05B3-D9FC-7FC8-6981B01F8E2C}",
+    "ObjectPath": "play_amb_waterfall",
+    "ShortName": "play_amb_waterfall",
+    "Path": "Event/play_amb_waterfall.bnk",
+    "Media": [
+     {
+      "Id": "244424738",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "amb_cave_waterfall.wav",
+      "Path": "Media/244424738.wem",
+      "CachePath": "39/{397C1003-C830-2D80-C0FE-D6337007A69E}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1236374173",
+      "Name": "play_amb_waterfall",
+      "ObjectPath": "\\Events\\Ambience\\Cave\\play_amb_waterfall",
+      "GUID": "{A94E4932-642C-4BC7-BF98-3969FB49BF59}",
+      "Color": "5",
+      "DurationType": "OneShot",
+      "DurationMin": "236.54596",
+      "DurationMax": "236.54596",
+      "MediaRefs": [
+       {
+        "Id": "244424738"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{7363DE86-8B77-1F86-4134-19B1052E27AE}"
+ }
+}

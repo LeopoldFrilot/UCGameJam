@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{D7AB3D9C-C6D8-40E8-8256-E1D7BE696E03}" SchemaVersion="123">
+	<AudioObjects>
+		<WorkUnit Name="Puzzle" ID="{D7AB3D9C-C6D8-40E8-8256-E1D7BE696E03}" PersistMode="Standalone">
+			<ChildrenList>
+				<WorkUnit Name="Puzzle Interact" ID="{0A2BAB95-C667-43ED-AFA3-BE84895FBF5B}" PersistMode="Reference"/>
+				<WorkUnit Name="Puzzle UI" ID="{3AA314F3-8D09-42D4-B2EE-64A13D028A97}" PersistMode="Reference"/>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

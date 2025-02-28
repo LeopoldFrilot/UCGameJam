@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2759968617",
+    "Type": "Event",
+    "GUID": "{41AC8320-F670-49CB-A522-ECE011CC8B8E}",
+    "Language": "SFX",
+    "Hash": "{B4B589CF-0562-2C62-4CEE-BC4E9648D277}",
+    "ObjectPath": "puzzle_place",
+    "ShortName": "puzzle_place",
+    "Path": "Event/puzzle_place.bnk",
+    "Media": [
+     {
+      "Id": "669611713",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "puzzle_place.wav",
+      "Path": "Media/669611713.wem",
+      "CachePath": "B5/{B5323971-F881-51DC-67EE-DFEE806DD3B7}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2759968617",
+      "Name": "puzzle_place",
+      "ObjectPath": "\\Events\\UI\\Puzzle\\Puzzle Interact\\puzzle_place",
+      "GUID": "{41AC8320-F670-49CB-A522-ECE011CC8B8E}",
+      "Color": "14",
+      "DurationType": "OneShot",
+      "DurationMin": "0.1478458",
+      "DurationMax": "0.1478458",
+      "MediaRefs": [
+       {
+        "Id": "669611713"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{6AF49EED-E459-18A5-9529-47DAF55756C6}"
+ }
+}

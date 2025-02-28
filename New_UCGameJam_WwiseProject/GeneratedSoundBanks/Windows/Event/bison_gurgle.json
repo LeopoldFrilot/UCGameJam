@@ -1,0 +1,61 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2786176869",
+    "Type": "Event",
+    "GUID": "{BF997659-1ED4-46BD-8EFE-37B23082901D}",
+    "Language": "SFX",
+    "Hash": "{D72513D8-30D8-4264-B5AE-2B1051197037}",
+    "ObjectPath": "bison_gurgle",
+    "ShortName": "bison_gurgle",
+    "Path": "Event/bison_gurgle.bnk",
+    "Media": [
+     {
+      "Id": "278178906",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "bison_gurgle_02.wav",
+      "Path": "Media/278178906.wem",
+      "CachePath": "19/{193C077E-C004-9798-6600-2369B2376BF4}.wem"
+     },
+     {
+      "Id": "357292016",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "bison_gurgle_01.wav",
+      "Path": "Media/357292016.wem",
+      "CachePath": "81/{8126352C-A5CB-317D-1007-F72739976B10}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2786176869",
+      "Name": "bison_gurgle",
+      "ObjectPath": "\\Events\\Animal\\Bison\\bison_gurgle",
+      "GUID": "{BF997659-1ED4-46BD-8EFE-37B23082901D}",
+      "Color": "11",
+      "DurationType": "OneShot",
+      "DurationMin": "1.0880046",
+      "DurationMax": "1.3480046",
+      "MediaRefs": [
+       {
+        "Id": "278178906"
+       },
+       {
+        "Id": "357292016"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{B972CC3D-F6EB-3A5C-CB5A-658F1A1C7F67}"
+ }
+}

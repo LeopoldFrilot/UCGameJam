@@ -1,0 +1,61 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1006912679",
+    "Type": "Event",
+    "GUID": "{A41AC085-41AF-4A7C-9C58-2A88B7E331CB}",
+    "Language": "SFX",
+    "Hash": "{4F2610FA-5BE6-7620-8136-CC6BF5CC3C86}",
+    "ObjectPath": "fox_yip_engage",
+    "ShortName": "fox_yip_engage",
+    "Path": "Event/fox_yip_engage.bnk",
+    "Media": [
+     {
+      "Id": "440459425",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "fox_yip_engage_01.wav",
+      "Path": "Media/440459425.wem",
+      "CachePath": "B4/{B494A362-8070-6546-5174-0B8119A5532D}.wem"
+     },
+     {
+      "Id": "922935822",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "fox_yip_engage_02.wav",
+      "Path": "Media/922935822.wem",
+      "CachePath": "F9/{F9727DE0-B216-4B00-7A59-A864F9E41A9E}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1006912679",
+      "Name": "fox_yip_engage",
+      "ObjectPath": "\\Events\\Animal\\Fox\\fox_yip_engage",
+      "GUID": "{A41AC085-41AF-4A7C-9C58-2A88B7E331CB}",
+      "Color": "11",
+      "DurationType": "OneShot",
+      "DurationMin": "0.27956915",
+      "DurationMax": "0.569864",
+      "MediaRefs": [
+       {
+        "Id": "440459425"
+       },
+       {
+        "Id": "922935822"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{4B86FF8B-7569-947E-6EBA-034367816FBA}"
+ }
+}

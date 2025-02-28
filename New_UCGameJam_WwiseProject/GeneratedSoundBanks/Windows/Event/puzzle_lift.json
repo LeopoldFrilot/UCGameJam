@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3576314847",
+    "Type": "Event",
+    "GUID": "{519E5E88-1273-4D78-AD1C-FB4FD42AD750}",
+    "Language": "SFX",
+    "Hash": "{6EF62BC9-D8F7-1E4F-C9D9-638F645988AE}",
+    "ObjectPath": "puzzle_lift",
+    "ShortName": "puzzle_lift",
+    "Path": "Event/puzzle_lift.bnk",
+    "Media": [
+     {
+      "Id": "826878839",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "puzzle_lift.wav",
+      "Path": "Media/826878839.wem",
+      "CachePath": "46/{4660A4C8-E16C-E6FE-EDEC-B37BE13C3C1A}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3576314847",
+      "Name": "puzzle_lift",
+      "ObjectPath": "\\Events\\UI\\Puzzle\\Puzzle Interact\\puzzle_lift",
+      "GUID": "{519E5E88-1273-4D78-AD1C-FB4FD42AD750}",
+      "Color": "14",
+      "DurationType": "OneShot",
+      "DurationMin": "0.22714286",
+      "DurationMax": "0.22714286",
+      "MediaRefs": [
+       {
+        "Id": "826878839"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{D9221D30-B805-AA7A-3232-06C797335A7C}"
+ }
+}

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{3225743E-B706-4841-9226-6555AC7508A2}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Cave" ID="{3225743E-B706-4841-9226-6555AC7508A2}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="play_amb_waterfall" ID="{A94E4932-642C-4BC7-BF98-3969FB49BF59}">
+					<ChildrenList>
+						<Action Name="" ID="{5A51D343-AF1E-4BD2-B83D-86763E94EAAE}" ShortID="70498073">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="amb_cave_waterfall" ID="{28C7BF10-6004-4026-9F95-C8992F9C87DC}" WorkUnitID="{A2EC9233-3768-49C9-856A-257AED729966}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="stop_amb_waterfall" ID="{14D402F0-300B-431C-8845-460A1D0A0536}">
+					<ChildrenList>
+						<Action Name="" ID="{558449B1-BE5A-415D-A001-632A82EA903F}" ShortID="602723051">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="amb_cave_waterfall" ID="{28C7BF10-6004-4026-9F95-C8992F9C87DC}" WorkUnitID="{A2EC9233-3768-49C9-856A-257AED729966}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_cave_waterdrop" ID="{34009E22-C9D0-4054-9C09-36BFB04D1D38}">
+					<ChildrenList>
+						<Action Name="" ID="{0BD4ACF2-2CC4-41B0-8391-77A5F5D118F9}" ShortID="780070206">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="amb_cave_waterdrop" ID="{0BF3DFDF-7C19-4FA6-85AA-873B498967CA}" WorkUnitID="{A2EC9233-3768-49C9-856A-257AED729966}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="stop_cave_waterdrop" ID="{3AFF99D8-6386-45D9-A1E1-96B1243C7C06}">
+					<ChildrenList>
+						<Action Name="" ID="{9AFDB36A-9D2F-49EF-B80B-A95845BD081B}" ShortID="914345847">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="amb_cave_waterdrop" ID="{0BF3DFDF-7C19-4FA6-85AA-873B498967CA}" WorkUnitID="{A2EC9233-3768-49C9-856A-257AED729966}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

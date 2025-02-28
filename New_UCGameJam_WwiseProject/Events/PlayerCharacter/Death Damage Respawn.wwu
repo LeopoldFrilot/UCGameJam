@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{BC60A8C1-B35E-4C9B-9767-6605D3023CD4}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Death Damage Respawn" ID="{BC60A8C1-B35E-4C9B-9767-6605D3023CD4}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="player_damage" ID="{43AEA3D8-3DF8-44F4-AB3D-641F57516972}">
+					<ChildrenList>
+						<Action Name="" ID="{3E9559E8-276A-450A-A39B-5F9154E6DA7A}" ShortID="243596329">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="player_damage" ID="{8FF4E7B0-0CDC-4698-A95E-9DDB672237C1}" WorkUnitID="{933AD647-1408-4393-A2F7-6AD064ABECBA}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="player_death" ID="{0B872FDB-163D-458A-84FE-AA852391F9A5}">
+					<ChildrenList>
+						<Action Name="" ID="{18945AE7-9C42-4957-8A30-CB3BDE505C15}" ShortID="112577379">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="player_death" ID="{E7773544-93E3-413F-B757-F15FCE2AB4A5}" WorkUnitID="{933AD647-1408-4393-A2F7-6AD064ABECBA}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="player_respawn" ID="{ADC99AD3-7217-401D-9EF2-353BDCB75395}">
+					<ChildrenList>
+						<Action Name="" ID="{2AEE477A-66E8-47F3-B6DA-F3EBDD3FD45A}" ShortID="882969551">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="player_transform" ID="{43D7BEAD-BFFF-478F-ADDD-BC0787B97D3A}" WorkUnitID="{933AD647-1408-4393-A2F7-6AD064ABECBA}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

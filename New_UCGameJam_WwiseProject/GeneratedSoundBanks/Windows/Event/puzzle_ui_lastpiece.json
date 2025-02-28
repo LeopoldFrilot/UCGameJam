@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "4127399469",
+    "Type": "Event",
+    "GUID": "{5A396842-982F-4D36-BDC4-5B54C6360421}",
+    "Language": "SFX",
+    "Hash": "{5B15C519-C0BD-A14B-1054-EEB9FD4F516E}",
+    "ObjectPath": "puzzle_ui_lastpiece",
+    "ShortName": "puzzle_ui_lastpiece",
+    "Path": "Event/puzzle_ui_lastpiece.bnk",
+    "Media": [
+     {
+      "Id": "235482498",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "ui_puzzle_last_piece.wav",
+      "Path": "Media/235482498.wem",
+      "CachePath": "78/{78673377-87DD-D739-BDBF-6EF429A036B5}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "4127399469",
+      "Name": "puzzle_ui_lastpiece",
+      "ObjectPath": "\\Events\\UI\\Puzzle\\Puzzle UI\\puzzle_ui_lastpiece",
+      "GUID": "{5A396842-982F-4D36-BDC4-5B54C6360421}",
+      "Color": "14",
+      "DurationType": "OneShot",
+      "DurationMin": "0.5",
+      "DurationMax": "0.5",
+      "MediaRefs": [
+       {
+        "Id": "235482498"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{474A200E-53CD-E789-3D3B-44D3D083C1EF}"
+ }
+}

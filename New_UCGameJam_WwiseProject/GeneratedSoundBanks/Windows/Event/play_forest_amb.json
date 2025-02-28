@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "4156323864",
+    "Type": "Event",
+    "GUID": "{EEA5E64A-5058-426D-8998-9601E364C69B}",
+    "Language": "SFX",
+    "Hash": "{AA758BA0-D866-E632-C89E-D1B38CC9EBCB}",
+    "ObjectPath": "play_forest_amb",
+    "ShortName": "play_forest_amb",
+    "Path": "Event/play_forest_amb.bnk",
+    "Media": [
+     {
+      "Id": "949655227",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "amb_forest_day_calm.wav",
+      "Path": "Media/949655227.wem",
+      "CachePath": "F2/{F26DA297-8560-AA00-F967-421526141F77}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "4156323864",
+      "Name": "play_forest_amb",
+      "ObjectPath": "\\Events\\Ambience\\Forest\\play_forest_amb",
+      "GUID": "{EEA5E64A-5058-426D-8998-9601E364C69B}",
+      "Color": "5",
+      "DurationType": "OneShot",
+      "DurationMin": "76.37834",
+      "DurationMax": "76.37834",
+      "MediaRefs": [
+       {
+        "Id": "949655227"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{91CFCA36-9899-BC76-9AAD-345BF3AD211D}"
+ }
+}

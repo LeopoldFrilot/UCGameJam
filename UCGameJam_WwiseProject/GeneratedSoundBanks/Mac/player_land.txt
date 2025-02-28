@@ -1,6 +1,0 @@
-Event	ID	Name			Wwise Object Path	Notes
-	3629196698	player_land			\Default Work Unit\Player Character\Jump_Land\player_land	
-
-In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	98588116	player_land_stone	D:\UCGameJam\UCGameJam_WwiseProject\.cache\A1\{A138946E-46DC-C83A-209D-98946EFA6027}.wem		\Actor-Mixer Hierarchy\Player Character\Land\Stone\player_land_stone		5520
-

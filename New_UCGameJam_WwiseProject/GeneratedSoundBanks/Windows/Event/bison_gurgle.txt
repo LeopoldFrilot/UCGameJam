@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2786176869	bison_gurgle			\Animal\Bison\bison_gurgle	
+

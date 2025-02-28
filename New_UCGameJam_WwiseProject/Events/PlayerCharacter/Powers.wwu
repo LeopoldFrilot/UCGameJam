@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{CA5462B8-6C16-4D7F-8FDA-87F74DADEE0A}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Powers" ID="{CA5462B8-6C16-4D7F-8FDA-87F74DADEE0A}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="Charge" ID="{E45DA5EE-E795-4C29-A198-C8B74BEB5BB3}" ShortID="517551827">
+					<ChildrenList>
+						<Event Name="charge_impact" ID="{08D4F9A1-8A79-48C6-8860-127A1A1408BB}">
+							<ChildrenList>
+								<Action Name="" ID="{D4435017-B04E-45C2-8FDC-D49F1D5F6BDC}" ShortID="905621201">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="charge_impact" ID="{1326399A-3E75-459C-B422-470CAACE79A8}" WorkUnitID="{A2E111E7-2D7B-4F4E-BD1F-E86419E855B4}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="charge_short" ID="{F918E7B7-62B2-42EE-A59E-965652AC2BD9}">
+							<ChildrenList>
+								<Action Name="" ID="{40A0CEFF-0D2E-4C14-B8BD-EE1D74318AF3}" ShortID="256582369">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="charge_short" ID="{0FBF079B-2597-4FAD-BCF1-D0DB3286F20B}" WorkUnitID="{A2E111E7-2D7B-4F4E-BD1F-E86419E855B4}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

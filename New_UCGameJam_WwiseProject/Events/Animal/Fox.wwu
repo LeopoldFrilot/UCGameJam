@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{CB3A5D38-58D8-4784-859D-4FAD23A2E834}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Fox" ID="{CB3A5D38-58D8-4784-859D-4FAD23A2E834}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="fox_nearby" ID="{053C3F5E-DAC4-4F6E-A59C-969DCCC53735}">
+					<ChildrenList>
+						<Action Name="" ID="{D54DA6A8-3CF6-4075-8511-1BF92837DB15}" ShortID="724797038">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="fox_nearby_random" ID="{177C881D-FF81-44A2-AA9E-532FE12C48D9}" WorkUnitID="{D93332F8-4429-439E-8AC4-2881989C2ECB}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="fox_yip_engage" ID="{A41AC085-41AF-4A7C-9C58-2A88B7E331CB}">
+					<ChildrenList>
+						<Action Name="" ID="{13E00D36-7F31-4FC7-84C1-D44E87E6902F}" ShortID="98654668">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="fox_yip_engage_random" ID="{A10ACB08-8C09-45B9-ACA2-7FCFD28FEE50}" WorkUnitID="{D93332F8-4429-439E-8AC4-2881989C2ECB}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

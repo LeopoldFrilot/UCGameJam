@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	902233350	charge_short			\PlayerCharacter\Powers\Charge\charge_short	
+

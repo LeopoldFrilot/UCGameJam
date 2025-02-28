@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{901EF6F4-6996-44B6-AACD-8456DC0237EB}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Footsteps" ID="{901EF6F4-6996-44B6-AACD-8456DC0237EB}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="player_footsteps_grass" ID="{ECB1B67A-73EB-4E3E-817E-C49D31876884}">
+					<ChildrenList>
+						<Action Name="" ID="{37E4D9B4-1F42-4830-BDFF-528417E5E748}" ShortID="524233751">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="footstep_grass_random" ID="{3C876825-D535-406F-B162-B6A756DC16F3}" WorkUnitID="{3A054814-523B-47D5-A289-555950D9FEFC}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="player_footsteps_stop" ID="{4B849602-0697-4BF4-BB4B-6A0103D8D9FE}">
+					<ChildrenList>
+						<Action Name="" ID="{A9468A75-F650-400D-A45E-F6559263DFDE}" ShortID="1047146880">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="footstep_grass_random" ID="{3C876825-D535-406F-B162-B6A756DC16F3}" WorkUnitID="{3A054814-523B-47D5-A289-555950D9FEFC}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{A07545C7-1261-49B5-B690-5D5806F5028A}" ShortID="928215849">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="footstep_snow_random" ID="{CBE7D036-84BA-4869-9607-852EA4639DAA}" WorkUnitID="{3A054814-523B-47D5-A289-555950D9FEFC}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="player_footsteps_snow" ID="{1C7D0621-CE1D-4BD4-81E3-6506B98BF3CC}">
+					<ChildrenList>
+						<Action Name="" ID="{D3D0143A-01F1-40B4-8DC5-5637313F0680}" ShortID="727353920">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="footstep_snow_random" ID="{CBE7D036-84BA-4869-9607-852EA4639DAA}" WorkUnitID="{3A054814-523B-47D5-A289-555950D9FEFC}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

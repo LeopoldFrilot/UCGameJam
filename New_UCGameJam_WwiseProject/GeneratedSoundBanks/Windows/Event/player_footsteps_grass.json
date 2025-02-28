@@ -1,0 +1,61 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "4235760645",
+    "Type": "Event",
+    "GUID": "{ECB1B67A-73EB-4E3E-817E-C49D31876884}",
+    "Language": "SFX",
+    "Hash": "{9F64C753-2DDE-7DF1-4BA7-15BD43AFB258}",
+    "ObjectPath": "player_footsteps_grass",
+    "ShortName": "player_footsteps_grass",
+    "Path": "Event/player_footsteps_grass.bnk",
+    "Media": [
+     {
+      "Id": "525181682",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "footstep_grass_02_revised.wav",
+      "Path": "Media/525181682.wem",
+      "CachePath": "06/{0692E728-C8EA-8E05-F983-CF51890FA3D9}.wem"
+     },
+     {
+      "Id": "702393531",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "footstep_grass_01_revised.wav",
+      "Path": "Media/702393531.wem",
+      "CachePath": "23/{236BA962-2E66-3F38-914F-B3AFF3FD5328}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "4235760645",
+      "Name": "player_footsteps_grass",
+      "ObjectPath": "\\Events\\PlayerCharacter\\Footsteps\\player_footsteps_grass",
+      "GUID": "{ECB1B67A-73EB-4E3E-817E-C49D31876884}",
+      "Color": "2",
+      "DurationType": "OneShot",
+      "DurationMin": "0.08736961",
+      "DurationMax": "0.094671205",
+      "MediaRefs": [
+       {
+        "Id": "525181682"
+       },
+       {
+        "Id": "702393531"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{8F8A74A0-9731-A8D9-3117-6D1BB3139925}"
+ }
+}

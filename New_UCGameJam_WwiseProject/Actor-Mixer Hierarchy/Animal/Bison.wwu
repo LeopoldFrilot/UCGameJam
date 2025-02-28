@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{95DC1AF7-0331-439E-A16A-CAF0207158D4}" SchemaVersion="123">
+	<AudioObjects>
+		<WorkUnit Name="Bison" ID="{95DC1AF7-0331-439E-A16A-CAF0207158D4}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="bison_ambience_gurgle" ID="{3B8A2780-6E3A-49EC-A88F-3FFC95D60627}" ShortID="595106329">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="bison_ambience_gurgle" ID="{D58535BB-1C18-4153-9381-2BAB566DCF15}">
+							<Language>SFX</Language>
+							<AudioFile>bison_ambience_gurgle.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="335457409"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="bison_ambience_gurgle" ID="{D58535BB-1C18-4153-9381-2BAB566DCF15}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<RandomSequenceContainer Name="bison_gurgle_random" ID="{8BD9041F-31A2-4D3E-87A8-F6475D7AF05A}" ShortID="336821912">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="bison_gurgle_01" ID="{5CB5232C-6E1E-458F-B6D4-996FBEEA3B32}" ShortID="797804320">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="bison_gurgle_01" ID="{46AB3BF9-B3E6-4D78-9CBB-4A02898A5368}">
+									<Language>SFX</Language>
+									<AudioFile>bison_gurgle_01.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="357292016"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="bison_gurgle_01" ID="{46AB3BF9-B3E6-4D78-9CBB-4A02898A5368}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="bison_gurgle_02" ID="{5AF6AB01-472E-402E-8DB7-8612D2CDBC7E}" ShortID="157503131">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="bison_gurgle_02" ID="{9E253C87-8D9D-4731-8418-5C6A6974475D}">
+									<Language>SFX</Language>
+									<AudioFile>bison_gurgle_02.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="278178906"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="bison_gurgle_02" ID="{9E253C87-8D9D-4731-8418-5C6A6974475D}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</RandomSequenceContainer>
+				<RandomSequenceContainer Name="bison_huff_random" ID="{77298DE4-1314-4C32-8185-EEA98A0D56B7}" ShortID="284856141">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="bison_huff_02" ID="{96257301-5830-4435-A1EC-64B5598DC813}" ShortID="901913523">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="bison_huff_02" ID="{FDCCFF90-A3A5-4DE2-9D47-36108499A5C1}">
+									<Language>SFX</Language>
+									<AudioFile>bison_huff_02.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="471706306"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="bison_huff_02" ID="{FDCCFF90-A3A5-4DE2-9D47-36108499A5C1}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="bison_huff_01" ID="{08E43CD3-9473-48B2-8713-C8C66F8660DF}" ShortID="688659719">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="bison_huff_01" ID="{B4EEA18D-24A1-4F5D-92C7-FE1FAEDF7205}">
+									<Language>SFX</Language>
+									<AudioFile>bison_huff_01.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="678321147"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="bison_huff_01" ID="{B4EEA18D-24A1-4F5D-92C7-FE1FAEDF7205}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</RandomSequenceContainer>
+				<RandomSequenceContainer Name="bison_grunt_random" ID="{C1E25766-2CF4-4279-99C8-185397AE833B}" ShortID="831750227">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="bison_grunt_long" ID="{00696B13-08A7-4E1D-AB0D-FA7B0F297585}" ShortID="79315847">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="bison_grunt_long" ID="{04B8D2AD-5EBF-474F-92EE-14C9A252BE40}">
+									<Language>SFX</Language>
+									<AudioFile>bison_grunt_long.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="513722874"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="bison_grunt_long" ID="{04B8D2AD-5EBF-474F-92EE-14C9A252BE40}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="bison_grunt_short" ID="{3C1F5553-7431-4CE9-871F-7B444C15267D}" ShortID="480137356">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="bison_grunt_short" ID="{2644A78F-19B9-4401-A7F9-538477B4C9EE}">
+									<Language>SFX</Language>
+									<AudioFile>bison_grunt_short.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="28631675"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="bison_grunt_short" ID="{2644A78F-19B9-4401-A7F9-538477B4C9EE}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</RandomSequenceContainer>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

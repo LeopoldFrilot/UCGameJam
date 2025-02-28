@@ -1,0 +1,97 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2255457607",
+    "Type": "Event",
+    "GUID": "{F6FAB784-AEF9-486D-8E47-A69A6D423F7C}",
+    "Language": "SFX",
+    "Hash": "{13F716BB-68BF-0F09-5F46-E1A3FBB757AA}",
+    "ObjectPath": "play_amb_wind",
+    "ShortName": "play_amb_wind",
+    "Path": "Event/play_amb_wind.bnk",
+    "Media": [
+     {
+      "Id": "16792256",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "amb_gentle_wind_05.wav",
+      "Path": "Media/16792256.wem",
+      "CachePath": "54/{5488867A-1262-6406-BAE1-73B724362EC5}.wem"
+     },
+     {
+      "Id": "453839550",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "amb_gentle_wind_04.wav",
+      "Path": "Media/453839550.wem",
+      "CachePath": "EE/{EE4A049A-BADA-0F75-4724-A4AFA1E5583C}.wem"
+     },
+     {
+      "Id": "900021220",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "amb_gentle_wind_02.wav",
+      "Path": "Media/900021220.wem",
+      "CachePath": "79/{7930A71F-7168-57F6-8151-CA0E83516A22}.wem"
+     },
+     {
+      "Id": "909684946",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "amb_gentle_wind_01.wav",
+      "Path": "Media/909684946.wem",
+      "CachePath": "29/{2961BB09-9DD5-D201-0BC2-59AAED1A9A68}.wem"
+     },
+     {
+      "Id": "1073431224",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "amb_gentle_wind_03.wav",
+      "Path": "Media/1073431224.wem",
+      "CachePath": "04/{04CD3B58-C9DC-A24F-211B-AB6C56FB767B}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2255457607",
+      "Name": "play_amb_wind",
+      "ObjectPath": "\\Events\\Ambience\\Mountain\\play_amb_wind",
+      "GUID": "{F6FAB784-AEF9-486D-8E47-A69A6D423F7C}",
+      "Color": "5",
+      "DurationType": "OneShot",
+      "DurationMin": "7.125329",
+      "DurationMax": "11.178662",
+      "MediaRefs": [
+       {
+        "Id": "16792256"
+       },
+       {
+        "Id": "453839550"
+       },
+       {
+        "Id": "900021220"
+       },
+       {
+        "Id": "909684946"
+       },
+       {
+        "Id": "1073431224"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{BB6DB1EC-0968-722A-33C8-F9CDCB9BBB2C}"
+ }
+}

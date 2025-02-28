@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2255457607	play_amb_wind			\Ambience\Mountain\play_amb_wind	
+

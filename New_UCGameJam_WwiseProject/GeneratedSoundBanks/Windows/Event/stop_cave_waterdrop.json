@@ -1,0 +1,34 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1360542848",
+    "Type": "Event",
+    "GUID": "{3AFF99D8-6386-45D9-A1E1-96B1243C7C06}",
+    "Language": "SFX",
+    "Hash": "{71347202-1D1B-A8E2-47BE-3C566A94CC8E}",
+    "ObjectPath": "stop_cave_waterdrop",
+    "ShortName": "stop_cave_waterdrop",
+    "Path": "Event/stop_cave_waterdrop.bnk",
+    "Events": [
+     {
+      "Id": "1360542848",
+      "Name": "stop_cave_waterdrop",
+      "ObjectPath": "\\Events\\Ambience\\Cave\\stop_cave_waterdrop",
+      "GUID": "{3AFF99D8-6386-45D9-A1E1-96B1243C7C06}",
+      "Color": "5",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{AE9DDCA9-37CA-819C-C7B2-56F34F0F5622}"
+ }
+}

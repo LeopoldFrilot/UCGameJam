@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1803285434	fox_nearby			\Animal\Fox\fox_nearby	
+

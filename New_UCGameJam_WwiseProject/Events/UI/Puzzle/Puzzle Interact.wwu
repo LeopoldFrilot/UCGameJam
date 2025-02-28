@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{5193D48B-F8D9-4C19-B397-44B4C18D7710}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Puzzle Interact" ID="{5193D48B-F8D9-4C19-B397-44B4C18D7710}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="puzzle_drop" ID="{615EE5E7-9000-4226-8BA1-C7239095AC3A}">
+					<ChildrenList>
+						<Action Name="" ID="{49B7CA73-0139-4CBF-9F98-D324A4F8B7E7}" ShortID="875241340">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="puzzle_drop" ID="{F36A3F42-8A12-4A20-9FC0-F2C148C8A783}" WorkUnitID="{0A2BAB95-C667-43ED-AFA3-BE84895FBF5B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="puzzle_lift" ID="{519E5E88-1273-4D78-AD1C-FB4FD42AD750}">
+					<ChildrenList>
+						<Action Name="" ID="{E9EE7059-E99F-45DB-873D-7C5BA4330C6B}" ShortID="780411652">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="puzzle_lift" ID="{55EF8BCE-87CF-42EC-B229-034FBFF8086E}" WorkUnitID="{0A2BAB95-C667-43ED-AFA3-BE84895FBF5B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="puzzle_place" ID="{41AC8320-F670-49CB-A522-ECE011CC8B8E}">
+					<ChildrenList>
+						<Action Name="" ID="{48C63594-46D7-48D4-9E9C-5DB12FE8013A}" ShortID="419984261">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="puzzle_place" ID="{2718D38F-B27C-4220-A27A-2306B1103E5E}" WorkUnitID="{0A2BAB95-C667-43ED-AFA3-BE84895FBF5B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="puzzle_place_success" ID="{52212537-CC4B-41C2-9D09-4D03622FD0DD}">
+					<ChildrenList>
+						<Action Name="" ID="{DC1B975D-D0BF-4ABB-945C-608FAF00E24F}" ShortID="872655523">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="puzzle_place_success" ID="{8CFD5057-CB24-4D03-8526-84D27A0A8BA4}" WorkUnitID="{0A2BAB95-C667-43ED-AFA3-BE84895FBF5B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="puzzle_rotate" ID="{2BF40288-AF45-4F0A-98E7-B81B8F676B0A}">
+					<ChildrenList>
+						<Action Name="" ID="{F7607BC5-E80D-44D3-9237-86AE637428C7}" ShortID="770745781">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="puzzle_rotate" ID="{5D5AF425-2C70-4918-9695-49FAF87D86BA}" WorkUnitID="{0A2BAB95-C667-43ED-AFA3-BE84895FBF5B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

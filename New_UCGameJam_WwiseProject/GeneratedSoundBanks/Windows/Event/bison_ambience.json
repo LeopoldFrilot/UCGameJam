@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2893159405",
+    "Type": "Event",
+    "GUID": "{853F9CE5-CF7B-4692-8C4E-FF1796EEAC67}",
+    "Language": "SFX",
+    "Hash": "{F3C7979D-C346-5637-8F86-0BBEDDED8DAB}",
+    "ObjectPath": "bison_ambience",
+    "ShortName": "bison_ambience",
+    "Path": "Event/bison_ambience.bnk",
+    "Media": [
+     {
+      "Id": "335457409",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "bison_ambience_gurgle.wav",
+      "Path": "Media/335457409.wem",
+      "CachePath": "FB/{FB3563C5-0489-98DF-DCFB-2567B21112AA}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2893159405",
+      "Name": "bison_ambience",
+      "ObjectPath": "\\Events\\Animal\\Bison\\bison_ambience",
+      "GUID": "{853F9CE5-CF7B-4692-8C4E-FF1796EEAC67}",
+      "Color": "11",
+      "DurationType": "OneShot",
+      "DurationMin": "16.472675",
+      "DurationMax": "16.472675",
+      "MediaRefs": [
+       {
+        "Id": "335457409"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{945A71BF-3745-6BF0-1633-F9EA02030D0F}"
+ }
+}

@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3739308443	stop_amb_waterfall			\Ambience\Cave\stop_amb_waterfall	
+

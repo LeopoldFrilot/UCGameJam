@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "83797924",
+    "Type": "Event",
+    "GUID": "{7D31D9E7-B7B2-4D39-9E08-D12E771393E1}",
+    "Language": "SFX",
+    "Hash": "{56565AA0-29D8-602E-D7FB-44EB253FE54B}",
+    "ObjectPath": "puzzle_ui_complete",
+    "ShortName": "puzzle_ui_complete",
+    "Path": "Event/puzzle_ui_complete.bnk",
+    "Media": [
+     {
+      "Id": "447045558",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "ui_puzzle_complete.wav",
+      "Path": "Media/447045558.wem",
+      "CachePath": "22/{225D879A-E602-EE10-C565-3D333EA38AD7}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "83797924",
+      "Name": "puzzle_ui_complete",
+      "ObjectPath": "\\Events\\UI\\Puzzle\\Puzzle UI\\puzzle_ui_complete",
+      "GUID": "{7D31D9E7-B7B2-4D39-9E08-D12E771393E1}",
+      "Color": "14",
+      "DurationType": "OneShot",
+      "DurationMin": "1.6790704",
+      "DurationMax": "1.6790704",
+      "MediaRefs": [
+       {
+        "Id": "447045558"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{79FB8B5C-EDEC-63E8-BACA-4DB11CA32B46}"
+ }
+}

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{CACE4AF1-3FE4-4AC5-A6DC-44E89498311B}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Bison" ID="{CACE4AF1-3FE4-4AC5-A6DC-44E89498311B}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="bison_grunt" ID="{A2CCDAE7-1736-45D5-93A3-534BB7EBC273}">
+					<ChildrenList>
+						<Action Name="" ID="{9148E51D-8CD8-4294-8C52-82651A7BF4CC}" ShortID="23335701">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="bison_grunt_random" ID="{C1E25766-2CF4-4279-99C8-185397AE833B}" WorkUnitID="{95DC1AF7-0331-439E-A16A-CAF0207158D4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="bison_gurgle" ID="{BF997659-1ED4-46BD-8EFE-37B23082901D}">
+					<ChildrenList>
+						<Action Name="" ID="{D35A7ADF-7C2A-44D9-938E-2239C31E7D5B}" ShortID="473542570">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="bison_gurgle_random" ID="{8BD9041F-31A2-4D3E-87A8-F6475D7AF05A}" WorkUnitID="{95DC1AF7-0331-439E-A16A-CAF0207158D4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="bison_huff" ID="{23122119-9CBF-48B9-8452-C0B145062FFE}">
+					<ChildrenList>
+						<Action Name="" ID="{25E96B0E-3871-4DDE-B640-0A8BBC3A6141}" ShortID="63751555">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="bison_huff_random" ID="{77298DE4-1314-4C32-8185-EEA98A0D56B7}" WorkUnitID="{95DC1AF7-0331-439E-A16A-CAF0207158D4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="bison_ambience" ID="{853F9CE5-CF7B-4692-8C4E-FF1796EEAC67}">
+					<ChildrenList>
+						<Action Name="" ID="{2046590F-263C-40EB-B7DB-FC24B5F8A81E}" ShortID="182853484">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="bison_ambience_gurgle" ID="{3B8A2780-6E3A-49EC-A88F-3FFC95D60627}" WorkUnitID="{95DC1AF7-0331-439E-A16A-CAF0207158D4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

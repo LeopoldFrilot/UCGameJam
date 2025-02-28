@@ -1,0 +1,29 @@
+{
+ "ProjectInfo": {
+  "Project": {
+   "Name": "Test",
+   "GUID": "{C6B1CBB7-440F-4BCD-93AA-A47AEB1BDC7C}",
+   "Generator": "2024.1.2.8726"
+  },
+  "CacheRoot": "../.cache",
+  "Platforms": [
+   {
+    "Name": "Windows",
+    "GUID": "{16FCEAE8-7BDA-4042-9B1B-89BF0306CDCB}",
+    "BasePlatform": "Windows",
+    "BasePlatformGUID": "{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}",
+    "Path": "Windows"
+   }
+  ],
+  "Languages": [
+   {
+    "Name": "English(US)",
+    "Id": "684519430",
+    "GUID": "{903B7C53-6171-4AB8-82F9-3C654E94C075}",
+    "Default": "true",
+    "UseAsStandIn": "true"
+   }
+  ],
+  "FileHash": "{7BD68AE3-F342-8B66-9C63-AC4D6B0652A4}"
+ }
+}

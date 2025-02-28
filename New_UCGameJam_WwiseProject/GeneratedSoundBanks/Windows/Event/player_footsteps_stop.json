@@ -1,0 +1,34 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3212694729",
+    "Type": "Event",
+    "GUID": "{4B849602-0697-4BF4-BB4B-6A0103D8D9FE}",
+    "Language": "SFX",
+    "Hash": "{55E6FBD5-58C7-CB1B-AAFC-FA2AE40754AC}",
+    "ObjectPath": "player_footsteps_stop",
+    "ShortName": "player_footsteps_stop",
+    "Path": "Event/player_footsteps_stop.bnk",
+    "Events": [
+     {
+      "Id": "3212694729",
+      "Name": "player_footsteps_stop",
+      "ObjectPath": "\\Events\\PlayerCharacter\\Footsteps\\player_footsteps_stop",
+      "GUID": "{4B849602-0697-4BF4-BB4B-6A0103D8D9FE}",
+      "Color": "2",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{23778F24-8FCC-FE0F-087D-56491162ED25}"
+ }
+}

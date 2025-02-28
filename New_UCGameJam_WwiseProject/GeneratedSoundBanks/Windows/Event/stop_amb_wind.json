@@ -1,0 +1,34 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "4066078501",
+    "Type": "Event",
+    "GUID": "{350F005C-0C78-492A-B2CE-412F264EC4FE}",
+    "Language": "SFX",
+    "Hash": "{8E61EF5B-966F-4F3E-3B3C-0A0C699F65AF}",
+    "ObjectPath": "stop_amb_wind",
+    "ShortName": "stop_amb_wind",
+    "Path": "Event/stop_amb_wind.bnk",
+    "Events": [
+     {
+      "Id": "4066078501",
+      "Name": "stop_amb_wind",
+      "ObjectPath": "\\Events\\Ambience\\Mountain\\stop_amb_wind",
+      "GUID": "{350F005C-0C78-492A-B2CE-412F264EC4FE}",
+      "Color": "5",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{DBF8AB2C-589F-FBA2-2B43-2AE9E5AA2ACC}"
+ }
+}

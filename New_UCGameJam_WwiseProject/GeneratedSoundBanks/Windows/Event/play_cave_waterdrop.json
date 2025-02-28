@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2957092862",
+    "Type": "Event",
+    "GUID": "{34009E22-C9D0-4054-9C09-36BFB04D1D38}",
+    "Language": "SFX",
+    "Hash": "{AB11F2A7-B80C-C4E1-3B75-8828B4AE32E3}",
+    "ObjectPath": "play_cave_waterdrop",
+    "ShortName": "play_cave_waterdrop",
+    "Path": "Event/play_cave_waterdrop.bnk",
+    "Media": [
+     {
+      "Id": "798108893",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "amb_cave_waterdrop.wav",
+      "Path": "Media/798108893.wem",
+      "CachePath": "1D/{1D78E51D-905C-1C1C-A473-4B113106B3CD}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2957092862",
+      "Name": "play_cave_waterdrop",
+      "ObjectPath": "\\Events\\Ambience\\Cave\\play_cave_waterdrop",
+      "GUID": "{34009E22-C9D0-4054-9C09-36BFB04D1D38}",
+      "Color": "5",
+      "DurationType": "OneShot",
+      "DurationMin": "125.2439",
+      "DurationMax": "125.2439",
+      "MediaRefs": [
+       {
+        "Id": "798108893"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{7E41C67A-EC7F-9BB7-2350-BFAC4BF11B4F}"
+ }
+}
