@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{BFAB324D-9931-494E-A39F-8119FAEBFFA2}" SchemaVersion="123">
+	<States>
+		<WorkUnit Name="PlayerLocation" ID="{BFAB324D-9931-494E-A39F-8119FAEBFFA2}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="PlayerLocation" ID="{54DB8B78-6669-4F7A-8E4E-68021FC89D0E}">
+					<ChildrenList>
+						<State Name="None" ID="{CDDA5BDC-897A-4BCF-BFFA-9C0CD558F32A}"/>
+						<State Name="Forest" ID="{B4E61834-618C-4A08-8AA5-8F760A253E23}"/>
+						<State Name="Mountain" ID="{5992448F-A5BE-402B-A575-EDA7435F173C}"/>
+						<State Name="Town" ID="{C726951F-E173-4FE1-A938-DDD6131683B6}"/>
+						<State Name="Jungle" ID="{814E2D67-E510-4DBE-B8ED-AD67EE1A4DAE}"/>
+						<State Name="Cave" ID="{4AB6103F-35BC-4BDF-881C-3C3FFB8A7999}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>
