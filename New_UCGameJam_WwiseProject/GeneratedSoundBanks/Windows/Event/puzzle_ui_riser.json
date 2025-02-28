@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2043887064",
+    "Type": "Event",
+    "GUID": "{4110D13B-ADA7-43A3-A93A-058536CD83AB}",
+    "Language": "SFX",
+    "Hash": "{1732F296-E7C9-F9C6-B5B0-5467BB5F75EF}",
+    "ObjectPath": "puzzle_ui_riser",
+    "ShortName": "puzzle_ui_riser",
+    "Path": "Event/puzzle_ui_riser.bnk",
+    "Media": [
+     {
+      "Id": "315436906",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "ui_puzzle_riser.wav",
+      "Path": "Media/315436906.wem",
+      "CachePath": "F8/{F876CAC5-B576-C642-E430-37702A872658}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2043887064",
+      "Name": "puzzle_ui_riser",
+      "ObjectPath": "\\Events\\UI\\Puzzle\\Puzzle UI\\puzzle_ui_riser",
+      "GUID": "{4110D13B-ADA7-43A3-A93A-058536CD83AB}",
+      "Color": "14",
+      "DurationType": "OneShot",
+      "DurationMin": "1.7123129",
+      "DurationMax": "1.7123129",
+      "MediaRefs": [
+       {
+        "Id": "315436906"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{D9B0F3A5-8EC3-D148-B93F-5B5BA56F7DC0}"
+ }
+}

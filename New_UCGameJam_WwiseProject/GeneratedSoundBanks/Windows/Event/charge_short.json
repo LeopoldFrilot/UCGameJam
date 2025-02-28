@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "902233350",
+    "Type": "Event",
+    "GUID": "{F918E7B7-62B2-42EE-A59E-965652AC2BD9}",
+    "Language": "SFX",
+    "Hash": "{E7257E00-C499-208E-8231-C01EA1E56401}",
+    "ObjectPath": "charge_short",
+    "ShortName": "charge_short",
+    "Path": "Event/charge_short.bnk",
+    "Media": [
+     {
+      "Id": "368127174",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "charge_short.wav",
+      "Path": "Media/368127174.wem",
+      "CachePath": "2F/{2FBDC36D-D460-B1DC-8211-F382A26E4CAB}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "902233350",
+      "Name": "charge_short",
+      "ObjectPath": "\\Events\\PlayerCharacter\\Powers\\Charge\\charge_short",
+      "GUID": "{F918E7B7-62B2-42EE-A59E-965652AC2BD9}",
+      "Color": "2",
+      "DurationType": "OneShot",
+      "DurationMin": "0.27755103",
+      "DurationMax": "0.27755103",
+      "MediaRefs": [
+       {
+        "Id": "368127174"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{B7359433-679F-BE64-ED1F-373B2130D834}"
+ }
+}

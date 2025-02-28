@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	4235760645	player_footsteps_grass			\PlayerCharacter\Footsteps\player_footsteps_grass	
+

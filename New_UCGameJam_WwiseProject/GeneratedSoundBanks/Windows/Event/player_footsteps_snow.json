@@ -1,0 +1,73 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3753815576",
+    "Type": "Event",
+    "GUID": "{1C7D0621-CE1D-4BD4-81E3-6506B98BF3CC}",
+    "Language": "SFX",
+    "Hash": "{A21DE043-49A4-3BD1-68B9-F9485FA204D6}",
+    "ObjectPath": "player_footsteps_snow",
+    "ShortName": "player_footsteps_snow",
+    "Path": "Event/player_footsteps_snow.bnk",
+    "Media": [
+     {
+      "Id": "233849431",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "footstep_snow_03.wav",
+      "Path": "Media/233849431.wem",
+      "CachePath": "6D/{6DADFD7E-9863-E436-AC70-123850F843BD}.wem"
+     },
+     {
+      "Id": "558093593",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "footstep_snow_01.wav",
+      "Path": "Media/558093593.wem",
+      "CachePath": "48/{48F5FEF6-68DD-51F6-5228-166A3FB81AFF}.wem"
+     },
+     {
+      "Id": "788226638",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "footstep_snow_02.wav",
+      "Path": "Media/788226638.wem",
+      "CachePath": "30/{30D2DA5C-5B36-2643-57BB-E7B17E2FD079}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3753815576",
+      "Name": "player_footsteps_snow",
+      "ObjectPath": "\\Events\\PlayerCharacter\\Footsteps\\player_footsteps_snow",
+      "GUID": "{1C7D0621-CE1D-4BD4-81E3-6506B98BF3CC}",
+      "Color": "2",
+      "DurationType": "OneShot",
+      "DurationMin": "0.08702948",
+      "DurationMax": "0.17136054",
+      "MediaRefs": [
+       {
+        "Id": "233849431"
+       },
+       {
+        "Id": "558093593"
+       },
+       {
+        "Id": "788226638"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{D5592ECF-3071-2135-8464-A4DB52988867}"
+ }
+}

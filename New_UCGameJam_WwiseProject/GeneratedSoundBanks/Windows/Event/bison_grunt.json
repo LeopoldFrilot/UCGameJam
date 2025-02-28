@@ -1,0 +1,61 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "761374485",
+    "Type": "Event",
+    "GUID": "{A2CCDAE7-1736-45D5-93A3-534BB7EBC273}",
+    "Language": "SFX",
+    "Hash": "{B8260AA6-DAE9-98E3-37F0-B6188A234581}",
+    "ObjectPath": "bison_grunt",
+    "ShortName": "bison_grunt",
+    "Path": "Event/bison_grunt.bnk",
+    "Media": [
+     {
+      "Id": "28631675",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "bison_grunt_short.wav",
+      "Path": "Media/28631675.wem",
+      "CachePath": "5B/{5B2EBE77-96E7-1B6B-CC5E-0F2219D6A33B}.wem"
+     },
+     {
+      "Id": "513722874",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "bison_grunt_long.wav",
+      "Path": "Media/513722874.wem",
+      "CachePath": "25/{25FE7CDB-BC83-1508-0CF2-B2162A237C54}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "761374485",
+      "Name": "bison_grunt",
+      "ObjectPath": "\\Events\\Animal\\Bison\\bison_grunt",
+      "GUID": "{A2CCDAE7-1736-45D5-93A3-534BB7EBC273}",
+      "Color": "11",
+      "DurationType": "OneShot",
+      "DurationMin": "0.76800454",
+      "DurationMax": "1.0721996",
+      "MediaRefs": [
+       {
+        "Id": "28631675"
+       },
+       {
+        "Id": "513722874"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{807BFA42-FA62-B54A-72AA-7423218AC7A1}"
+ }
+}

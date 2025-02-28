@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3330898608	player_land_stone			\PlayerCharacter\Jump\player_land_stone	
+

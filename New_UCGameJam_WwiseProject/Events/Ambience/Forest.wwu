@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{BD9E815B-1B55-4D06-85E7-953A99D42C9D}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Forest" ID="{BD9E815B-1B55-4D06-85E7-953A99D42C9D}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="play_forest_amb" ID="{EEA5E64A-5058-426D-8998-9601E364C69B}">
+					<ChildrenList>
+						<Action Name="" ID="{4A695866-4686-46AE-8A49-39BE09FEAA37}" ShortID="757677447">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="amb_forest_day_calm" ID="{BA9C8D7F-CAE5-4709-8024-245CB880A832}" WorkUnitID="{2B98268B-C42F-4E72-9215-2C2F9B1DC947}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="stop_forest_amb" ID="{21F3A05A-9BFF-47F4-8BA6-67048F5F0D01}">
+					<ChildrenList>
+						<Action Name="" ID="{E39F27E7-F2E6-4878-9453-8C97357F37B4}" ShortID="557558018">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="amb_forest_day_calm" ID="{BA9C8D7F-CAE5-4709-8024-245CB880A832}" WorkUnitID="{2B98268B-C42F-4E72-9215-2C2F9B1DC947}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

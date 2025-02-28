@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "979951458",
+    "Type": "Event",
+    "GUID": "{F5FBB1D7-9ADD-4060-8CE5-5453A6BFE004}",
+    "Language": "SFX",
+    "Hash": "{B17C8A92-A42B-404A-79E4-8E992EC5F596}",
+    "ObjectPath": "player_doublejump",
+    "ShortName": "player_doublejump",
+    "Path": "Event/player_doublejump.bnk",
+    "Media": [
+     {
+      "Id": "314952522",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "player_doublejump.wav",
+      "Path": "Media/314952522.wem",
+      "CachePath": "0B/{0B6A94A4-1738-73E2-8E43-F3BB24E82C22}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "979951458",
+      "Name": "player_doublejump",
+      "ObjectPath": "\\Events\\PlayerCharacter\\Jump\\player_doublejump",
+      "GUID": "{F5FBB1D7-9ADD-4060-8CE5-5453A6BFE004}",
+      "Color": "2",
+      "DurationType": "OneShot",
+      "DurationMin": "0.49730158",
+      "DurationMax": "0.49730158",
+      "MediaRefs": [
+       {
+        "Id": "314952522"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{C19349DE-2326-9F88-C1D5-89348484F30E}"
+ }
+}

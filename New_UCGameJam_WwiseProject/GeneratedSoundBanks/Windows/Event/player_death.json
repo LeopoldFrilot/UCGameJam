@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3083087645",
+    "Type": "Event",
+    "GUID": "{0B872FDB-163D-458A-84FE-AA852391F9A5}",
+    "Language": "SFX",
+    "Hash": "{663CAEC1-28BA-AAF4-5D6B-AD3AE864AC42}",
+    "ObjectPath": "player_death",
+    "ShortName": "player_death",
+    "Path": "Event/player_death.bnk",
+    "Media": [
+     {
+      "Id": "223471696",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "player_death.wav",
+      "Path": "Media/223471696.wem",
+      "CachePath": "76/{767D29EC-F691-BC37-9CCE-B01B08D51574}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3083087645",
+      "Name": "player_death",
+      "ObjectPath": "\\Events\\PlayerCharacter\\Death Damage Respawn\\player_death",
+      "GUID": "{0B872FDB-163D-458A-84FE-AA852391F9A5}",
+      "Color": "2",
+      "DurationType": "OneShot",
+      "DurationMin": "0.6034694",
+      "DurationMax": "0.6034694",
+      "MediaRefs": [
+       {
+        "Id": "223471696"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{8322DFB4-162D-9B6E-C41C-E6FBE7B99705}"
+ }
+}

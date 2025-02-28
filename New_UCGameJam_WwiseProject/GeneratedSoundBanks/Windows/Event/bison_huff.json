@@ -1,0 +1,61 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2558921632",
+    "Type": "Event",
+    "GUID": "{23122119-9CBF-48B9-8452-C0B145062FFE}",
+    "Language": "SFX",
+    "Hash": "{5B1E5C01-183D-DCB8-4B7F-1D3882637506}",
+    "ObjectPath": "bison_huff",
+    "ShortName": "bison_huff",
+    "Path": "Event/bison_huff.bnk",
+    "Media": [
+     {
+      "Id": "471706306",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "bison_huff_02.wav",
+      "Path": "Media/471706306.wem",
+      "CachePath": "95/{95E9B449-1539-749B-3095-6CA6CC594C9A}.wem"
+     },
+     {
+      "Id": "678321147",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "bison_huff_01.wav",
+      "Path": "Media/678321147.wem",
+      "CachePath": "01/{0148D3F0-E926-C1CF-4C51-AA452C6FDD23}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2558921632",
+      "Name": "bison_huff",
+      "ObjectPath": "\\Events\\Animal\\Bison\\bison_huff",
+      "GUID": "{23122119-9CBF-48B9-8452-C0B145062FFE}",
+      "Color": "11",
+      "DurationType": "OneShot",
+      "DurationMin": "0.6826757",
+      "DurationMax": "0.7893424",
+      "MediaRefs": [
+       {
+        "Id": "471706306"
+       },
+       {
+        "Id": "678321147"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{713359A6-D933-11BF-0BC5-0606405CC7DE}"
+ }
+}

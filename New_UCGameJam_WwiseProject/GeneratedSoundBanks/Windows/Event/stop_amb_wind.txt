@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	4066078501	stop_amb_wind			\Ambience\Mountain\stop_amb_wind	
+

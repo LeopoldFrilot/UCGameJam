@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1006912679	fox_yip_engage			\Animal\Fox\fox_yip_engage	
+

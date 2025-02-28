@@ -1,0 +1,34 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3739308443",
+    "Type": "Event",
+    "GUID": "{14D402F0-300B-431C-8845-460A1D0A0536}",
+    "Language": "SFX",
+    "Hash": "{896FC2C7-17D4-6156-AF7B-6591C2ED6ABA}",
+    "ObjectPath": "stop_amb_waterfall",
+    "ShortName": "stop_amb_waterfall",
+    "Path": "Event/stop_amb_waterfall.bnk",
+    "Events": [
+     {
+      "Id": "3739308443",
+      "Name": "stop_amb_waterfall",
+      "ObjectPath": "\\Events\\Ambience\\Cave\\stop_amb_waterfall",
+      "GUID": "{14D402F0-300B-431C-8845-460A1D0A0536}",
+      "Color": "5",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{1C976E07-80FC-80FD-50C2-4A43A79844F7}"
+ }
+}

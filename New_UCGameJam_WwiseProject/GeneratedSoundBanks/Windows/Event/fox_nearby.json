@@ -1,0 +1,61 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1803285434",
+    "Type": "Event",
+    "GUID": "{053C3F5E-DAC4-4F6E-A59C-969DCCC53735}",
+    "Language": "SFX",
+    "Hash": "{209C598C-BA97-D165-A5F4-C949EF79E3F4}",
+    "ObjectPath": "fox_nearby",
+    "ShortName": "fox_nearby",
+    "Path": "Event/fox_nearby.bnk",
+    "Media": [
+     {
+      "Id": "435222983",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "fox_yip_nearby.wav",
+      "Path": "Media/435222983.wem",
+      "CachePath": "9D/{9D675F69-DBEF-6544-3E8B-8DD9BFC1875E}.wem"
+     },
+     {
+      "Id": "1019843319",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "fox_nearby_02.wav",
+      "Path": "Media/1019843319.wem",
+      "CachePath": "3A/{3A4A75E4-29CB-BF05-333D-D3984190BFB4}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1803285434",
+      "Name": "fox_nearby",
+      "ObjectPath": "\\Events\\Animal\\Fox\\fox_nearby",
+      "GUID": "{053C3F5E-DAC4-4F6E-A59C-969DCCC53735}",
+      "Color": "11",
+      "DurationType": "OneShot",
+      "DurationMin": "0.33333334",
+      "DurationMax": "0.58603173",
+      "MediaRefs": [
+       {
+        "Id": "435222983"
+       },
+       {
+        "Id": "1019843319"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{7ACC507F-7642-B725-061E-30EE8DD3F742}"
+ }
+}

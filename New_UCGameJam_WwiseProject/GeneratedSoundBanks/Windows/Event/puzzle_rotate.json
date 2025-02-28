@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3831517885",
+    "Type": "Event",
+    "GUID": "{2BF40288-AF45-4F0A-98E7-B81B8F676B0A}",
+    "Language": "SFX",
+    "Hash": "{52570D73-7FB3-4A35-D665-4C1DF5E97D98}",
+    "ObjectPath": "puzzle_rotate",
+    "ShortName": "puzzle_rotate",
+    "Path": "Event/puzzle_rotate.bnk",
+    "Media": [
+     {
+      "Id": "39171247",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "puzzle_rotate.wav",
+      "Path": "Media/39171247.wem",
+      "CachePath": "65/{659D7BE0-FF0F-343B-E5B3-24B5B663D871}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3831517885",
+      "Name": "puzzle_rotate",
+      "ObjectPath": "\\Events\\UI\\Puzzle\\Puzzle Interact\\puzzle_rotate",
+      "GUID": "{2BF40288-AF45-4F0A-98E7-B81B8F676B0A}",
+      "Color": "14",
+      "DurationType": "OneShot",
+      "DurationMin": "0.14340135",
+      "DurationMax": "0.14340135",
+      "MediaRefs": [
+       {
+        "Id": "39171247"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{6281F88E-5B65-54CC-7421-4A13B6B1B867}"
+ }
+}

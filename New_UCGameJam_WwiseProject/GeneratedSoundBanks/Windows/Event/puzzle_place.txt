@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2759968617	puzzle_place			\UI\Puzzle\Puzzle Interact\puzzle_place	
+

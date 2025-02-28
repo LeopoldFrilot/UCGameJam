@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1883978790",
+    "Type": "Event",
+    "GUID": "{08D4F9A1-8A79-48C6-8860-127A1A1408BB}",
+    "Language": "SFX",
+    "Hash": "{F8B36159-D494-4D34-E9A1-2EBF0DD20543}",
+    "ObjectPath": "charge_impact",
+    "ShortName": "charge_impact",
+    "Path": "Event/charge_impact.bnk",
+    "Media": [
+     {
+      "Id": "499184537",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "charge_impact.wav",
+      "Path": "Media/499184537.wem",
+      "CachePath": "B4/{B469327F-5B76-555D-6A99-62CEF66FD9DD}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1883978790",
+      "Name": "charge_impact",
+      "ObjectPath": "\\Events\\PlayerCharacter\\Powers\\Charge\\charge_impact",
+      "GUID": "{08D4F9A1-8A79-48C6-8860-127A1A1408BB}",
+      "Color": "2",
+      "DurationType": "OneShot",
+      "DurationMin": "1.3151474",
+      "DurationMax": "1.3151474",
+      "MediaRefs": [
+       {
+        "Id": "499184537"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{56C428DF-6BF1-024D-9791-64D7FEEC8499}"
+ }
+}

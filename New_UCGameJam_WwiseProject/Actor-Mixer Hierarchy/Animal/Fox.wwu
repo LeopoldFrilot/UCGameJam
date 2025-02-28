@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{D93332F8-4429-439E-8AC4-2881989C2ECB}" SchemaVersion="123">
+	<AudioObjects>
+		<WorkUnit Name="Fox" ID="{D93332F8-4429-439E-8AC4-2881989C2ECB}" PersistMode="Standalone">
+			<ChildrenList>
+				<RandomSequenceContainer Name="fox_nearby_random" ID="{177C881D-FF81-44A2-AA9E-532FE12C48D9}" ShortID="317844700">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="fox_nearby_02" ID="{E9B9B4F1-8D9C-4184-9029-569A544424EB}" ShortID="199698189">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="fox_nearby_02" ID="{7B30137C-C736-4C8C-82A9-6219CB6EFCC3}">
+									<Language>SFX</Language>
+									<AudioFile>fox_nearby_02.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="1019843319"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="fox_nearby_02" ID="{7B30137C-C736-4C8C-82A9-6219CB6EFCC3}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="fox_yip_nearby" ID="{E708AEF7-A1E6-4EC8-985F-019A0710D38A}" ShortID="256734352">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="fox_yip_nearby" ID="{98D9D5C4-5F5C-4F97-A03F-FA550822E948}">
+									<Language>SFX</Language>
+									<AudioFile>fox_yip_nearby.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="435222983"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="fox_yip_nearby" ID="{98D9D5C4-5F5C-4F97-A03F-FA550822E948}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</RandomSequenceContainer>
+				<RandomSequenceContainer Name="fox_yip_engage_random" ID="{A10ACB08-8C09-45B9-ACA2-7FCFD28FEE50}" ShortID="122510300">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="fox_yip_engage_01" ID="{8442C217-FC7E-43A7-A643-BD33D4721C9C}" ShortID="281561394">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="fox_yip_engage_01" ID="{D630623B-8886-4E7E-ADDD-67FB5EBA2F44}">
+									<Language>SFX</Language>
+									<AudioFile>fox_yip_engage_01.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="440459425"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="fox_yip_engage_01" ID="{D630623B-8886-4E7E-ADDD-67FB5EBA2F44}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="fox_yip_engage_02" ID="{FB2CB376-FB04-4A62-B01A-6AA501595FA3}" ShortID="445142881">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="fox_yip_engage_02" ID="{3B30FF85-3A56-42EE-93A3-36D349C6FA6E}">
+									<Language>SFX</Language>
+									<AudioFile>fox_yip_engage_02.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="922935822"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="fox_yip_engage_02" ID="{3B30FF85-3A56-42EE-93A3-36D349C6FA6E}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</RandomSequenceContainer>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

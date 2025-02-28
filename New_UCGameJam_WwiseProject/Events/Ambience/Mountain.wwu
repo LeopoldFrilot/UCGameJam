@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{578F11AD-D3FC-4166-B17D-18AC9B6FCD23}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Mountain" ID="{578F11AD-D3FC-4166-B17D-18AC9B6FCD23}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="play_amb_wind" ID="{F6FAB784-AEF9-486D-8E47-A69A6D423F7C}">
+					<ChildrenList>
+						<Action Name="" ID="{524E0FA3-69C4-4E25-ACAA-3B9BE718B0DC}" ShortID="598638749">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="wind randomizer" ID="{518CD1A7-349E-468F-862F-44B6CE893E47}" WorkUnitID="{2DFFEBBA-3ED9-45D0-89E8-88874A84DC3D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="stop_amb_wind" ID="{350F005C-0C78-492A-B2CE-412F264EC4FE}">
+					<ChildrenList>
+						<Action Name="" ID="{EEB19F05-A699-49A2-8494-E850EA3500D5}" ShortID="511853330">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="wind randomizer" ID="{518CD1A7-349E-468F-862F-44B6CE893E47}" WorkUnitID="{2DFFEBBA-3ED9-45D0-89E8-88874A84DC3D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

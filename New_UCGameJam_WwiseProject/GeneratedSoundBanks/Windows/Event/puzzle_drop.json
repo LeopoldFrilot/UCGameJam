@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1387265495",
+    "Type": "Event",
+    "GUID": "{615EE5E7-9000-4226-8BA1-C7239095AC3A}",
+    "Language": "SFX",
+    "Hash": "{0C0F415E-42E2-62A7-55AA-FA31E3D7453C}",
+    "ObjectPath": "puzzle_drop",
+    "ShortName": "puzzle_drop",
+    "Path": "Event/puzzle_drop.bnk",
+    "Media": [
+     {
+      "Id": "789951716",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "puzzle_drop.wav",
+      "Path": "Media/789951716.wem",
+      "CachePath": "E2/{E29EF9D2-1FB5-018A-939B-2DBE60DB34F7}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1387265495",
+      "Name": "puzzle_drop",
+      "ObjectPath": "\\Events\\UI\\Puzzle\\Puzzle Interact\\puzzle_drop",
+      "GUID": "{615EE5E7-9000-4226-8BA1-C7239095AC3A}",
+      "Color": "14",
+      "DurationType": "OneShot",
+      "DurationMin": "0.18816327",
+      "DurationMax": "0.18816327",
+      "MediaRefs": [
+       {
+        "Id": "789951716"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{DB98C574-606E-703B-6108-01B292E74A7E}"
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3437939768",
+    "Type": "Event",
+    "GUID": "{4033963C-18D4-49E2-856E-5EFBD15ED5AE}",
+    "Language": "SFX",
+    "Hash": "{B904AF3B-2E82-0183-018D-2604DCAD749F}",
+    "ObjectPath": "player_land_snow",
+    "ShortName": "player_land_snow",
+    "Path": "Event/player_land_snow.bnk",
+    "Media": [
+     {
+      "Id": "463900695",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "jump_land_snow_01.wav",
+      "Path": "Media/463900695.wem",
+      "CachePath": "22/{2271CBAD-94D4-23D2-58D3-E4ADD7E88198}.wem"
+     },
+     {
+      "Id": "649626039",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "jump_land_snow_02.wav",
+      "Path": "Media/649626039.wem",
+      "CachePath": "45/{455D3C38-55D2-8381-E2DF-000E71B24BFF}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3437939768",
+      "Name": "player_land_snow",
+      "ObjectPath": "\\Events\\PlayerCharacter\\Jump\\player_land_snow",
+      "GUID": "{4033963C-18D4-49E2-856E-5EFBD15ED5AE}",
+      "Color": "2",
+      "DurationType": "OneShot",
+      "DurationMin": "0.12600908",
+      "DurationMax": "0.24428572",
+      "MediaRefs": [
+       {
+        "Id": "463900695"
+       },
+       {
+        "Id": "649626039"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{4E93AF96-FFED-C0C3-9817-DFC65384EB4D}"
+ }
+}

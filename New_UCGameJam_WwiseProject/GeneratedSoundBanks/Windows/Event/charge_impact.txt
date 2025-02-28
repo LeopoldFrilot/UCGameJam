@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1883978790	charge_impact			\PlayerCharacter\Powers\Charge\charge_impact	
+

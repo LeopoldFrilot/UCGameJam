@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{1E1753F0-D00A-4536-A850-AB7844928B57}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Puzzle UI" ID="{1E1753F0-D00A-4536-A850-AB7844928B57}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="puzzle_ui_complete" ID="{7D31D9E7-B7B2-4D39-9E08-D12E771393E1}">
+					<ChildrenList>
+						<Action Name="" ID="{40709481-D36E-4A2C-B9F4-E642712360C1}" ShortID="920618006">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ui_puzzle_complete" ID="{F78C4C0C-9980-4A59-8ABB-30277F41D92D}" WorkUnitID="{3AA314F3-8D09-42D4-B2EE-64A13D028A97}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="puzzle_ui_lastpiece" ID="{5A396842-982F-4D36-BDC4-5B54C6360421}">
+					<ChildrenList>
+						<Action Name="" ID="{F5D08B14-6010-4A37-B16C-43451EF28773}" ShortID="402432604">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ui_puzzle_last_piece" ID="{61FBF4FE-1EB6-4A65-8C98-7A10B0D509D5}" WorkUnitID="{3AA314F3-8D09-42D4-B2EE-64A13D028A97}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="puzzle_ui_riser" ID="{4110D13B-ADA7-43A3-A93A-058536CD83AB}">
+					<ChildrenList>
+						<Action Name="" ID="{14AF9BC4-EFCE-4869-A83D-0863DA47C991}" ShortID="80593911">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ui_puzzle_riser" ID="{6D3BF71D-A07E-4471-9E6C-8AD64148C9B8}" WorkUnitID="{3AA314F3-8D09-42D4-B2EE-64A13D028A97}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
