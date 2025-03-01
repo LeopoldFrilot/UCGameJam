@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{CA020838-B5AF-49D9-A433-7DA858A415A2}" SchemaVersion="123">
+	<AudioObjects>
+		<WorkUnit Name="Fox" ID="{CA020838-B5AF-49D9-A433-7DA858A415A2}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="1_2_1_Fox" ID="{326B1987-07D6-4C80-BFE1-032CFECAA169}" ShortID="759113735">
+					<PropertyList>
+						<Property Name="Highpass" Type="int16">
+							<ValueList>
+								<Value>24</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="1_2_1_Fox" ID="{4B81E0E9-75FC-42A4-9188-5908CB50C6A1}">
+							<Language>SFX</Language>
+							<AudioFile>1_2_1_Fox.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="1006552458"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="1_2_1_Fox" ID="{4B81E0E9-75FC-42A4-9188-5908CB50C6A1}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="1_2_Fox" ID="{3580550F-5C0B-4076-BDEC-87E40CAFE790}" ShortID="714441768">
+					<PropertyList>
+						<Property Name="Highpass" Type="int16">
+							<ValueList>
+								<Value>24</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="1_2_Fox" ID="{11A1B31F-C37E-444F-928E-8A9D70AA5B6A}">
+							<Language>SFX</Language>
+							<AudioFile>1_2_Fox.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="171892990"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="1_2_Fox" ID="{11A1B31F-C37E-444F-928E-8A9D70AA5B6A}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="1_3_Fox" ID="{A5A68B91-2FD2-4875-9BE7-D6EAB69916BC}" ShortID="358957891">
+					<PropertyList>
+						<Property Name="Highpass" Type="int16">
+							<ValueList>
+								<Value>24</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="1_3_Fox" ID="{71B35AF0-F408-4B9E-8D5D-EC5F656E8F4F}">
+							<Language>SFX</Language>
+							<AudioFile>1_3_Fox.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="363460137"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="1_3_Fox" ID="{71B35AF0-F408-4B9E-8D5D-EC5F656E8F4F}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="1_4_Fox" ID="{4A035F24-0D01-4C90-93B7-206CE200BDB3}" ShortID="398119173">
+					<PropertyList>
+						<Property Name="Highpass" Type="int16">
+							<ValueList>
+								<Value>24</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="1_4_Fox" ID="{13954969-172D-474C-A8C9-95AC95866A8B}">
+							<Language>SFX</Language>
+							<AudioFile>1_4_Fox.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="913294837"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="1_4_Fox" ID="{13954969-172D-474C-A8C9-95AC95866A8B}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="1_5_Fox_v2" ID="{BCA3AFAD-3017-4313-A8F0-34A84420BF52}" ShortID="756469705">
+					<PropertyList>
+						<Property Name="Highpass" Type="int16">
+							<ValueList>
+								<Value>24</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="1_5_Fox_v2" ID="{01B5C40F-5D84-4A55-BAAF-C045E878D20D}">
+							<Language>SFX</Language>
+							<AudioFile>1_5_Fox_v2.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="828109632"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="1_5_Fox_v2" ID="{01B5C40F-5D84-4A55-BAAF-C045E878D20D}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="1_6_Fox" ID="{404C1EEB-D05B-48B3-8A6F-6007E511DF34}" ShortID="310611826">
+					<PropertyList>
+						<Property Name="Highpass" Type="int16">
+							<ValueList>
+								<Value>24</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="1_6_Fox" ID="{7447C7AB-094E-4C8F-9C8E-17489463C4CB}">
+							<Language>SFX</Language>
+							<AudioFile>1_6_Fox.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="595181852"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="1_6_Fox" ID="{7447C7AB-094E-4C8F-9C8E-17489463C4CB}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="1_7_Fox_v2-01" ID="{9C4546AB-85F0-4C59-8CFC-280C39DD4810}" ShortID="277316759">
+					<PropertyList>
+						<Property Name="Highpass" Type="int16">
+							<ValueList>
+								<Value>24</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="1_7_Fox_v2-01" ID="{DC6211E2-80B1-41C6-AC23-1C4051FEF14F}">
+							<Language>SFX</Language>
+							<AudioFile>1_7_Fox_v2-01.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="47601215"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="1_7_Fox_v2-01" ID="{DC6211E2-80B1-41C6-AC23-1C4051FEF14F}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="1_8_Fox_v2" ID="{23353DD5-A6B3-4EB7-B477-64E97524C2E2}" ShortID="585135800">
+					<PropertyList>
+						<Property Name="Highpass" Type="int16">
+							<ValueList>
+								<Value>24</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="1_8_Fox_v2" ID="{2BE86A38-5BCF-44D8-9E4E-AA5A476021CD}">
+							<Language>SFX</Language>
+							<AudioFile>1_8_Fox_v2.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="566477344"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="1_8_Fox_v2" ID="{2BE86A38-5BCF-44D8-9E4E-AA5A476021CD}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="1_9_Fox" ID="{853817C5-153B-420D-91C8-48BE69A45BFD}" ShortID="1044928233">
+					<PropertyList>
+						<Property Name="Highpass" Type="int16">
+							<ValueList>
+								<Value>24</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="1_9_Fox" ID="{91C39619-3820-4BD5-B086-1CDA6B08E19C}">
+							<Language>SFX</Language>
+							<AudioFile>1_9_Fox.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="1045923952"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="1_9_Fox" ID="{91C39619-3820-4BD5-B086-1CDA6B08E19C}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

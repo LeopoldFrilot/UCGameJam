@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{F2A64222-7368-441C-A9B7-C7197B698AEA}" SchemaVersion="123">
+	<States>
+		<WorkUnit Name="Music" ID="{F2A64222-7368-441C-A9B7-C7197B698AEA}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="Music" ID="{CD7FC1E3-6020-47DF-9423-1FFB07883C65}">
+					<ChildrenList>
+						<State Name="None" ID="{763BB4F8-6A69-4A4A-BA7E-689C27CCC096}"/>
+						<State Name="Forest" ID="{54D35C41-B9C8-43A1-8099-8DFB30889CDD}"/>
+						<State Name="Cave" ID="{6556E929-13C7-405E-BEFB-E563A3CAC5F9}"/>
+						<State Name="Jungle" ID="{CF811D55-321A-4729-A57A-EFE30DD5E136}"/>
+						<State Name="Town" ID="{0E2B60FB-9971-467F-912C-EFA8B68745D2}"/>
+						<State Name="MainTheme" ID="{DBE18F8F-0CE3-4FE1-A875-0E2F2BB6E821}"/>
+						<State Name="Tutorial" ID="{D7626B15-70C6-43FA-A975-6B007193ABF8}"/>
+						<State Name="Finale" ID="{6289CC72-7C89-4FED-A08F-B488E8248315}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

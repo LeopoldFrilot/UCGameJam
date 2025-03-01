@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="Project" SchemaVersion="123" WwiseVersion="v2024.1.2" WwiseBuild="8726">
 	<ProjectInfo>
-		<Project Name="Test" ID="{C6B1CBB7-440F-4BCD-93AA-A47AEB1BDC7C}">
+		<Project Name="New_UCGameJam_WwiseProject" ID="{C6B1CBB7-440F-4BCD-93AA-A47AEB1BDC7C}">
 			<Platforms>
 				<Platform Name="Windows" ReferencePlatform="Windows" ID="{16FCEAE8-7BDA-4042-9B1B-89BF0306CDCB}"/>
 			</Platforms>
@@ -11639,6 +11639,14 @@
 				<PhysicalFolder Path="Actor-Mixer Hierarchy\Animal\Turtle">
 					<WorkUnit Name="Turtle" ID="{B83721AF-0F40-4A00-BE60-03EDADB0CC40}" PersistMode="Standalone"/>
 				</PhysicalFolder>
+				<PhysicalFolder Path="Actor-Mixer Hierarchy\Dialogue">
+					<WorkUnit Name="Dialogue" ID="{536765CF-F436-41AF-99AC-F07B776619C0}" PersistMode="Standalone">
+						<PropertyList>
+							<Property Name="Color" Type="int16" Value="19"/>
+							<Property Name="OverrideColor" Type="bool" Value="True"/>
+						</PropertyList>
+					</WorkUnit>
+				</PhysicalFolder>
 				<PhysicalFolder Path="Actor-Mixer Hierarchy\Player Character">
 					<WorkUnit Name="Player Character" ID="{824CA52B-93F8-45E6-A33A-A7369C27FBA6}" PersistMode="Standalone">
 						<PropertyList>
@@ -11688,6 +11696,14 @@
 					<WorkUnit Name="Animal" ID="{9E93BD43-CD2B-449A-B29B-35E7129E637F}" PersistMode="Standalone">
 						<PropertyList>
 							<Property Name="Color" Type="int16" Value="11"/>
+							<Property Name="OverrideColor" Type="bool" Value="True"/>
+						</PropertyList>
+					</WorkUnit>
+				</PhysicalFolder>
+				<PhysicalFolder Path="Events\Dialogue">
+					<WorkUnit Name="Dialogue" ID="{3FD6CABC-B95A-462D-87E8-E8FFFA8F5AE5}" PersistMode="Standalone">
+						<PropertyList>
+							<Property Name="Color" Type="int16" Value="19"/>
 							<Property Name="OverrideColor" Type="bool" Value="True"/>
 						</PropertyList>
 					</WorkUnit>

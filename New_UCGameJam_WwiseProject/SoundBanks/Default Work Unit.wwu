@@ -3,7 +3,12 @@
 	<SoundBanks>
 		<WorkUnit Name="Default Work Unit" ID="{C1B7EC36-1CC0-4C36-8A21-78236C5AD289}" PersistMode="Standalone">
 			<ChildrenList>
-				<Folder Name="Ambience" ID="{F5622EAA-0307-4DCA-99E6-AB6B60E607D5}" ShortID="1043168541"/>
+				<Folder Name="Ambience" ID="{F5622EAA-0307-4DCA-99E6-AB6B60E607D5}" ShortID="1043168541">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="18"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Folder>
 			</ChildrenList>
 		</WorkUnit>
 	</SoundBanks>

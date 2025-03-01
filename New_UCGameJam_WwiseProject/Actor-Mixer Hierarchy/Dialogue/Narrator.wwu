@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{04200D87-8A79-4466-A745-3F0C9CA8CF6A}" SchemaVersion="123">
+	<AudioObjects>
+		<WorkUnit Name="Narrator" ID="{04200D87-8A79-4466-A745-3F0C9CA8CF6A}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="0_0_Narrator" ID="{D7FDAF77-1B17-4658-A436-857D0C903BA1}" ShortID="67070421">
+					<PropertyList>
+						<Property Name="Highpass" Type="int16">
+							<ValueList>
+								<Value>24</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="0_0_Narrator" ID="{7C32280E-8800-443A-AF52-89FE6ACF7917}">
+							<Language>SFX</Language>
+							<AudioFile>0_0_Narrator.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="214005479"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="0_0_Narrator" ID="{7C32280E-8800-443A-AF52-89FE6ACF7917}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="0_1_Narrator" ID="{6B7FC1B6-6571-4B75-B1F8-EEFDE8EC46A2}" ShortID="347676679">
+					<PropertyList>
+						<Property Name="Highpass" Type="int16">
+							<ValueList>
+								<Value>24</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="0_1_Narrator" ID="{B33BD179-25C2-4E4C-A8B1-08D7A930AFED}">
+							<Language>SFX</Language>
+							<AudioFile>0_1_Narrator.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="539875233"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="0_1_Narrator" ID="{B33BD179-25C2-4E4C-A8B1-08D7A930AFED}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="0_2_Narrator" ID="{2B474113-FF16-40A5-A52B-694CB3135F5D}" ShortID="861746143">
+					<PropertyList>
+						<Property Name="Highpass" Type="int16">
+							<ValueList>
+								<Value>24</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="0_2_Narrator" ID="{2C15A52B-C316-46DC-BB7A-68B870AF9125}">
+							<Language>SFX</Language>
+							<AudioFile>0_2_Narrator.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="761258168"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="0_2_Narrator" ID="{2C15A52B-C316-46DC-BB7A-68B870AF9125}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="0_3_Narrator" ID="{BDC3C845-F359-47AA-847F-591DF2CC74A5}" ShortID="773178454">
+					<PropertyList>
+						<Property Name="Highpass" Type="int16">
+							<ValueList>
+								<Value>24</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="0_3_Narrator" ID="{D06FE722-C98D-4ABD-BB3C-29B1E5CB77BF}">
+							<Language>SFX</Language>
+							<AudioFile>0_3_Narrator.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="217084657"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="0_3_Narrator" ID="{D06FE722-C98D-4ABD-BB3C-29B1E5CB77BF}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="0_4_Narrator" ID="{25E2B961-9E0B-43A1-AA4A-9D7778650A8B}" ShortID="1021404761">
+					<PropertyList>
+						<Property Name="Highpass" Type="int16">
+							<ValueList>
+								<Value>24</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="0_4_Narrator" ID="{5AF87E06-7AAB-4487-B7A5-7260B830C966}">
+							<Language>SFX</Language>
+							<AudioFile>0_4_Narrator.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="214614485"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="0_4_Narrator" ID="{5AF87E06-7AAB-4487-B7A5-7260B830C966}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="1_0_Narrator" ID="{34C9319E-A7AA-49E4-ADAB-AB0537FB17D8}" ShortID="685673003">
+					<PropertyList>
+						<Property Name="Highpass" Type="int16">
+							<ValueList>
+								<Value>24</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="1_0_Narrator" ID="{36AA97A0-8733-4D3F-A9B8-1B02E86A9368}">
+							<Language>SFX</Language>
+							<AudioFile>1_0_Narrator.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="475456649"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="1_0_Narrator" ID="{36AA97A0-8733-4D3F-A9B8-1B02E86A9368}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="1_1_Narrator" ID="{9BB057A0-5C8E-4A5D-A3F1-A6C0EE155B2D}" ShortID="166498631">
+					<PropertyList>
+						<Property Name="Highpass" Type="int16">
+							<ValueList>
+								<Value>24</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="1_1_Narrator" ID="{A11EEFA8-C62A-449C-81C8-A9A6C94179B8}">
+							<Language>SFX</Language>
+							<AudioFile>1_1_Narrator.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="645129789"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="1_1_Narrator" ID="{A11EEFA8-C62A-449C-81C8-A9A6C94179B8}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="1_10_Narrator" ID="{06FB1EB3-A608-435F-A064-B148A0870326}" ShortID="378003477">
+					<PropertyList>
+						<Property Name="Highpass" Type="int16">
+							<ValueList>
+								<Value>24</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="1_10_Narrator" ID="{BD2813A4-32CD-4FBF-A7FB-6E02323BFC05}">
+							<Language>SFX</Language>
+							<AudioFile>1_10_Narrator.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="752160773"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="1_10_Narrator" ID="{BD2813A4-32CD-4FBF-A7FB-6E02323BFC05}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="2_1_Graham" ID="{CDFBCBC6-CF26-4EC0-A461-43006666B3C5}" ShortID="192470222">
+					<PropertyList>
+						<Property Name="Highpass" Type="int16">
+							<ValueList>
+								<Value>24</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="2_1_Graham" ID="{D16E2F61-AF4D-4068-967D-D1E6A0995D02}">
+							<Language>SFX</Language>
+							<AudioFile>2_1_Graham.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="607584112"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="2_1_Graham" ID="{D16E2F61-AF4D-4068-967D-D1E6A0995D02}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="3_0_Narrator_v2-01" ID="{DED30A39-89BA-4628-B593-8AFA24897B9B}" ShortID="487327716">
+					<PropertyList>
+						<Property Name="Highpass" Type="int16">
+							<ValueList>
+								<Value>24</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="3_0_Narrator_v2-01" ID="{F0DD4036-BD55-4177-97AA-3361550077EB}">
+							<Language>SFX</Language>
+							<AudioFile>3_0_Narrator_v2-01.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="973373941"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="3_0_Narrator_v2-01" ID="{F0DD4036-BD55-4177-97AA-3361550077EB}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="3_5_Graham" ID="{0D59E3A4-B953-403F-9EA7-06652EF863BB}" ShortID="181695124">
+					<PropertyList>
+						<Property Name="Highpass" Type="int16">
+							<ValueList>
+								<Value>24</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="3_5_Graham" ID="{872D426E-3638-44D8-B84F-43A847C27B3B}">
+							<Language>SFX</Language>
+							<AudioFile>3_5_Graham.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="154961850"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="3_5_Graham" ID="{872D426E-3638-44D8-B84F-43A847C27B3B}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="3_9_Narrator-02" ID="{ECB193CA-5842-45AA-B5CB-C64E830C7C8F}" ShortID="219191657">
+					<PropertyList>
+						<Property Name="Highpass" Type="int16">
+							<ValueList>
+								<Value>24</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="3_9_Narrator-02" ID="{04B21BF2-E434-4613-B04C-350552AC889D}">
+							<Language>SFX</Language>
+							<AudioFile>3_9_Narrator-02.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="237394583"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="3_9_Narrator-02" ID="{04B21BF2-E434-4613-B04C-350552AC889D}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="4_0_Narrator" ID="{89B4B7BD-D5D9-4296-B52E-C7B80E486F21}" ShortID="839027160">
+					<PropertyList>
+						<Property Name="Highpass" Type="int16">
+							<ValueList>
+								<Value>24</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="4_0_Narrator" ID="{D04D864D-9173-4231-86CE-D497B7E152F4}">
+							<Language>SFX</Language>
+							<AudioFile>4_0_Narrator.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="823422991"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="4_0_Narrator" ID="{D04D864D-9173-4231-86CE-D497B7E152F4}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="4_1_0_Narrator" ID="{BB156D28-C38C-40F5-ADE4-322175A15A61}" ShortID="210729924">
+					<PropertyList>
+						<Property Name="Highpass" Type="int16">
+							<ValueList>
+								<Value>24</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="4_1_0_Narrator" ID="{424B2112-70EE-480B-886B-01176225D7EA}">
+							<Language>SFX</Language>
+							<AudioFile>4_1_0_Narrator.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="734745326"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="4_1_0_Narrator" ID="{424B2112-70EE-480B-886B-01176225D7EA}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="4_2_Narrator-01" ID="{698B0F20-CC40-4A00-A450-BBB8D36076D4}" ShortID="393357200">
+					<PropertyList>
+						<Property Name="Highpass" Type="int16">
+							<ValueList>
+								<Value>24</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="4_2_Narrator-01" ID="{7B3C8101-090F-4F82-B1B4-F511E9D34854}">
+							<Language>SFX</Language>
+							<AudioFile>4_2_Narrator-01.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="497908382"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="4_2_Narrator-01" ID="{7B3C8101-090F-4F82-B1B4-F511E9D34854}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="5_0_Narrator" ID="{6B749544-C206-4E14-949A-DA1AA9A1B3C3}" ShortID="268706489">
+					<PropertyList>
+						<Property Name="Highpass" Type="int16">
+							<ValueList>
+								<Value>24</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="5_0_Narrator" ID="{8720297A-1679-425B-B330-BC58C772195E}">
+							<Language>SFX</Language>
+							<AudioFile>5_0_Narrator.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="128498064"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="5_0_Narrator" ID="{8720297A-1679-425B-B330-BC58C772195E}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="5_2_Narrator" ID="{6537BA65-EC8D-46CC-BA0C-3FDD67F2BCAA}" ShortID="389612801">
+					<PropertyList>
+						<Property Name="Highpass" Type="int16">
+							<ValueList>
+								<Value>24</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="5_2_Narrator" ID="{894C19D0-1B92-4958-8290-5722F4312ED3}">
+							<Language>SFX</Language>
+							<AudioFile>5_2_Narrator.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="92075825"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="5_2_Narrator" ID="{894C19D0-1B92-4958-8290-5722F4312ED3}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="5_3_Narrator-01" ID="{C37124C4-86BB-445A-AD98-67FA6BB2EF60}" ShortID="146370483">
+					<PropertyList>
+						<Property Name="Highpass" Type="int16">
+							<ValueList>
+								<Value>24</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="5_3_Narrator-01" ID="{306A448C-F690-4B6E-9B86-3898F5331C05}">
+							<Language>SFX</Language>
+							<AudioFile>5_3_Narrator-01.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="275598533"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="5_3_Narrator-01" ID="{306A448C-F690-4B6E-9B86-3898F5331C05}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="5_4_Narrator" ID="{7FEA112C-AE72-4FC8-9EAF-A9E79A6B0E7C}" ShortID="625767612">
+					<PropertyList>
+						<Property Name="Highpass" Type="int16">
+							<ValueList>
+								<Value>24</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="5_4_Narrator" ID="{A71CC419-371B-4C90-9F40-3EAE3134113C}">
+							<Language>SFX</Language>
+							<AudioFile>5_4_Narrator.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="811817258"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="5_4_Narrator" ID="{A71CC419-371B-4C90-9F40-3EAE3134113C}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="5_5_Narrator" ID="{C305B6C1-598D-4B61-9811-79227A70E424}" ShortID="412556478">
+					<PropertyList>
+						<Property Name="Highpass" Type="int16">
+							<ValueList>
+								<Value>24</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="5_5_Narrator" ID="{047E6E44-B3C4-495D-99C9-8CB945237C61}">
+							<Language>SFX</Language>
+							<AudioFile>5_5_Narrator.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="39359039"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="5_5_Narrator" ID="{047E6E44-B3C4-495D-99C9-8CB945237C61}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
