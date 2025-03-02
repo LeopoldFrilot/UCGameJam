@@ -1,0 +1,34 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2947508833",
+    "Type": "Event",
+    "GUID": "{5B80B480-F066-4C5B-9D60-7AE648F69E8D}",
+    "Language": "SFX",
+    "Hash": "{7CD57704-1786-75E9-FDB6-63118976E830}",
+    "ObjectPath": "setstate_junglebase",
+    "ShortName": "setstate_junglebase",
+    "Path": "Event/setstate_junglebase.bnk",
+    "Events": [
+     {
+      "Id": "2947508833",
+      "Name": "setstate_junglebase",
+      "ObjectPath": "\\Events\\Music\\Set State Events\\setstate_junglebase",
+      "GUID": "{5B80B480-F066-4C5B-9D60-7AE648F69E8D}",
+      "Color": "16",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{2C60CCD6-D2EE-4CED-FDB1-AFCF86D9BE1A}"
+ }
+}

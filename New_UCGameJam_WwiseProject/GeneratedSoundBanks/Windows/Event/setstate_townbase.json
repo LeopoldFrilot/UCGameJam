@@ -1,0 +1,34 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "56367454",
+    "Type": "Event",
+    "GUID": "{634FB98D-6394-40AE-9801-FBA9EE6D2722}",
+    "Language": "SFX",
+    "Hash": "{F48CBB6B-DCF3-FCD6-8342-64A386883E83}",
+    "ObjectPath": "setstate_townbase",
+    "ShortName": "setstate_townbase",
+    "Path": "Event/setstate_townbase.bnk",
+    "Events": [
+     {
+      "Id": "56367454",
+      "Name": "setstate_townbase",
+      "ObjectPath": "\\Events\\Music\\Set State Events\\setstate_townbase",
+      "GUID": "{634FB98D-6394-40AE-9801-FBA9EE6D2722}",
+      "Color": "11",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{1FC25AA2-6E9D-6169-4021-DEF3F5DB4C81}"
+ }
+}

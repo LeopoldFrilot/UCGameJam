@@ -1,0 +1,34 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3704537177",
+    "Type": "Event",
+    "GUID": "{B31389FD-13DE-4FA3-838B-1AFA4838BB5C}",
+    "Language": "SFX",
+    "Hash": "{56CFA86C-C58C-4484-E068-0F8DFE347ADC}",
+    "ObjectPath": "setstate_forestbase",
+    "ShortName": "setstate_forestbase",
+    "Path": "Event/setstate_forestbase.bnk",
+    "Events": [
+     {
+      "Id": "3704537177",
+      "Name": "setstate_forestbase",
+      "ObjectPath": "\\Events\\Music\\Set State Events\\setstate_forestbase",
+      "GUID": "{B31389FD-13DE-4FA3-838B-1AFA4838BB5C}",
+      "Color": "4",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{B6BB9F4E-9B9B-FAF5-5741-6425BB3ADED9}"
+ }
+}

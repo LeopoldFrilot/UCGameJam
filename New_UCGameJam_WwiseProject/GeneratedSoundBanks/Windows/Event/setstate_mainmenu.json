@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2304933343",
+    "Type": "Event",
+    "GUID": "{8A28759C-A932-4660-8556-5190FFC11199}",
+    "Language": "SFX",
+    "Hash": "{34D4EE63-34E7-3F77-56DA-339D53AC7BDD}",
+    "ObjectPath": "setstate_mainmenu",
+    "ShortName": "setstate_mainmenu",
+    "Path": "Event/setstate_mainmenu.bnk",
+    "Events": [
+     {
+      "Id": "2304933343",
+      "Name": "setstate_mainmenu",
+      "ObjectPath": "\\Events\\Music\\Set State Events\\setstate_mainmenu",
+      "GUID": "{8A28759C-A932-4660-8556-5190FFC11199}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{EE3C2057-1FF1-FDCE-A72C-B0AC3DB6C97C}"
+ }
+}

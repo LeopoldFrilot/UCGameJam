@@ -1,29 +1,29 @@
 State Group	ID	Name			Wwise Object Path	Notes
-	1256434419	Music_Environments			\Music\Music_Environments	
+	1447980276	Music_EnvironmentStateGroup			\Music\Music_EnvironmentStateGroup	
 
 State	ID	Name	State Group			Notes
-	194580953	ForestBase_Bison	Music_Environments			
-	286395037	JungleBase	Music_Environments			
-	500737996	MountainBase_Turtle	Music_Environments			
-	569714735	ForestBase_End	Music_Environments			
-	586100606	TownBase_Bison	Music_Environments			
-	688641135	MountainBase	Music_Environments			
-	699082574	JungleBase_Turtle	Music_Environments			
-	748895195	None	Music_Environments			
-	971182938	CaveAmbience	Music_Environments			
-	1044481740	Keyhole	Music_Environments			
-	1089968087	ForestBase_Fox	Music_Environments			
-	1410155337	JungleBase_Bison	Music_Environments			
-	1525389319	JungleBase_Fox	Music_Environments			
-	2266067251	TownBase_Turtle	Music_Environments			
-	2361562093	ForestBase	Music_Environments			
-	2455225329	FinaleMusic	Music_Environments			
-	2590592578	TownBase	Music_Environments			
-	2917641631	MountainBase_Bison	Music_Environments			
-	3500157790	ForestBase_Turtle	Music_Environments			
-	3604647259	MainMenu	Music_Environments			
-	3713964256	TownBase_Fox	Music_Environments			
-	4162693989	MountainBase_Fox	Music_Environments			
+	194580953	ForestBase_Bison	Music_EnvironmentStateGroup			
+	286395037	JungleBase	Music_EnvironmentStateGroup			
+	500737996	MountainBase_Turtle	Music_EnvironmentStateGroup			
+	569714735	ForestBase_End	Music_EnvironmentStateGroup			
+	586100606	TownBase_Bison	Music_EnvironmentStateGroup			
+	688641135	MountainBase	Music_EnvironmentStateGroup			
+	699082574	JungleBase_Turtle	Music_EnvironmentStateGroup			
+	748895195	None	Music_EnvironmentStateGroup			
+	971182938	CaveAmbience	Music_EnvironmentStateGroup			
+	1044481740	Keyhole	Music_EnvironmentStateGroup			
+	1089968087	ForestBase_Fox	Music_EnvironmentStateGroup			
+	1410155337	JungleBase_Bison	Music_EnvironmentStateGroup			
+	1525389319	JungleBase_Fox	Music_EnvironmentStateGroup			
+	2266067251	TownBase_Turtle	Music_EnvironmentStateGroup			
+	2361562093	ForestBase	Music_EnvironmentStateGroup			
+	2455225329	FinaleMusic	Music_EnvironmentStateGroup			
+	2590592578	TownBase	Music_EnvironmentStateGroup			
+	2917641631	MountainBase_Bison	Music_EnvironmentStateGroup			
+	3500157790	ForestBase_Turtle	Music_EnvironmentStateGroup			
+	3604647259	MainMenu	Music_EnvironmentStateGroup			
+	3713964256	TownBase_Fox	Music_EnvironmentStateGroup			
+	4162693989	MountainBase_Fox	Music_EnvironmentStateGroup			
 
 Game Parameter	ID	Name			Wwise Object Path	Notes
 	504532776	Brick			\Factory Acoustic Textures\Textures\Brick	

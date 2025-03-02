@@ -1,0 +1,34 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3671522768",
+    "Type": "Event",
+    "GUID": "{234A03C8-842A-4024-BF06-7D6EF2BCA70D}",
+    "Language": "SFX",
+    "Hash": "{8CDE369A-35C6-909E-2133-48837D0A28F0}",
+    "ObjectPath": "setstate_mountainbase_turtle",
+    "ShortName": "setstate_mountainbase_turtle",
+    "Path": "Event/setstate_mountainbase_turtle.bnk",
+    "Events": [
+     {
+      "Id": "3671522768",
+      "Name": "setstate_mountainbase_turtle",
+      "ObjectPath": "\\Events\\Music\\Set State Events\\setstate_mountainbase_turtle",
+      "GUID": "{234A03C8-842A-4024-BF06-7D6EF2BCA70D}",
+      "Color": "2",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{E7279E8D-5D21-DDD9-3CBE-E007F218C09B}"
+ }
+}

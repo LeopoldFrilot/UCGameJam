@@ -1,0 +1,34 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "986122898",
+    "Type": "Event",
+    "GUID": "{5BCB1FCC-8478-4305-84EA-DF5AF30FFBFF}",
+    "Language": "SFX",
+    "Hash": "{6256C7AB-8FFF-7691-5C37-4A41432B1B2E}",
+    "ObjectPath": "setstate_townbase_bison",
+    "ShortName": "setstate_townbase_bison",
+    "Path": "Event/setstate_townbase_bison.bnk",
+    "Events": [
+     {
+      "Id": "986122898",
+      "Name": "setstate_townbase_bison",
+      "ObjectPath": "\\Events\\Music\\Set State Events\\setstate_townbase_bison",
+      "GUID": "{5BCB1FCC-8478-4305-84EA-DF5AF30FFBFF}",
+      "Color": "11",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{A651FCB3-600D-0D44-0CC6-1BC05117BC85}"
+ }
+}
