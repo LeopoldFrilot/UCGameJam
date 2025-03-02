@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{E625BD56-1C2E-42E6-840A-2FAE604C7FB5}" SchemaVersion="123">
+	<GameParameters>
+		<WorkUnit Name="Music Layer Control" ID="{E625BD56-1C2E-42E6-840A-2FAE604C7FB5}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="Music_Proximity" ID="{81DBE1A9-C6FE-4B58-9B9F-457481EEF51E}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

@@ -1,7 +1,7 @@
 {
  "ProjectInfo": {
   "Project": {
-   "Name": "Test",
+   "Name": "New_UCGameJam_WwiseProject",
    "GUID": "{C6B1CBB7-440F-4BCD-93AA-A47AEB1BDC7C}",
    "Generator": "2024.1.2.8726"
   },
@@ -24,6 +24,6 @@
     "UseAsStandIn": "true"
    }
   ],
-  "FileHash": "{7BD68AE3-F342-8B66-9C63-AC4D6B0652A4}"
+  "FileHash": "{6FE6772F-0AA8-E084-ABEE-3DF883F292DD}"
  }
 }

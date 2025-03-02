@@ -1,0 +1,895 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "270170587",
+    "Type": "Event",
+    "GUID": "{074E3CC7-7AF3-4C95-A8B0-AB908437B9A0}",
+    "Language": "SFX",
+    "Hash": "{6007500D-1052-B062-07F0-3084B9B4DA91}",
+    "ObjectPath": "play_environmentalmusicswitch",
+    "ShortName": "play_environmentalmusicswitch",
+    "Path": "Event/play_environmentalmusicswitch.bnk",
+    "Media": [
+     {
+      "Id": "61125819",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MainTheme_120_P1_38M.wav",
+      "Path": "Media/61125819.wem",
+      "CachePath": "5F/{5FFB19CC-FA04-AC97-E064-076E01F86C40}.wem"
+     },
+     {
+      "Id": "188272564",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Bison_Jungle_220_60M.wav",
+      "Path": "Media/188272564.wem",
+      "CachePath": "BB/{BBD0F00C-9CCC-15A9-A8F5-6E7C5601D83B}.wem"
+     },
+     {
+      "Id": "236092955",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "CaveAmbience_120_2M.wav",
+      "Path": "Media/236092955.wem",
+      "CachePath": "3E/{3E61C82E-B124-0E8E-36DC-B289AC2990CC}.wem"
+     },
+     {
+      "Id": "268249401",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Turtle_Town_70_P1_M42.wav",
+      "Path": "Media/268249401.wem",
+      "CachePath": "77/{770A6FB2-4DB0-46B1-FB4E-1A6BABFF44BB}.wem"
+     },
+     {
+      "Id": "353757325",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FinalGauntlet_145_50M.wav",
+      "Path": "Media/353757325.wem",
+      "CachePath": "D8/{D869C827-9F8B-7054-CB7A-49A4E58901F8}.wem"
+     },
+     {
+      "Id": "355898398",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Turtle_Jungle_220_60M.wav",
+      "Path": "Media/355898398.wem",
+      "CachePath": "4B/{4B56A9AE-C42E-CBEA-72EF-CEF1C9FFFF88}.wem"
+     },
+     {
+      "Id": "362199500",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Turtle_Forest_90_P1_23M.wav",
+      "Path": "Media/362199500.wem",
+      "CachePath": "18/{18368309-EC62-325F-029D-D7BAA0AC9434}.wem"
+     },
+     {
+      "Id": "389945573",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Fox_Mountain_180_P1_M57.wav",
+      "Path": "Media/389945573.wem",
+      "CachePath": "9F/{9FA2C7D8-A96D-90F2-254D-AD2C6CB5EBB3}.wem"
+     },
+     {
+      "Id": "553835786",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Base_Town_70_P1_M42.wav",
+      "Path": "Media/553835786.wem",
+      "CachePath": "A2/{A296CA3D-0434-E950-980B-AF354EE94F24}.wem"
+     },
+     {
+      "Id": "561426790",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Fox_Forest_90_P1_23M.wav",
+      "Path": "Media/561426790.wem",
+      "CachePath": "A0/{A024A86C-5427-EFCA-DDA0-9FAA1FA2B5DA}.wem"
+     },
+     {
+      "Id": "654732009",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Base_Mountain_180_P1_M57.wav",
+      "Path": "Media/654732009.wem",
+      "CachePath": "8C/{8C393569-61B5-803F-3045-718BDA7A0AC7}.wem"
+     },
+     {
+      "Id": "672658935",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Endgame_Forest_90_P1_23M.wav",
+      "Path": "Media/672658935.wem",
+      "CachePath": "FC/{FC010B61-417E-C9B0-5D06-13607C0F2192}.wem"
+     },
+     {
+      "Id": "720517380",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Bison_Town_70_P1_M42.wav",
+      "Path": "Media/720517380.wem",
+      "CachePath": "D1/{D18ED2BA-4878-84B2-A5F6-5D74AD1C6D16}.wem"
+     },
+     {
+      "Id": "737404590",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Bison_Mountain_180_P1_M57.wav",
+      "Path": "Media/737404590.wem",
+      "CachePath": "6C/{6C0675C3-A8C3-8931-C624-C094895B249B}.wem"
+     },
+     {
+      "Id": "832757559",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "BaseForm_Jungle_220_60M.wav",
+      "Path": "Media/832757559.wem",
+      "CachePath": "F8/{F8FC344C-AEB2-13DB-5BBF-F48E6564A75F}.wem"
+     },
+     {
+      "Id": "896261069",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Turtle_Mountain_180_P1_M57.wav",
+      "Path": "Media/896261069.wem",
+      "CachePath": "10/{107D2464-411A-03C3-6F51-5BD4C334204C}.wem"
+     },
+     {
+      "Id": "897119248",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Base_Forest_90_P1_23M.wav",
+      "Path": "Media/897119248.wem",
+      "CachePath": "DB/{DB3ECA47-2F00-5C7D-46C8-13BFB9296721}.wem"
+     },
+     {
+      "Id": "961251536",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Keyhole_120_3M.wav",
+      "Path": "Media/961251536.wem",
+      "CachePath": "DA/{DAC00D67-B498-06F5-524B-7F6512EF09C7}.wem"
+     },
+     {
+      "Id": "971490900",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Fox_Jungle_220_60M.wav",
+      "Path": "Media/971490900.wem",
+      "CachePath": "3D/{3DCB9D0E-46A6-30BA-FC74-44A6B592BCD2}.wem"
+     },
+     {
+      "Id": "1010437247",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Bison_Forest_90_P1_23M.wav",
+      "Path": "Media/1010437247.wem",
+      "CachePath": "F9/{F9DA77AA-666D-2A56-C99C-2F1B5A0A9E16}.wem"
+     },
+     {
+      "Id": "1061003077",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Fox_Town_70_P1_M42.wav",
+      "Path": "Media/1061003077.wem",
+      "CachePath": "2D/{2DA4CB0B-6154-F483-A173-49821C0D5F73}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "270170587",
+      "Name": "play_environmentalmusicswitch",
+      "ObjectPath": "\\Events\\Music\\play_environmentalmusicswitch",
+      "GUID": "{074E3CC7-7AF3-4C95-A8B0-AB908437B9A0}",
+      "DurationType": "Infinite",
+      "SwitchContainers": [
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2173313951",
+         "Id": "0",
+         "GUID": "{8D0DA2C6-2587-4817-B1D8-35575BD5C938}"
+        },
+        "Children": [
+         {
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "1256434419",
+           "Id": "2455225329",
+           "GUID": "{D6344B9F-7C0D-44F0-8B9D-6AFEE3E07932}",
+           "Color": "10"
+          },
+          "MediaRefs": [
+           {
+            "Id": "353757325"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2173313951",
+         "Id": "0",
+         "GUID": "{8D0DA2C6-2587-4817-B1D8-35575BD5C938}"
+        },
+        "Children": [
+         {
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "1256434419",
+           "Id": "2361562093",
+           "GUID": "{07D21ACC-51A1-434D-AE5C-108D00FEDA09}",
+           "Color": "4"
+          },
+          "MediaRefs": [
+           {
+            "Id": "897119248"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2173313951",
+         "Id": "0",
+         "GUID": "{8D0DA2C6-2587-4817-B1D8-35575BD5C938}"
+        },
+        "Children": [
+         {
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "1256434419",
+           "Id": "194580953",
+           "GUID": "{C5A07BAB-A6AF-43B7-96A9-CAE64612F92E}",
+           "Color": "4"
+          },
+          "MediaRefs": [
+           {
+            "Id": "1010437247"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2173313951",
+         "Id": "0",
+         "GUID": "{8D0DA2C6-2587-4817-B1D8-35575BD5C938}"
+        },
+        "Children": [
+         {
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "1256434419",
+           "Id": "569714735",
+           "GUID": "{C16F2E5C-9975-4D8D-85FF-07F759CF1EC4}",
+           "Color": "4"
+          },
+          "MediaRefs": [
+           {
+            "Id": "672658935"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2173313951",
+         "Id": "0",
+         "GUID": "{8D0DA2C6-2587-4817-B1D8-35575BD5C938}"
+        },
+        "Children": [
+         {
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "1256434419",
+           "Id": "1089968087",
+           "GUID": "{61C5AF21-66DB-4DD7-AA83-05C8DF586D8B}",
+           "Color": "4"
+          },
+          "MediaRefs": [
+           {
+            "Id": "561426790"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2173313951",
+         "Id": "0",
+         "GUID": "{8D0DA2C6-2587-4817-B1D8-35575BD5C938}"
+        },
+        "Children": [
+         {
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "1256434419",
+           "Id": "3500157790",
+           "GUID": "{1BC9AD93-FE55-49D0-8120-4F79794ABAB0}",
+           "Color": "4"
+          },
+          "MediaRefs": [
+           {
+            "Id": "362199500"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2173313951",
+         "Id": "0",
+         "GUID": "{8D0DA2C6-2587-4817-B1D8-35575BD5C938}"
+        },
+        "Children": [
+         {
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "1256434419",
+           "Id": "286395037",
+           "GUID": "{3F19BEF5-2225-4441-B99D-E3D699F2DB07}",
+           "Color": "3"
+          },
+          "MediaRefs": [
+           {
+            "Id": "832757559"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2173313951",
+         "Id": "0",
+         "GUID": "{8D0DA2C6-2587-4817-B1D8-35575BD5C938}"
+        },
+        "Children": [
+         {
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "1256434419",
+           "Id": "1410155337",
+           "GUID": "{28818769-27DA-431B-A13A-CE47075C8832}",
+           "Color": "3"
+          },
+          "MediaRefs": [
+           {
+            "Id": "188272564"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2173313951",
+         "Id": "0",
+         "GUID": "{8D0DA2C6-2587-4817-B1D8-35575BD5C938}"
+        },
+        "Children": [
+         {
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "1256434419",
+           "Id": "1525389319",
+           "GUID": "{4E646FB4-9045-4BC2-B82A-4A059C90311C}",
+           "Color": "3"
+          },
+          "MediaRefs": [
+           {
+            "Id": "971490900"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2173313951",
+         "Id": "0",
+         "GUID": "{8D0DA2C6-2587-4817-B1D8-35575BD5C938}"
+        },
+        "Children": [
+         {
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "1256434419",
+           "Id": "699082574",
+           "GUID": "{49383394-9483-4AA4-AD5F-0CB3CBC0214D}",
+           "Color": "3"
+          },
+          "MediaRefs": [
+           {
+            "Id": "355898398"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2173313951",
+         "Id": "0",
+         "GUID": "{8D0DA2C6-2587-4817-B1D8-35575BD5C938}"
+        },
+        "Children": [
+         {
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "1256434419",
+           "Id": "3604647259",
+           "GUID": "{49663F9C-544C-4D62-BF74-7A098007C833}"
+          },
+          "MediaRefs": [
+           {
+            "Id": "61125819"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2173313951",
+         "Id": "0",
+         "GUID": "{8D0DA2C6-2587-4817-B1D8-35575BD5C938}"
+        },
+        "Children": [
+         {
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "1256434419",
+           "Id": "688641135",
+           "GUID": "{7DCF93FF-23EA-4F0D-B102-73DBCC22D7C6}",
+           "Color": "15"
+          },
+          "MediaRefs": [
+           {
+            "Id": "654732009"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2173313951",
+         "Id": "0",
+         "GUID": "{8D0DA2C6-2587-4817-B1D8-35575BD5C938}"
+        },
+        "Children": [
+         {
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "1256434419",
+           "Id": "2917641631",
+           "GUID": "{64E12E63-3905-409B-9FC7-0A413715C1CC}",
+           "Color": "15"
+          },
+          "MediaRefs": [
+           {
+            "Id": "737404590"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2173313951",
+         "Id": "0",
+         "GUID": "{8D0DA2C6-2587-4817-B1D8-35575BD5C938}"
+        },
+        "Children": [
+         {
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "1256434419",
+           "Id": "4162693989",
+           "GUID": "{18FD7022-212D-4647-B526-6DB2AE6CD99C}",
+           "Color": "15"
+          },
+          "MediaRefs": [
+           {
+            "Id": "389945573"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2173313951",
+         "Id": "0",
+         "GUID": "{8D0DA2C6-2587-4817-B1D8-35575BD5C938}"
+        },
+        "Children": [
+         {
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "1256434419",
+           "Id": "500737996",
+           "GUID": "{CC3ADEFF-DFE7-4614-89D7-8E4D55AF5E8A}",
+           "Color": "15"
+          },
+          "MediaRefs": [
+           {
+            "Id": "896261069"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2173313951",
+         "Id": "0",
+         "GUID": "{8D0DA2C6-2587-4817-B1D8-35575BD5C938}"
+        },
+        "Children": [
+         {
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "1256434419",
+           "Id": "2590592578",
+           "GUID": "{A65C2056-783B-4ACB-A5E3-0BB71E583959}",
+           "Color": "25"
+          },
+          "MediaRefs": [
+           {
+            "Id": "553835786"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2173313951",
+         "Id": "0",
+         "GUID": "{8D0DA2C6-2587-4817-B1D8-35575BD5C938}"
+        },
+        "Children": [
+         {
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "1256434419",
+           "Id": "586100606",
+           "GUID": "{C4049E83-4394-4412-A6F7-A3D81FC07236}",
+           "Color": "25"
+          },
+          "MediaRefs": [
+           {
+            "Id": "720517380"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2173313951",
+         "Id": "0",
+         "GUID": "{8D0DA2C6-2587-4817-B1D8-35575BD5C938}"
+        },
+        "Children": [
+         {
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "1256434419",
+           "Id": "3713964256",
+           "GUID": "{971D81F9-7159-43F8-B594-242CB88CEDB6}",
+           "Color": "25"
+          },
+          "MediaRefs": [
+           {
+            "Id": "1061003077"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2173313951",
+         "Id": "0",
+         "GUID": "{8D0DA2C6-2587-4817-B1D8-35575BD5C938}"
+        },
+        "Children": [
+         {
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "1256434419",
+           "Id": "2266067251",
+           "GUID": "{418CBF5D-3462-4448-917A-25E6D4E1C765}",
+           "Color": "25"
+          },
+          "MediaRefs": [
+           {
+            "Id": "268249401"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2173313951",
+         "Id": "0",
+         "GUID": "{8D0DA2C6-2587-4817-B1D8-35575BD5C938}"
+        },
+        "Children": [
+         {
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "1256434419",
+           "Id": "971182938",
+           "GUID": "{AFA0840F-1882-44FB-A285-B8CE49DD6B4C}"
+          },
+          "MediaRefs": [
+           {
+            "Id": "236092955"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2173313951",
+         "Id": "0",
+         "GUID": "{8D0DA2C6-2587-4817-B1D8-35575BD5C938}"
+        },
+        "Children": [
+         {
+          "SwitchValue": {
+           "GroupType": "State",
+           "GroupId": "1256434419",
+           "Id": "1044481740",
+           "GUID": "{FD805E68-8988-4184-81F5-E11CBF7DAC7F}",
+           "Color": "7"
+          },
+          "MediaRefs": [
+           {
+            "Id": "961251536"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "StateGroups": [
+     {
+      "Id": "1256434419",
+      "Name": "Music_Environments",
+      "ObjectPath": "\\States\\Music\\Music_Environments",
+      "GUID": "{8AC3F24B-AD6B-4B10-BA7C-A388A8A129DE}",
+      "States": [
+       {
+        "Id": "194580953",
+        "Name": "ForestBase_Bison",
+        "ObjectPath": "\\States\\Music\\Music_Environments\\ForestBase_Bison",
+        "GUID": "{C5A07BAB-A6AF-43B7-96A9-CAE64612F92E}",
+        "Color": "4"
+       },
+       {
+        "Id": "286395037",
+        "Name": "JungleBase",
+        "ObjectPath": "\\States\\Music\\Music_Environments\\JungleBase",
+        "GUID": "{3F19BEF5-2225-4441-B99D-E3D699F2DB07}",
+        "Color": "3"
+       },
+       {
+        "Id": "500737996",
+        "Name": "MountainBase_Turtle",
+        "ObjectPath": "\\States\\Music\\Music_Environments\\MountainBase_Turtle",
+        "GUID": "{CC3ADEFF-DFE7-4614-89D7-8E4D55AF5E8A}",
+        "Color": "15"
+       },
+       {
+        "Id": "569714735",
+        "Name": "ForestBase_End",
+        "ObjectPath": "\\States\\Music\\Music_Environments\\ForestBase_End",
+        "GUID": "{C16F2E5C-9975-4D8D-85FF-07F759CF1EC4}",
+        "Color": "4"
+       },
+       {
+        "Id": "586100606",
+        "Name": "TownBase_Bison",
+        "ObjectPath": "\\States\\Music\\Music_Environments\\TownBase_Bison",
+        "GUID": "{C4049E83-4394-4412-A6F7-A3D81FC07236}",
+        "Color": "25"
+       },
+       {
+        "Id": "688641135",
+        "Name": "MountainBase",
+        "ObjectPath": "\\States\\Music\\Music_Environments\\MountainBase",
+        "GUID": "{7DCF93FF-23EA-4F0D-B102-73DBCC22D7C6}",
+        "Color": "15"
+       },
+       {
+        "Id": "699082574",
+        "Name": "JungleBase_Turtle",
+        "ObjectPath": "\\States\\Music\\Music_Environments\\JungleBase_Turtle",
+        "GUID": "{49383394-9483-4AA4-AD5F-0CB3CBC0214D}",
+        "Color": "3"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Music\\Music_Environments\\None",
+        "GUID": "{0BCD0DCC-B1E7-40B2-8697-145998FF0B8C}"
+       },
+       {
+        "Id": "971182938",
+        "Name": "CaveAmbience",
+        "ObjectPath": "\\States\\Music\\Music_Environments\\CaveAmbience",
+        "GUID": "{AFA0840F-1882-44FB-A285-B8CE49DD6B4C}"
+       },
+       {
+        "Id": "1044481740",
+        "Name": "Keyhole",
+        "ObjectPath": "\\States\\Music\\Music_Environments\\Keyhole",
+        "GUID": "{FD805E68-8988-4184-81F5-E11CBF7DAC7F}",
+        "Color": "7"
+       },
+       {
+        "Id": "1089968087",
+        "Name": "ForestBase_Fox",
+        "ObjectPath": "\\States\\Music\\Music_Environments\\ForestBase_Fox",
+        "GUID": "{61C5AF21-66DB-4DD7-AA83-05C8DF586D8B}",
+        "Color": "4"
+       },
+       {
+        "Id": "1410155337",
+        "Name": "JungleBase_Bison",
+        "ObjectPath": "\\States\\Music\\Music_Environments\\JungleBase_Bison",
+        "GUID": "{28818769-27DA-431B-A13A-CE47075C8832}",
+        "Color": "3"
+       },
+       {
+        "Id": "1525389319",
+        "Name": "JungleBase_Fox",
+        "ObjectPath": "\\States\\Music\\Music_Environments\\JungleBase_Fox",
+        "GUID": "{4E646FB4-9045-4BC2-B82A-4A059C90311C}",
+        "Color": "3"
+       },
+       {
+        "Id": "2266067251",
+        "Name": "TownBase_Turtle",
+        "ObjectPath": "\\States\\Music\\Music_Environments\\TownBase_Turtle",
+        "GUID": "{418CBF5D-3462-4448-917A-25E6D4E1C765}",
+        "Color": "25"
+       },
+       {
+        "Id": "2361562093",
+        "Name": "ForestBase",
+        "ObjectPath": "\\States\\Music\\Music_Environments\\ForestBase",
+        "GUID": "{07D21ACC-51A1-434D-AE5C-108D00FEDA09}",
+        "Color": "4"
+       },
+       {
+        "Id": "2455225329",
+        "Name": "FinaleMusic",
+        "ObjectPath": "\\States\\Music\\Music_Environments\\FinaleMusic",
+        "GUID": "{D6344B9F-7C0D-44F0-8B9D-6AFEE3E07932}",
+        "Color": "10"
+       },
+       {
+        "Id": "2590592578",
+        "Name": "TownBase",
+        "ObjectPath": "\\States\\Music\\Music_Environments\\TownBase",
+        "GUID": "{A65C2056-783B-4ACB-A5E3-0BB71E583959}",
+        "Color": "25"
+       },
+       {
+        "Id": "2917641631",
+        "Name": "MountainBase_Bison",
+        "ObjectPath": "\\States\\Music\\Music_Environments\\MountainBase_Bison",
+        "GUID": "{64E12E63-3905-409B-9FC7-0A413715C1CC}",
+        "Color": "15"
+       },
+       {
+        "Id": "3500157790",
+        "Name": "ForestBase_Turtle",
+        "ObjectPath": "\\States\\Music\\Music_Environments\\ForestBase_Turtle",
+        "GUID": "{1BC9AD93-FE55-49D0-8120-4F79794ABAB0}",
+        "Color": "4"
+       },
+       {
+        "Id": "3604647259",
+        "Name": "MainMenu",
+        "ObjectPath": "\\States\\Music\\Music_Environments\\MainMenu",
+        "GUID": "{49663F9C-544C-4D62-BF74-7A098007C833}"
+       },
+       {
+        "Id": "3713964256",
+        "Name": "TownBase_Fox",
+        "ObjectPath": "\\States\\Music\\Music_Environments\\TownBase_Fox",
+        "GUID": "{971D81F9-7159-43F8-B594-242CB88CEDB6}",
+        "Color": "25"
+       },
+       {
+        "Id": "4162693989",
+        "Name": "MountainBase_Fox",
+        "ObjectPath": "\\States\\Music\\Music_Environments\\MountainBase_Fox",
+        "GUID": "{18FD7022-212D-4647-B526-6DB2AE6CD99C}",
+        "Color": "15"
+       }
+      ]
+     }
+    ],
+    "SwitchGroups": [
+     {
+      "Id": "2173313951",
+      "Name": "ForestMusic_SwitchGroup",
+      "ObjectPath": "\\Switches\\Default Work Unit\\ForestMusic_SwitchGroup",
+      "GUID": "{8D0DA2C6-2587-4817-B1D8-35575BD5C938}",
+      "Switches": []
+     }
+    ]
+   }
+  ],
+  "FileHash": "{995BCA60-8E9B-EDCE-90C2-1BA5B2F39A9B}"
+ }
+}

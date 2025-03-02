@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{3D7BECF8-A511-4B20-AAF4-DD78F97BFC76}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Music" ID="{3D7BECF8-A511-4B20-AAF4-DD78F97BFC76}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="play_environmentalmusicswitch" ID="{074E3CC7-7AF3-4C95-A8B0-AB908437B9A0}">
+					<ChildrenList>
+						<Action Name="" ID="{088B2C41-2050-4B88-854A-EC0A1F70C58F}" ShortID="988575799">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="EnvironmentalMusicSwitch" ID="{F572C6E0-7621-44FE-9E69-3638DA09AC08}" WorkUnitID="{392C3C07-326F-4C17-A66B-D0793B595F32}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Folder Name="Set State Events" ID="{F4E60DC9-9CA0-4379-A4DB-1B32324FA03F}" ShortID="32559957">
+					<ChildrenList>
+						<Event Name="setstate_caveambience" ID="{0A2A2152-E8E4-4519-971A-220E42A1105E}"/>
+						<Event Name="setstate_finale" ID="{CCF41D81-1832-4D18-A599-296D755ADC9B}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="10"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Event>
+						<Event Name="setstate_forestbase" ID="{B31389FD-13DE-4FA3-838B-1AFA4838BB5C}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="4"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Event>
+						<Event Name="setstate_forestbase_bison" ID="{4EAA865F-A82E-432E-B900-E7791C60A5D2}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="4"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Event>
+						<Event Name="setstate_forestbase_fox" ID="{3B861EDF-05FC-4896-BDFA-83AB47D00370}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="4"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Event>
+						<Event Name="setstate_forestbase_turtle" ID="{FF0A4BEE-2987-4C86-82BF-B42FE9B5870B}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="4"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Event>
+						<Event Name="setstate_forestbase_end" ID="{59501C96-D3DE-432E-9EEF-AB1DCE8AEE33}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="4"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Event>
+						<Event Name="setstate_junglebase" ID="{5B80B480-F066-4C5B-9D60-7AE648F69E8D}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="16"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Event>
+						<Event Name="setstate_junglebase_bison" ID="{EF665C02-AC99-4E2C-96B8-B162E46DF18A}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="16"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Event>
+						<Event Name="setstate_junglebase_fox" ID="{674F4F83-416C-48B0-B868-443C1AD47A1A}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="16"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Event>
+						<Event Name="setstate_junglebase_turtle" ID="{614E887B-433A-4AB0-B82E-BFF37376C91B}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="16"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Event>
+						<Event Name="setstate_keyhole" ID="{77B9DE28-0B16-4ACE-BBEE-862C751E5402}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="7"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Event>
+						<Event Name="setstate_mainmenu" ID="{8A28759C-A932-4660-8556-5190FFC11199}"/>
+						<Event Name="setstate_mountainbase" ID="{8AADC2BF-CA02-45A8-B90B-35E35A75A319}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="2"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Event>
+						<Event Name="setstate_mountainbase_bison" ID="{1C5E3C5B-82EF-49B8-A978-7F41436A7436}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="2"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Event>
+						<Event Name="setstate_mountainbase_fox" ID="{E4B4B1F1-4399-4227-A543-78574CBEDF7D}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="2"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Event>
+						<Event Name="setstate_mountainbase_turtle" ID="{234A03C8-842A-4024-BF06-7D6EF2BCA70D}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="2"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Event>
+						<Event Name="setstate_townbase" ID="{634FB98D-6394-40AE-9801-FBA9EE6D2722}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="11"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Event>
+						<Event Name="setstate_townbase_bison" ID="{5BCB1FCC-8478-4305-84EA-DF5AF30FFBFF}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="11"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Event>
+						<Event Name="setstate_townbase_fox" ID="{25B5B9F9-E3C7-4276-8FD7-653C3F0CBED8}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="11"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Event>
+						<Event Name="setstate_townbase_turtle" ID="{8649D1F3-74AA-444F-B1D1-6E3D5475ADCF}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="11"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

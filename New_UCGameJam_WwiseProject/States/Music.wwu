@@ -3,16 +3,125 @@
 	<States>
 		<WorkUnit Name="Music" ID="{F2A64222-7368-441C-A9B7-C7197B698AEA}" PersistMode="Standalone">
 			<ChildrenList>
-				<StateGroup Name="Music" ID="{CD7FC1E3-6020-47DF-9423-1FFB07883C65}">
+				<StateGroup Name="Music_EnvironmentStateGroup" ID="{8AC3F24B-AD6B-4B10-BA7C-A388A8A129DE}">
 					<ChildrenList>
-						<State Name="None" ID="{763BB4F8-6A69-4A4A-BA7E-689C27CCC096}"/>
-						<State Name="Forest" ID="{54D35C41-B9C8-43A1-8099-8DFB30889CDD}"/>
-						<State Name="Cave" ID="{6556E929-13C7-405E-BEFB-E563A3CAC5F9}"/>
-						<State Name="Jungle" ID="{CF811D55-321A-4729-A57A-EFE30DD5E136}"/>
-						<State Name="Town" ID="{0E2B60FB-9971-467F-912C-EFA8B68745D2}"/>
-						<State Name="MainTheme" ID="{DBE18F8F-0CE3-4FE1-A875-0E2F2BB6E821}"/>
-						<State Name="Tutorial" ID="{D7626B15-70C6-43FA-A975-6B007193ABF8}"/>
-						<State Name="Finale" ID="{6289CC72-7C89-4FED-A08F-B488E8248315}"/>
+						<State Name="None" ID="{0BCD0DCC-B1E7-40B2-8697-145998FF0B8C}"/>
+						<State Name="ForestBase" ID="{07D21ACC-51A1-434D-AE5C-108D00FEDA09}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="4"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</State>
+						<State Name="ForestBase_Fox" ID="{61C5AF21-66DB-4DD7-AA83-05C8DF586D8B}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="4"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</State>
+						<State Name="ForestBase_Bison" ID="{C5A07BAB-A6AF-43B7-96A9-CAE64612F92E}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="4"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</State>
+						<State Name="ForestBase_Turtle" ID="{1BC9AD93-FE55-49D0-8120-4F79794ABAB0}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="4"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</State>
+						<State Name="ForestBase_End" ID="{C16F2E5C-9975-4D8D-85FF-07F759CF1EC4}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="4"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</State>
+						<State Name="MountainBase" ID="{7DCF93FF-23EA-4F0D-B102-73DBCC22D7C6}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="15"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</State>
+						<State Name="MountainBase_Fox" ID="{18FD7022-212D-4647-B526-6DB2AE6CD99C}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="15"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</State>
+						<State Name="MountainBase_Bison" ID="{64E12E63-3905-409B-9FC7-0A413715C1CC}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="15"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</State>
+						<State Name="MountainBase_Turtle" ID="{CC3ADEFF-DFE7-4614-89D7-8E4D55AF5E8A}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="15"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</State>
+						<State Name="CaveAmbience" ID="{AFA0840F-1882-44FB-A285-B8CE49DD6B4C}"/>
+						<State Name="FinaleMusic" ID="{D6344B9F-7C0D-44F0-8B9D-6AFEE3E07932}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="10"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</State>
+						<State Name="JungleBase" ID="{3F19BEF5-2225-4441-B99D-E3D699F2DB07}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="3"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</State>
+						<State Name="JungleBase_Fox" ID="{4E646FB4-9045-4BC2-B82A-4A059C90311C}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="3"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</State>
+						<State Name="JungleBase_Bison" ID="{28818769-27DA-431B-A13A-CE47075C8832}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="3"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</State>
+						<State Name="JungleBase_Turtle" ID="{49383394-9483-4AA4-AD5F-0CB3CBC0214D}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="3"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</State>
+						<State Name="MainMenu" ID="{49663F9C-544C-4D62-BF74-7A098007C833}"/>
+						<State Name="TownBase" ID="{A65C2056-783B-4ACB-A5E3-0BB71E583959}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="25"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</State>
+						<State Name="TownBase_Fox" ID="{971D81F9-7159-43F8-B594-242CB88CEDB6}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="25"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</State>
+						<State Name="TownBase_Bison" ID="{C4049E83-4394-4412-A6F7-A3D81FC07236}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="25"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</State>
+						<State Name="TownBase_Turtle" ID="{418CBF5D-3462-4448-917A-25E6D4E1C765}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="25"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</State>
+						<State Name="Keyhole" ID="{FD805E68-8988-4184-81F5-E11CBF7DAC7F}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="7"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</State>
 					</ChildrenList>
 				</StateGroup>
 			</ChildrenList>

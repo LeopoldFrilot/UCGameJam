@@ -1,6 +1,129 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{F5F7139A-BE70-4138-9247-C9F8151C95AD}" SchemaVersion="123">
 	<Switches>
-		<WorkUnit Name="Default Work Unit" ID="{F5F7139A-BE70-4138-9247-C9F8151C95AD}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{F5F7139A-BE70-4138-9247-C9F8151C95AD}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="Music_SwitchGroup" ID="{8D0DA2C6-2587-4817-B1D8-35575BD5C938}">
+					<ChildrenList>
+						<Switch Name="ForestBase" ID="{2BCC3A03-FFB6-46A5-A064-ECEBFC7D5679}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="4"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Switch>
+						<Switch Name="ForestBase_Bison" ID="{99700365-BACC-4981-9AB8-132FA3BE0929}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="4"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Switch>
+						<Switch Name="ForestBase_End" ID="{BACDCF67-C51C-431F-8936-05B9242A7932}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="4"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Switch>
+						<Switch Name="ForestBase_Fox" ID="{FC919A32-F0EA-4ABB-B33F-D52739964902}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="4"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Switch>
+						<Switch Name="ForestBase_Turtle" ID="{55BD5453-CB7D-499A-9D8D-C7401C623BDF}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="4"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Switch>
+						<Switch Name="JungleBase" ID="{96B90A3A-A5B4-4D07-A091-4939D3844F79}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="3"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Switch>
+						<Switch Name="JungleBase_Bison" ID="{B67614E0-B069-4DF0-9CF1-FBD580D47F2E}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="3"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Switch>
+						<Switch Name="JungleBase_Fox" ID="{F42B6595-E6ED-46FB-8D15-D64C71AFE800}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="3"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Switch>
+						<Switch Name="JungleBase_Turtle" ID="{5F6A67D2-5AF3-4BB6-819F-7077B65C9DEA}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="3"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Switch>
+						<Switch Name="Keyhole" ID="{F657FBA3-C4C8-4BEE-AA6C-D29F9FDB02AB}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="7"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Switch>
+						<Switch Name="MainMenu" ID="{7232B8DB-1ECD-4C5A-9CFA-125E2F30D36A}"/>
+						<Switch Name="MoutainBase" ID="{307872AF-6EFC-40C6-B2E5-019E85DE02E9}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="15"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Switch>
+						<Switch Name="MoutainBase_Bison" ID="{697ADECF-FCE2-420B-9452-C1A37428D450}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="15"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Switch>
+						<Switch Name="MoutainBase_Fox" ID="{9DCEA08D-C398-4DE3-A725-E39583BB46D8}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="15"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Switch>
+						<Switch Name="MoutainBase_Turtle" ID="{801E5BA7-2E7F-4486-8A8F-BB70F65580BB}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="15"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Switch>
+						<Switch Name="TownBase" ID="{E8682488-E8F7-4589-B38C-0A0FAF998E0D}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="11"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Switch>
+						<Switch Name="TownBase_Bison" ID="{E1534DB1-5061-4A58-A430-D90903EE6033}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="11"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Switch>
+						<Switch Name="TownBase_Fox" ID="{7013C3B5-FAB8-4345-A0ED-AAAE3C38D319}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="11"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Switch>
+						<Switch Name="TownBase_Turtle" ID="{E1CEA8FE-3425-47E4-A507-3163744CEA8D}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="11"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Switch>
+						<Switch Name="FinaleMusic" ID="{8684F95D-586D-4E75-B8D0-18C283032300}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="10"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Switch>
+						<Switch Name="CaveAmbience" ID="{EC3AFB5D-8FAC-42ED-AC05-15B8FFA05D79}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
 	</Switches>
 </WwiseDocument>
