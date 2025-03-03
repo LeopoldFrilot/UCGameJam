@@ -1,6 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{47621B95-7A1D-4F13-B65D-5BC4551B41B3}" SchemaVersion="123">
 	<Events>
-		<WorkUnit Name="Default Work Unit" ID="{47621B95-7A1D-4F13-B65D-5BC4551B41B3}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{47621B95-7A1D-4F13-B65D-5BC4551B41B3}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_MusicSwitch_V2" ID="{0A12C49B-3A09-46E0-9ADE-342A270FC791}">
+					<PropertyList>
+						<Property Name="Inclusion" Type="bool" Value="False"/>
+					</PropertyList>
+					<ChildrenList>
+						<Action Name="" ID="{1ACB649D-92BD-4EBD-9FE2-211E6B1AA62D}" ShortID="734224803">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MusicSwitch_V2" ID="{8DCAF59C-5BD1-4CE6-A3B5-FE40F3ADB653}" WorkUnitID="{392C3C07-326F-4C17-A66B-D0793B595F32}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Enable_State_MusicSwitch_V2" ID="{AC73F4B2-495E-42DB-BCD1-537D320629B1}">
+					<PropertyList>
+						<Property Name="Inclusion" Type="bool" Value="False"/>
+					</PropertyList>
+					<ChildrenList>
+						<Action Name="" ID="{6C8313FC-59DB-4730-87C7-4787D3AC9485}" ShortID="641683466">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="20"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MusicSwitch_V2" ID="{8DCAF59C-5BD1-4CE6-A3B5-FE40F3ADB653}" WorkUnitID="{392C3C07-326F-4C17-A66B-D0793B595F32}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
 	</Events>
 </WwiseDocument>

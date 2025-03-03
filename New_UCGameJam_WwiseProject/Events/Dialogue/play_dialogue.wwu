@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{8CB245D1-D1C1-4252-B6A8-592DF4AE6A52}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="play_dialogue" ID="{8CB245D1-D1C1-4252-B6A8-592DF4AE6A52}" PersistMode="Standalone">
+			<PropertyList>
+				<Property Name="Inclusion" Type="bool">
+					<ValueList>
+						<Value>False</Value>
+					</ValueList>
+				</Property>
+			</PropertyList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
