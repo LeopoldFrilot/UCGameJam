@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{2D91FD5B-1145-4A11-9B8E-FEE6E6A0B718}" SchemaVersion="123">
+	<SoundBanks>
+		<WorkUnit Name="Music" ID="{2D91FD5B-1145-4A11-9B8E-FEE6E6A0B718}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="MusicSoundBank" ID="{C91AF3C2-386D-4B6B-991C-34E8895D5C81}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Set State Events" ID="{F4E60DC9-9CA0-4379-A4DB-1B32324FA03F}" WorkUnitID="{3D7BECF8-A511-4B20-AAF4-DD78F97BFC76}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="play_environmentalmusicswitch" ID="{074E3CC7-7AF3-4C95-A8B0-AB908437B9A0}" WorkUnitID="{3D7BECF8-A511-4B20-AAF4-DD78F97BFC76}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="MusicSwitch_V2" ID="{C1785568-6232-4D47-BB22-8A7301EC4C06}">
+					<ObjectInclusionList>
+						<ObjectRef Name="MusicSwitch_V2" ID="{8DCAF59C-5BD1-4CE6-A3B5-FE40F3ADB653}" WorkUnitID="{392C3C07-326F-4C17-A66B-D0793B595F32}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

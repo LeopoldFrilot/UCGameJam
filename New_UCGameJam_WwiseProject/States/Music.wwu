@@ -124,6 +124,15 @@
 						</State>
 					</ChildrenList>
 				</StateGroup>
+				<StateGroup Name="MusicSwitch_V2_State" ID="{BEAF557F-77AD-4D97-9213-8FD24EB47F0B}">
+					<ChildrenList>
+						<State Name="None" ID="{D07B3A97-5BEC-4085-B10E-74E862F1AF75}"/>
+						<State Name="setstate_forest" ID="{37BEF152-3333-458E-B2E0-994795AB8587}"/>
+						<State Name="setstate_jungle" ID="{1AA795D3-F175-4FEE-B59A-458B4483CF6F}"/>
+						<State Name="setstate_mountain" ID="{63354DC8-E071-49ED-AF8B-1DE6968050E5}"/>
+						<State Name="setstate_town" ID="{9AB4649C-B4EC-4967-A8D1-C76457865852}"/>
+					</ChildrenList>
+				</StateGroup>
 			</ChildrenList>
 		</WorkUnit>
 	</States>
