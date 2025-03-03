@@ -12,125 +12,389 @@
 								</Reference>
 							</ReferenceList>
 						</Action>
+						<Action Name="" ID="{CDAB182B-8899-4F67-9A72-C4323707A0A7}" ShortID="540809328">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="38"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="PlaybackPosition" ID="{EA906266-2036-4382-87BA-946D8B1444AC}" WorkUnitID="{E625BD56-1C2E-42E6-840A-2FAE604C7FB5}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
 					</ChildrenList>
 				</Event>
 				<Folder Name="Set State Events" ID="{F4E60DC9-9CA0-4379-A4DB-1B32324FA03F}" ShortID="32559957">
 					<ChildrenList>
-						<Event Name="setstate_caveambience" ID="{0A2A2152-E8E4-4519-971A-220E42A1105E}"/>
+						<Event Name="setstate_caveambience" ID="{0A2A2152-E8E4-4519-971A-220E42A1105E}">
+							<ChildrenList>
+								<Action Name="" ID="{07CDFFBA-8B38-4440-A17D-A69C52422129}" ShortID="436614571">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="22"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="CaveAmbience" ID="{AFA0840F-1882-44FB-A285-B8CE49DD6B4C}" WorkUnitID="{F2A64222-7368-441C-A9B7-C7197B698AEA}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 						<Event Name="setstate_finale" ID="{CCF41D81-1832-4D18-A599-296D755ADC9B}">
 							<PropertyList>
 								<Property Name="Color" Type="int16" Value="10"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
 							</PropertyList>
+							<ChildrenList>
+								<Action Name="" ID="{6E18C6A9-4F86-4594-996F-7C4D77DA7E6E}" ShortID="316715059">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="22"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="FinaleMusic" ID="{D6344B9F-7C0D-44F0-8B9D-6AFEE3E07932}" WorkUnitID="{F2A64222-7368-441C-A9B7-C7197B698AEA}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
 						</Event>
 						<Event Name="setstate_forestbase" ID="{B31389FD-13DE-4FA3-838B-1AFA4838BB5C}">
 							<PropertyList>
 								<Property Name="Color" Type="int16" Value="4"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
 							</PropertyList>
+							<ChildrenList>
+								<Action Name="" ID="{AAB8D8D4-96F5-43AA-B309-8ACBA8D8CE86}" ShortID="904670869">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="22"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="ForestBase" ID="{07D21ACC-51A1-434D-AE5C-108D00FEDA09}" WorkUnitID="{F2A64222-7368-441C-A9B7-C7197B698AEA}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
 						</Event>
 						<Event Name="setstate_forestbase_bison" ID="{4EAA865F-A82E-432E-B900-E7791C60A5D2}">
 							<PropertyList>
 								<Property Name="Color" Type="int16" Value="4"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
 							</PropertyList>
+							<ChildrenList>
+								<Action Name="" ID="{4767BD5F-F44B-4F28-86CB-4C0D803AE7C4}" ShortID="98536419">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="22"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="ForestBase_Bison" ID="{C5A07BAB-A6AF-43B7-96A9-CAE64612F92E}" WorkUnitID="{F2A64222-7368-441C-A9B7-C7197B698AEA}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
 						</Event>
 						<Event Name="setstate_forestbase_fox" ID="{3B861EDF-05FC-4896-BDFA-83AB47D00370}">
 							<PropertyList>
 								<Property Name="Color" Type="int16" Value="4"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
 							</PropertyList>
+							<ChildrenList>
+								<Action Name="" ID="{8781A8A6-4869-4F1F-B72E-FE405D68C294}" ShortID="706766033">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="22"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="ForestBase_Fox" ID="{61C5AF21-66DB-4DD7-AA83-05C8DF586D8B}" WorkUnitID="{F2A64222-7368-441C-A9B7-C7197B698AEA}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
 						</Event>
 						<Event Name="setstate_forestbase_turtle" ID="{FF0A4BEE-2987-4C86-82BF-B42FE9B5870B}">
 							<PropertyList>
 								<Property Name="Color" Type="int16" Value="4"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
 							</PropertyList>
+							<ChildrenList>
+								<Action Name="" ID="{3E4E16C5-3291-4769-B815-627D47E21063}" ShortID="361599738">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="22"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="ForestBase_Turtle" ID="{1BC9AD93-FE55-49D0-8120-4F79794ABAB0}" WorkUnitID="{F2A64222-7368-441C-A9B7-C7197B698AEA}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
 						</Event>
 						<Event Name="setstate_forestbase_end" ID="{59501C96-D3DE-432E-9EEF-AB1DCE8AEE33}">
 							<PropertyList>
 								<Property Name="Color" Type="int16" Value="4"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
 							</PropertyList>
+							<ChildrenList>
+								<Action Name="" ID="{361D76D1-3B6C-4892-8160-ED56EBEEE9FD}" ShortID="351685023">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="22"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="ForestBase_End" ID="{C16F2E5C-9975-4D8D-85FF-07F759CF1EC4}" WorkUnitID="{F2A64222-7368-441C-A9B7-C7197B698AEA}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
 						</Event>
 						<Event Name="setstate_junglebase" ID="{5B80B480-F066-4C5B-9D60-7AE648F69E8D}">
 							<PropertyList>
 								<Property Name="Color" Type="int16" Value="16"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
 							</PropertyList>
+							<ChildrenList>
+								<Action Name="" ID="{36558870-5ED8-4E91-AD51-E7A441047C7E}" ShortID="620248780">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="22"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="JungleBase" ID="{3F19BEF5-2225-4441-B99D-E3D699F2DB07}" WorkUnitID="{F2A64222-7368-441C-A9B7-C7197B698AEA}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
 						</Event>
 						<Event Name="setstate_junglebase_bison" ID="{EF665C02-AC99-4E2C-96B8-B162E46DF18A}">
 							<PropertyList>
 								<Property Name="Color" Type="int16" Value="16"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
 							</PropertyList>
+							<ChildrenList>
+								<Action Name="" ID="{C7E65D06-7CB3-48DB-8257-FB045B2BFAC9}" ShortID="100266492">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="22"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="JungleBase_Bison" ID="{28818769-27DA-431B-A13A-CE47075C8832}" WorkUnitID="{F2A64222-7368-441C-A9B7-C7197B698AEA}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
 						</Event>
 						<Event Name="setstate_junglebase_fox" ID="{674F4F83-416C-48B0-B868-443C1AD47A1A}">
 							<PropertyList>
 								<Property Name="Color" Type="int16" Value="16"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
 							</PropertyList>
+							<ChildrenList>
+								<Action Name="" ID="{1DC72E1A-3AAF-4BAD-9E5E-5A70F43DE964}" ShortID="995242372">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="22"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="JungleBase_Fox" ID="{4E646FB4-9045-4BC2-B82A-4A059C90311C}" WorkUnitID="{F2A64222-7368-441C-A9B7-C7197B698AEA}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
 						</Event>
 						<Event Name="setstate_junglebase_turtle" ID="{614E887B-433A-4AB0-B82E-BFF37376C91B}">
 							<PropertyList>
 								<Property Name="Color" Type="int16" Value="16"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
 							</PropertyList>
+							<ChildrenList>
+								<Action Name="" ID="{7933C930-57BA-469C-A2C5-D0EF974A14D2}" ShortID="31551841">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="22"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="JungleBase_Turtle" ID="{49383394-9483-4AA4-AD5F-0CB3CBC0214D}" WorkUnitID="{F2A64222-7368-441C-A9B7-C7197B698AEA}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
 						</Event>
 						<Event Name="setstate_keyhole" ID="{77B9DE28-0B16-4ACE-BBEE-862C751E5402}">
 							<PropertyList>
 								<Property Name="Color" Type="int16" Value="7"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
 							</PropertyList>
+							<ChildrenList>
+								<Action Name="" ID="{9B221511-825E-45E5-9F2E-DBF3D14EC1D2}" ShortID="695902183">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="22"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Keyhole" ID="{FD805E68-8988-4184-81F5-E11CBF7DAC7F}" WorkUnitID="{F2A64222-7368-441C-A9B7-C7197B698AEA}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
 						</Event>
-						<Event Name="setstate_mainmenu" ID="{8A28759C-A932-4660-8556-5190FFC11199}"/>
+						<Event Name="setstate_mainmenu" ID="{8A28759C-A932-4660-8556-5190FFC11199}">
+							<ChildrenList>
+								<Action Name="" ID="{3FD4F2E4-FFF4-4834-AAA3-509A5457264E}" ShortID="796383052">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="22"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="MainMenu" ID="{49663F9C-544C-4D62-BF74-7A098007C833}" WorkUnitID="{F2A64222-7368-441C-A9B7-C7197B698AEA}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 						<Event Name="setstate_mountainbase" ID="{8AADC2BF-CA02-45A8-B90B-35E35A75A319}">
 							<PropertyList>
 								<Property Name="Color" Type="int16" Value="2"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
 							</PropertyList>
+							<ChildrenList>
+								<Action Name="" ID="{57A6F5BB-B526-4D72-9D1B-D38990B11705}" ShortID="720053500">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="22"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="MountainBase" ID="{7DCF93FF-23EA-4F0D-B102-73DBCC22D7C6}" WorkUnitID="{F2A64222-7368-441C-A9B7-C7197B698AEA}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
 						</Event>
 						<Event Name="setstate_mountainbase_bison" ID="{1C5E3C5B-82EF-49B8-A978-7F41436A7436}">
 							<PropertyList>
 								<Property Name="Color" Type="int16" Value="2"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
 							</PropertyList>
+							<ChildrenList>
+								<Action Name="" ID="{A576CA2D-346C-49BD-B10C-922987DD48DF}" ShortID="328826623">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="22"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="MountainBase_Bison" ID="{64E12E63-3905-409B-9FC7-0A413715C1CC}" WorkUnitID="{F2A64222-7368-441C-A9B7-C7197B698AEA}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
 						</Event>
 						<Event Name="setstate_mountainbase_fox" ID="{E4B4B1F1-4399-4227-A543-78574CBEDF7D}">
 							<PropertyList>
 								<Property Name="Color" Type="int16" Value="2"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
 							</PropertyList>
+							<ChildrenList>
+								<Action Name="" ID="{9BA8F70F-F565-44CE-81CB-1185CB218A68}" ShortID="51646303">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="22"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="MountainBase_Fox" ID="{18FD7022-212D-4647-B526-6DB2AE6CD99C}" WorkUnitID="{F2A64222-7368-441C-A9B7-C7197B698AEA}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
 						</Event>
 						<Event Name="setstate_mountainbase_turtle" ID="{234A03C8-842A-4024-BF06-7D6EF2BCA70D}">
 							<PropertyList>
 								<Property Name="Color" Type="int16" Value="2"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
 							</PropertyList>
+							<ChildrenList>
+								<Action Name="" ID="{36BFC845-FE77-4EB8-A6B8-894D736F0C3C}" ShortID="271366523">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="22"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="MountainBase_Turtle" ID="{CC3ADEFF-DFE7-4614-89D7-8E4D55AF5E8A}" WorkUnitID="{F2A64222-7368-441C-A9B7-C7197B698AEA}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
 						</Event>
 						<Event Name="setstate_townbase" ID="{634FB98D-6394-40AE-9801-FBA9EE6D2722}">
 							<PropertyList>
 								<Property Name="Color" Type="int16" Value="11"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
 							</PropertyList>
+							<ChildrenList>
+								<Action Name="" ID="{92FB949A-A315-41D1-B192-A2338A028FCC}" ShortID="680875261">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="22"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="TownBase" ID="{A65C2056-783B-4ACB-A5E3-0BB71E583959}" WorkUnitID="{F2A64222-7368-441C-A9B7-C7197B698AEA}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
 						</Event>
 						<Event Name="setstate_townbase_bison" ID="{5BCB1FCC-8478-4305-84EA-DF5AF30FFBFF}">
 							<PropertyList>
 								<Property Name="Color" Type="int16" Value="11"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
 							</PropertyList>
+							<ChildrenList>
+								<Action Name="" ID="{786366F2-B087-4FD5-BF94-5D95779A8A6B}" ShortID="1042901443">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="22"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="TownBase_Bison" ID="{C4049E83-4394-4412-A6F7-A3D81FC07236}" WorkUnitID="{F2A64222-7368-441C-A9B7-C7197B698AEA}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
 						</Event>
 						<Event Name="setstate_townbase_fox" ID="{25B5B9F9-E3C7-4276-8FD7-653C3F0CBED8}">
 							<PropertyList>
 								<Property Name="Color" Type="int16" Value="11"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
 							</PropertyList>
+							<ChildrenList>
+								<Action Name="" ID="{0753B106-8FF0-4EDB-B3CB-39F85D259501}" ShortID="254864393">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="22"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="TownBase_Fox" ID="{971D81F9-7159-43F8-B594-242CB88CEDB6}" WorkUnitID="{F2A64222-7368-441C-A9B7-C7197B698AEA}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
 						</Event>
 						<Event Name="setstate_townbase_turtle" ID="{8649D1F3-74AA-444F-B1D1-6E3D5475ADCF}">
 							<PropertyList>
 								<Property Name="Color" Type="int16" Value="11"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
 							</PropertyList>
+							<ChildrenList>
+								<Action Name="" ID="{C40AE214-4BC1-4B35-BC36-CC3162BAACD0}" ShortID="54045589">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="22"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="TownBase_Turtle" ID="{418CBF5D-3462-4448-917A-25E6D4E1C765}" WorkUnitID="{F2A64222-7368-441C-A9B7-C7197B698AEA}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
 						</Event>
 					</ChildrenList>
 				</Folder>

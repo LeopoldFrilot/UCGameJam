@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{15F780B3-3A4C-4AAD-84BB-B4CE914C00EF}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Fox" ID="{15F780B3-3A4C-4AAD-84BB-B4CE914C00EF}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Fox_1_2_0" ID="{FDB3F599-8A7D-4DB8-9BC3-D26BF4F28DC6}">
+					<ChildrenList>
+						<Action Name="" ID="{CB84D402-35C7-4202-B70C-29CEFA0297B7}" ShortID="373811973">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="1_2_1_Fox" ID="{326B1987-07D6-4C80-BFE1-032CFECAA169}" WorkUnitID="{CA020838-B5AF-49D9-A433-7DA858A415A2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Fox_1_2" ID="{2257688C-4698-46C9-ABF9-FD771322EC56}">
+					<ChildrenList>
+						<Action Name="" ID="{0541D402-C665-425A-8012-E898489B7C65}" ShortID="659644133">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="1_2_Fox" ID="{3580550F-5C0B-4076-BDEC-87E40CAFE790}" WorkUnitID="{CA020838-B5AF-49D9-A433-7DA858A415A2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Fox_1_3" ID="{CCB9875F-43DD-46EB-8BD8-95611BD6941F}">
+					<ChildrenList>
+						<Action Name="" ID="{9211D26E-4F1E-4C24-88BA-D2F650BF5CBD}" ShortID="185492259">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="1_3_Fox" ID="{A5A68B91-2FD2-4875-9BE7-D6EAB69916BC}" WorkUnitID="{CA020838-B5AF-49D9-A433-7DA858A415A2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Fox_1_4" ID="{229BDF6A-6200-461E-8DF1-CB1727FA188F}">
+					<ChildrenList>
+						<Action Name="" ID="{5AC65866-7071-45DF-B718-9D766103558F}" ShortID="355686069">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="1_4_Fox" ID="{4A035F24-0D01-4C90-93B7-206CE200BDB3}" WorkUnitID="{CA020838-B5AF-49D9-A433-7DA858A415A2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Fox_1_5" ID="{CD5FA107-1E8B-4225-BCE1-C0758A049154}">
+					<ChildrenList>
+						<Action Name="" ID="{CF7F60BF-16B9-41B9-86A1-8F51418657B6}" ShortID="868208873">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="1_5_Fox_v2" ID="{BCA3AFAD-3017-4313-A8F0-34A84420BF52}" WorkUnitID="{CA020838-B5AF-49D9-A433-7DA858A415A2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Fox_1_6" ID="{D481D960-EA38-4219-BE52-CE312760519A}">
+					<ChildrenList>
+						<Action Name="" ID="{8B8606C1-DC3B-4060-BC50-F5405CCA4E06}" ShortID="281014501">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="1_6_Fox" ID="{404C1EEB-D05B-48B3-8A6F-6007E511DF34}" WorkUnitID="{CA020838-B5AF-49D9-A433-7DA858A415A2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Fox_1_7" ID="{0266504E-AE11-4921-9E2F-F0EDA67A6CDE}">
+					<ChildrenList>
+						<Action Name="" ID="{ED138545-8E6F-4937-B128-344DC9316C8A}" ShortID="916287178">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="1_7_Fox_v2-01" ID="{9C4546AB-85F0-4C59-8CFC-280C39DD4810}" WorkUnitID="{CA020838-B5AF-49D9-A433-7DA858A415A2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Fox_1_8" ID="{CA36B6F1-95C5-4A9D-924D-319C6B07977F}">
+					<ChildrenList>
+						<Action Name="" ID="{7F1F6156-9D5B-4A76-A961-EC64940B4504}" ShortID="850511257">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="1_8_Fox_v2" ID="{23353DD5-A6B3-4EB7-B477-64E97524C2E2}" WorkUnitID="{CA020838-B5AF-49D9-A433-7DA858A415A2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Fox_1_9" ID="{369D6BAB-B72B-43B3-A603-A4E16B37AACA}">
+					<ChildrenList>
+						<Action Name="" ID="{4AF45381-CF44-4E15-933F-345DBA99D04A}" ShortID="510246309">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="1_9_Fox" ID="{853817C5-153B-420D-91C8-48BE69A45BFD}" WorkUnitID="{CA020838-B5AF-49D9-A433-7DA858A415A2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

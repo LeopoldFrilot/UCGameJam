@@ -31,6 +31,11 @@
 					</ReferenceList>
 					<ChildrenList>
 						<AudioFileSource Name="4_1_1_Ancestor" ID="{37AC4DFA-5662-4880-B1BE-F08703761F14}">
+							<PropertyList>
+								<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+								<Property Name="TrimBegin" Type="Real64" Value="0.317559266016441"/>
+								<Property Name="TrimEnd" Type="Real64" Value="39.7914423211617"/>
+							</PropertyList>
 							<Language>SFX</Language>
 							<AudioFile>4_1_1_Ancestor.wav</AudioFile>
 							<MediaIDList>
