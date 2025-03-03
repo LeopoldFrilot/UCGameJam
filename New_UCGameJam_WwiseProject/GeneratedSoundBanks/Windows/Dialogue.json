@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{30CFE3D3-7470-4120-B31B-8223525BD108}",
     "Language": "SFX",
-    "Hash": "{A3BF7EAD-ACCE-B29C-D22E-20E88599538E}",
+    "Hash": "{DF995BFC-D923-86EE-EAC4-5165202CE2DF}",
     "ObjectPath": "\\SoundBanks\\Dialogue\\Dialogue",
     "ShortName": "Dialogue",
     "Path": "Dialogue.bnk",
@@ -62,6 +62,14 @@
       "Location": "Memory",
       "ShortName": "5_0_Narrator.wav",
       "CachePath": "76/{76A3C088-0C14-4E41-EE6C-EB9FB1F6A4E0}.wem"
+     },
+     {
+      "Id": "137458116",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Opening1_2.wav",
+      "CachePath": "34/{34777565-84BC-4ED0-0F78-49BD394E7C65}.wem"
      },
      {
       "Id": "154961850",
@@ -144,12 +152,28 @@
       "CachePath": "05/{05B2B5EA-936C-0D5E-4238-11F2FA8E15CD}.wem"
      },
      {
+      "Id": "390616933",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Opening1_1.wav",
+      "CachePath": "BD/{BD6EE835-C3E2-EBC5-F178-A49B9D07499C}.wem"
+     },
+     {
       "Id": "409171694",
       "Language": "SFX",
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "2_4_Bison.wav",
       "CachePath": "84/{84FCB340-2EBC-981B-C561-40C457413A7E}.wem"
+     },
+     {
+      "Id": "453587191",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Opening1_0.wav",
+      "CachePath": "F5/{F5A24721-D22A-2834-103C-ABD518A08F3E}.wem"
      },
      {
       "Id": "453997404",
@@ -174,6 +198,14 @@
       "Location": "Memory",
       "ShortName": "1_0_Narrator.wav",
       "CachePath": "DE/{DE4EEDCE-37CB-2CA2-74BE-C9FCF1A9FA09}.wem"
+     },
+     {
+      "Id": "488468197",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Opening1_3.wav",
+      "CachePath": "6E/{6E9E5F79-9993-0E72-C248-92D4A05383B4}.wem"
      },
      {
       "Id": "490524262",
@@ -349,7 +381,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "4_1_1_Ancestor.wav",
-      "CachePath": "E9/{E9342DD7-F62B-208E-A02B-ACBB94483324}.wem"
+      "CachePath": "A4/{A46C4BAD-1409-D04C-25F6-78337B716E65}.wem"
      },
      {
       "Id": "973373941",
@@ -933,6 +965,66 @@
       ]
      },
      {
+      "Id": "3656910134",
+      "Name": "Opening_1_0",
+      "ObjectPath": "\\Events\\Dialogue\\Prequel\\Opening_1_0",
+      "GUID": "{CBE3801F-F985-4F28-B542-B44B67EB552F}",
+      "Color": "19",
+      "DurationType": "OneShot",
+      "DurationMin": "7.7375736",
+      "DurationMax": "7.7375736",
+      "MediaRefs": [
+       {
+        "Id": "453587191"
+       }
+      ]
+     },
+     {
+      "Id": "3656910135",
+      "Name": "Opening_1_1",
+      "ObjectPath": "\\Events\\Dialogue\\Prequel\\Opening_1_1",
+      "GUID": "{626EA9C5-46C5-4F31-8EFC-67A57B0535C7}",
+      "Color": "19",
+      "DurationType": "OneShot",
+      "DurationMin": "7.8364987",
+      "DurationMax": "7.8364987",
+      "MediaRefs": [
+       {
+        "Id": "390616933"
+       }
+      ]
+     },
+     {
+      "Id": "3656910132",
+      "Name": "Opening_1_2",
+      "ObjectPath": "\\Events\\Dialogue\\Prequel\\Opening_1_2",
+      "GUID": "{57B1534B-12C1-43A5-A37C-551958363063}",
+      "Color": "19",
+      "DurationType": "OneShot",
+      "DurationMin": "6.27862",
+      "DurationMax": "6.27862",
+      "MediaRefs": [
+       {
+        "Id": "137458116"
+       }
+      ]
+     },
+     {
+      "Id": "3656910133",
+      "Name": "Opening_1_3",
+      "ObjectPath": "\\Events\\Dialogue\\Prequel\\Opening_1_3",
+      "GUID": "{68740A48-0EA9-468E-B5E3-B5795AEF2D39}",
+      "Color": "19",
+      "DurationType": "OneShot",
+      "DurationMin": "7.9752064",
+      "DurationMax": "7.9752064",
+      "MediaRefs": [
+       {
+        "Id": "488468197"
+       }
+      ]
+     },
+     {
       "Id": "490263337",
       "Name": "Turtle_3_1",
       "ObjectPath": "\\Events\\Dialogue\\Turtle\\Turtle_3_1",
@@ -1055,6 +1147,6 @@
     ]
    }
   ],
-  "FileHash": "{70303328-6486-1069-44E3-332C47145FD0}"
+  "FileHash": "{2A709D64-8AD6-5132-2803-5431C3D76360}"
  }
 }
