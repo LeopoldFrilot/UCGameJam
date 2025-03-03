@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{101C3AF8-B4AF-4467-B4A5-91EEC67D4F81}" SchemaVersion="123">
+	<SoundBanks>
+		<WorkUnit Name="Dialogue" ID="{101C3AF8-B4AF-4467-B4A5-91EEC67D4F81}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Dialogue" ID="{30CFE3D3-7470-4120-B31B-8223525BD108}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Dialogue" ID="{536765CF-F436-41AF-99AC-F07B776619C0}" WorkUnitID="{536765CF-F436-41AF-99AC-F07B776619C0}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

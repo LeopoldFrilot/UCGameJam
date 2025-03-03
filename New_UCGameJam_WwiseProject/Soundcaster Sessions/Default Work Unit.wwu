@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{FA00096F-2F85-4401-BE13-7F8784D5E9CD}" SchemaVersion="123">
 	<SoundcasterSessions>
-		<WorkUnit Name="Default Work Unit" ID="{FA00096F-2F85-4401-BE13-7F8784D5E9CD}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{FA00096F-2F85-4401-BE13-7F8784D5E9CD}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="Test" ID="{126716FD-FAAE-4D6A-B1D1-6656C30D178C}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="play_environmentalmusicswitch" ID="{074E3CC7-7AF3-4C95-A8B0-AB908437B9A0}" WorkUnitID="{3D7BECF8-A511-4B20-AAF4-DD78F97BFC76}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="setstate_forestbase_bison" ID="{4EAA865F-A82E-432E-B900-E7791C60A5D2}" WorkUnitID="{3D7BECF8-A511-4B20-AAF4-DD78F97BFC76}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="setstate_junglebase" ID="{5B80B480-F066-4C5B-9D60-7AE648F69E8D}" WorkUnitID="{3D7BECF8-A511-4B20-AAF4-DD78F97BFC76}"/>
+							<Position X="2" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="setstate_forestbase" ID="{B31389FD-13DE-4FA3-838B-1AFA4838BB5C}" WorkUnitID="{3D7BECF8-A511-4B20-AAF4-DD78F97BFC76}"/>
+							<Position X="3" Y="0"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true">
+						<RTPCValue>
+							<GameParameterRef Name="PlaybackPosition" ID="{EA906266-2036-4382-87BA-946D8B1444AC}"/>
+							<Value>0</Value>
+						</RTPCValue>
+					</RTPCValueList>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="ForestBase" ID="{07D21ACC-51A1-434D-AE5C-108D00FEDA09}"/>
+						<CurrentStateRef Name="None" ID="{D07B3A97-5BEC-4085-B10E-74E862F1AF75}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true">
+						<CurrentSwitchRef Name="ForestBase" ID="{2BCC3A03-FFB6-46A5-A064-ECEBFC7D5679}"/>
+					</CurrentSwitchList>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
 	</SoundcasterSessions>
 </WwiseDocument>

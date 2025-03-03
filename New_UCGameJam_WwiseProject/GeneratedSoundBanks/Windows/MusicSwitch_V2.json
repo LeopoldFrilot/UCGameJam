@@ -1,0 +1,21 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "271050089",
+    "Type": "User",
+    "GUID": "{C1785568-6232-4D47-BB22-8A7301EC4C06}",
+    "Language": "SFX",
+    "Hash": "{C10309B1-506E-B2A7-40F0-ABF685743660}",
+    "ObjectPath": "\\SoundBanks\\Music\\MusicSwitch_V2",
+    "ShortName": "MusicSwitch_V2",
+    "Path": "MusicSwitch_V2.bnk"
+   }
+  ],
+  "FileHash": "{D46675EB-6272-8F2F-37CA-0F3B1A8F5755}"
+ }
+}

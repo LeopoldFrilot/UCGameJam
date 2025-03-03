@@ -1,5 +1,6 @@
 State Group	ID	Name			Wwise Object Path	Notes
 	1447980276	Music_EnvironmentStateGroup			\Music\Music_EnvironmentStateGroup	
+	2120750907	MusicSwitch_V2_State			\Music\MusicSwitch_V2_State	
 
 State	ID	Name	State Group			Notes
 	194580953	ForestBase_Bison	Music_EnvironmentStateGroup			
@@ -24,6 +25,11 @@ State	ID	Name	State Group			Notes
 	3604647259	MainMenu	Music_EnvironmentStateGroup			
 	3713964256	TownBase_Fox	Music_EnvironmentStateGroup			
 	4162693989	MountainBase_Fox	Music_EnvironmentStateGroup			
+	748895195	None	MusicSwitch_V2_State			
+	1014487228	setstate_mountain	MusicSwitch_V2_State			
+	2319667930	setstate_jungle	MusicSwitch_V2_State			
+	3482491373	setstate_town	MusicSwitch_V2_State			
+	4090379250	setstate_forest	MusicSwitch_V2_State			
 
 Game Parameter	ID	Name			Wwise Object Path	Notes
 	504532776	Brick			\Factory Acoustic Textures\Textures\Brick	

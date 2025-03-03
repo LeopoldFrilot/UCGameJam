@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
-    "Hash": "{4F1A6BAA-D9CC-37A8-BFA3-C61336E3CB8E}",
+    "Hash": "{8F4B68F0-A56F-D7E2-D55B-D52DF8A99834}",
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk",
@@ -66,6 +66,12 @@
       "Name": "SS_Air_Fear",
       "ObjectPath": "\\Game Parameters\\Factory Soundseed Air Game Syncs\\SS_Air_Fear",
       "GUID": "{F72E0659-4346-4E1C-A1B1-DAB46A05101E}"
+     },
+     {
+      "Id": "2204733095",
+      "Name": "PlaybackPosition",
+      "ObjectPath": "\\Game Parameters\\Music Layer Control\\PlaybackPosition",
+      "GUID": "{EA906266-2036-4382-87BA-946D8B1444AC}"
      },
      {
       "Id": "2648548617",
@@ -267,6 +273,44 @@
         "ObjectPath": "\\States\\Music\\Music_EnvironmentStateGroup\\MountainBase_Fox",
         "GUID": "{18FD7022-212D-4647-B526-6DB2AE6CD99C}",
         "Color": "15"
+       }
+      ]
+     },
+     {
+      "Id": "2120750907",
+      "Name": "MusicSwitch_V2_State",
+      "ObjectPath": "\\States\\Music\\MusicSwitch_V2_State",
+      "GUID": "{BEAF557F-77AD-4D97-9213-8FD24EB47F0B}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Music\\MusicSwitch_V2_State\\None",
+        "GUID": "{D07B3A97-5BEC-4085-B10E-74E862F1AF75}"
+       },
+       {
+        "Id": "1014487228",
+        "Name": "setstate_mountain",
+        "ObjectPath": "\\States\\Music\\MusicSwitch_V2_State\\setstate_mountain",
+        "GUID": "{63354DC8-E071-49ED-AF8B-1DE6968050E5}"
+       },
+       {
+        "Id": "2319667930",
+        "Name": "setstate_jungle",
+        "ObjectPath": "\\States\\Music\\MusicSwitch_V2_State\\setstate_jungle",
+        "GUID": "{1AA795D3-F175-4FEE-B59A-458B4483CF6F}"
+       },
+       {
+        "Id": "3482491373",
+        "Name": "setstate_town",
+        "ObjectPath": "\\States\\Music\\MusicSwitch_V2_State\\setstate_town",
+        "GUID": "{9AB4649C-B4EC-4967-A8D1-C76457865852}"
+       },
+       {
+        "Id": "4090379250",
+        "Name": "setstate_forest",
+        "ObjectPath": "\\States\\Music\\MusicSwitch_V2_State\\setstate_forest",
+        "GUID": "{37BEF152-3333-458E-B2E0-994795AB8587}"
        }
       ]
      }
@@ -905,6 +949,6 @@
     ]
    }
   ],
-  "FileHash": "{D78986D3-CC8B-94EE-CACD-F3C4464835CF}"
+  "FileHash": "{65F4103F-443B-4871-DE76-5E432CEC6BF2}"
  }
 }
