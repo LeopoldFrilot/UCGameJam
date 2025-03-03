@@ -199,6 +199,50 @@
 						<ActiveSource Name="2_0_Bison" ID="{7FFE6E96-3638-42D6-B0F1-F42B7DCC6631}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
+				<Sound Name="Bison_6_4" ID="{DDBB1D3A-6663-4EDB-8921-D8E8B6A5593A}" ShortID="856272431">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Bison_6_4" ID="{9C06EA04-3278-48E0-BD41-708F7B3E9709}">
+							<Language>SFX</Language>
+							<AudioFile>Bison_6_4.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="277324876"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Bison_6_4" ID="{9C06EA04-3278-48E0-BD41-708F7B3E9709}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="Bison_6_4_1" ID="{18A74DC0-B236-451C-AC29-AC43383D17A3}" ShortID="694663341">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Bison_6_4_1" ID="{1359EE03-6F4A-4132-B524-88E03601C19F}">
+							<Language>SFX</Language>
+							<AudioFile>Bison_6_4_1.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="398979805"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Bison_6_4_1" ID="{1359EE03-6F4A-4132-B524-88E03601C19F}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>

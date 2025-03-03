@@ -223,6 +223,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Narrator_6_1" ID="{BACF36A6-8421-404D-BCF3-0FAA863A2B69}"/>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

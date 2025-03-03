@@ -1,0 +1,34 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3703157417",
+    "Type": "Event",
+    "GUID": "{BACF36A6-8421-404D-BCF3-0FAA863A2B69}",
+    "Language": "SFX",
+    "Hash": "{A87F8DAF-4873-36A8-BC3B-7E1D3E3217AD}",
+    "ObjectPath": "Narrator_6_1",
+    "ShortName": "Narrator_6_1",
+    "Path": "Event/Narrator_6_1.bnk",
+    "Events": [
+     {
+      "Id": "3703157417",
+      "Name": "Narrator_6_1",
+      "ObjectPath": "\\Events\\Dialogue\\Narrator\\Narrator_6_1",
+      "GUID": "{BACF36A6-8421-404D-BCF3-0FAA863A2B69}",
+      "Color": "19",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{5896A66E-B74B-5C9D-A764-B4C5A6E7E9F8}"
+ }
+}
