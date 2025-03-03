@@ -1,3 +1,0 @@
-Event	ID	Name			Wwise Object Path	Notes
-	3778472923	setstate_mountainbase			\Music\Set State Events\setstate_mountainbase	
-

@@ -1,3 +1,0 @@
-Event	ID	Name			Wwise Object Path	Notes
-	2893020138	setstate_junglebase_turtle			\Music\Set State Events\setstate_junglebase_turtle	
-
