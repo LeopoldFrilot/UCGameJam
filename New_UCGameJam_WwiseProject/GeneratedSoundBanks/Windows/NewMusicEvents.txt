@@ -1,0 +1,86 @@
+Event	ID	Name			Wwise Object Path	Notes
+	56367454	setstate_townbase			\Music\Set State Events\setstate_townbase	
+	270170587	play_environmentalmusicswitch			\Music\play_environmentalmusicswitch	
+	405526455	setstate_townbase_turtle			\Music\Set State Events\setstate_townbase_turtle	
+	641048667	setstate_forestbase_end			\Music\Set State Events\setstate_forestbase_end	
+	986122898	setstate_townbase_bison			\Music\Set State Events\setstate_townbase_bison	
+	1161301979	setstate_forestbase_fox			\Music\Set State Events\setstate_forestbase_fox	
+	1204199539	setstate_junglebase_fox			\Music\Set State Events\setstate_junglebase_fox	
+	1418536084	setstate_finale			\Music\Set State Events\setstate_finale	
+	1733802643	setstate_mountainbase_bison			\Music\Set State Events\setstate_mountainbase_bison	
+	2020287853	setstate_forestbase_bison			\Music\Set State Events\setstate_forestbase_bison	
+	2047228178	setstate_forestbase_turtle			\Music\Set State Events\setstate_forestbase_turtle	
+	2304933343	setstate_mainmenu			\Music\Set State Events\setstate_mainmenu	
+	2893020138	setstate_junglebase_turtle			\Music\Set State Events\setstate_junglebase_turtle	
+	2947508833	setstate_junglebase			\Music\Set State Events\setstate_junglebase	
+	3424527769	setstate_mountainbase_fox			\Music\Set State Events\setstate_mountainbase_fox	
+	3519005077	setstate_junglebase_bison			\Music\Set State Events\setstate_junglebase_bison	
+	3602780574	setstate_caveambience			\Music\Set State Events\setstate_caveambience	
+	3671522768	setstate_mountainbase_turtle			\Music\Set State Events\setstate_mountainbase_turtle	
+	3704537177	setstate_forestbase			\Music\Set State Events\setstate_forestbase	
+	3778472923	setstate_mountainbase			\Music\Set State Events\setstate_mountainbase	
+	4062921828	setstate_townbase_fox			\Music\Set State Events\setstate_townbase_fox	
+	4161313512	setstate_keyhole			\Music\Set State Events\setstate_keyhole	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	3670165402	Music_SwitchGroup			\Default Work Unit\Music_SwitchGroup	
+
+Switch	ID	Name	Switch Group			Notes
+	194580953	ForestBase_Bison	Music_SwitchGroup			
+	286395037	JungleBase	Music_SwitchGroup			
+	435632177	MoutainBase_Bison	Music_SwitchGroup			
+	569714735	ForestBase_End	Music_SwitchGroup			
+	586100606	TownBase_Bison	Music_SwitchGroup			
+	699082574	JungleBase_Turtle	Music_SwitchGroup			
+	971182938	CaveAmbience	Music_SwitchGroup			
+	1044481740	Keyhole	Music_SwitchGroup			
+	1089968087	ForestBase_Fox	Music_SwitchGroup			
+	1410155337	JungleBase_Bison	Music_SwitchGroup			
+	1525389319	JungleBase_Fox	Music_SwitchGroup			
+	1552951391	MoutainBase_Fox	Music_SwitchGroup			
+	2266067251	TownBase_Turtle	Music_SwitchGroup			
+	2361562093	ForestBase	Music_SwitchGroup			
+	2394783333	MoutainBase	Music_SwitchGroup			
+	2455225329	FinaleMusic	Music_SwitchGroup			
+	2590592578	TownBase	Music_SwitchGroup			
+	3247706854	MoutainBase_Turtle	Music_SwitchGroup			
+	3500157790	ForestBase_Turtle	Music_SwitchGroup			
+	3604647259	MainMenu	Music_SwitchGroup			
+	3713964256	TownBase_Fox	Music_SwitchGroup			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+<<<<<<< Updated upstream:New_UCGameJam_WwiseProject/GeneratedSoundBanks/Windows/MusicSoundBank.txt
+	61125819	MainTheme_120_P1_38M	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\5F\{5FFB19CC-FA04-AC97-E064-076E01F86C40}.wem		\Interactive Music Hierarchy\Music\EnvironmentalMusicSwitch\MainTheme_120_P1_38M\MainTheme_120_P1_38M		13406496
+	188272564	Bison_Jungle_220_60M	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\BB\{BBD0F00C-9CCC-15A9-A8F5-6E7C5601D83B}.wem		\Interactive Music Hierarchy\Music\EnvironmentalMusicSwitch\Bison_Jungle_220_60M\Bison_Jungle_220_60M		16458216
+	236092955	CaveAmbience_120_2M	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\3E\{3E61C82E-B124-0E8E-36DC-B289AC2990CC}.wem		\Interactive Music Hierarchy\Music\EnvironmentalMusicSwitch\CaveAmbience_120_2M\CaveAmbience_120_2M		1417632
+	268249401	Turtle_Town_70_P1_M42	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\77\{770A6FB2-4DB0-46B1-FB4E-1A6BABFF44BB}.wem		\Interactive Music Hierarchy\Music\EnvironmentalMusicSwitch\Turtle_Town_70_P1_M42\Turtle_Town_70_P1_M42		25401696
+	353757325	FinalGauntlet_145_50M	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\D8\{D869C827-9F8B-7054-CB7A-49A4E58901F8}.wem		\Interactive Music Hierarchy\Music\EnvironmentalMusicSwitch\FinalGauntlet_145_50M\FinalGauntlet_145_50M		14598720
+	355898398	Turtle_Jungle_220_60M	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\4B\{4B56A9AE-C42E-CBEA-72EF-CEF1C9FFFF88}.wem		\Interactive Music Hierarchy\Music\EnvironmentalMusicSwitch\Turtle_Jungle_220_60M\Turtle_Jungle_220_60M		16458216
+	362199500	Turtle_Forest_90_P1_23M	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\18\{18368309-EC62-325F-029D-D7BAA0AC9434}.wem		\Interactive Music Hierarchy\Music\EnvironmentalMusicSwitch\Turtle_Forest_90_P1_23M\Turtle_Forest_90_P1_23M		13986900
+	389945573	Fox_Mountain_180_P1_M57	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\9F\{9FA2C7D8-A96D-90F2-254D-AD2C6CB5EBB3}.wem		\Interactive Music Hierarchy\Music\EnvironmentalMusicSwitch\Fox_Mountain_180_P1_M57\Fox_Mountain_180_P1_M57		17934096
+	553835786	Base_Town_70_P1_M42	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\A2\{A296CA3D-0434-E950-980B-AF354EE94F24}.wem		\Interactive Music Hierarchy\Music\EnvironmentalMusicSwitch\Base_Town_70_P1_M42\Base_Town_70_P1_M42		25401696
+	561426790	Fox_Forest_90_P1_23M	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\A0\{A024A86C-5427-EFCA-DDA0-9FAA1FA2B5DA}.wem		\Interactive Music Hierarchy\Music\EnvironmentalMusicSwitch\Fox_Forest_90_P1_23M\Fox_Forest_90_P1_23M		25276500
+	654732009	Base_Mountain_180_P1_M57	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\8C\{8C393569-61B5-803F-3045-718BDA7A0AC7}.wem		\Interactive Music Hierarchy\Music\EnvironmentalMusicSwitch\Base_Mountain_180_P1_M57\Base_Mountain_180_P1_M57		17934096
+	720517380	Bison_Town_70_P1_M42	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\D1\{D18ED2BA-4878-84B2-A5F6-5D74AD1C6D16}.wem		\Interactive Music Hierarchy\Music\EnvironmentalMusicSwitch\Bison_Town_70_P1_M42\Bison_Town_70_P1_M42		25401696
+	737404590	Bison_Mountain_180_P1_M57	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\6C\{6C0675C3-A8C3-8931-C624-C094895B249B}.wem		\Interactive Music Hierarchy\Music\EnvironmentalMusicSwitch\Bison_Mountain_180_P1_M57\Bison_Mountain_180_P1_M57		17934096
+	832757559	BaseForm_Jungle_220_60M	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\F8\{F8FC344C-AEB2-13DB-5BBF-F48E6564A75F}.wem		\Interactive Music Hierarchy\Music\EnvironmentalMusicSwitch\Base_Jungle_220_60M\BaseForm_Jungle_220_60M		16458216
+	896261069	Turtle_Mountain_180_P1_M57	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\10\{107D2464-411A-03C3-6F51-5BD4C334204C}.wem		\Interactive Music Hierarchy\Music\EnvironmentalMusicSwitch\Turtle_Mountain_180_P1_M57\Turtle_Mountain_180_P1_M57		17934096
+	897119248	Base_Forest_90_P1_23M	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\DB\{DB3ECA47-2F00-5C7D-46C8-13BFB9296721}.wem		\Interactive Music Hierarchy\Music\EnvironmentalMusicSwitch\Base_Forest_90_P1_23M\Base_Forest_90_P1_23M		10348896
+	961251536	Keyhole_120_3M	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\DA\{DAC00D67-B498-06F5-524B-7F6512EF09C7}.wem		\Interactive Music Hierarchy\Music\EnvironmentalMusicSwitch\Keyhole_120_3M\Keyhole_120_3M		1234896
+	971490900	Fox_Jungle_220_60M	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\3D\{3DCB9D0E-46A6-30BA-FC74-44A6B592BCD2}.wem		\Interactive Music Hierarchy\Music\EnvironmentalMusicSwitch\Fox_Jungle_220_60M\Fox_Jungle_220_60M		16458216
+	1010437247	Bison_Forest_90_P1_23M	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\F9\{F9DA77AA-666D-2A56-C99C-2F1B5A0A9E16}.wem		\Interactive Music Hierarchy\Music\EnvironmentalMusicSwitch\Bison_Forest_90_P1_23M\Bison_Forest_90_P1_23M		25276500
+	1061003077	Fox_Town_70_P1_M42	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\2D\{2DA4CB0B-6154-F483-A173-49821C0D5F73}.wem		\Interactive Music Hierarchy\Music\EnvironmentalMusicSwitch\Fox_Town_70_P1_M42\Fox_Town_70_P1_M42		25401696
+=======
+	268249401	Turtle_Town_70_P1_M42	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\77\{770A6FB2-4DB0-46B1-FB4E-1A6BABFF44BB}.wem		\Interactive Music Hierarchy\Music\Turtle_Town\Turtle_Town_70_P1_M42\Turtle_Town_70_P1_M42		25401696
+	353757325	FinalGauntlet_145_50M	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\D8\{D869C827-9F8B-7054-CB7A-49A4E58901F8}.wem		\Interactive Music Hierarchy\Music\Finale\FinalGauntlet_145_50M\FinalGauntlet_145_50M		14598720
+	553835786	Base_Town_70_P1_M42	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\A2\{A296CA3D-0434-E950-980B-AF354EE94F24}.wem		\Interactive Music Hierarchy\Music\Base_Town\Base_Town_70_P1_M42\Base_Town_70_P1_M42		25401696
+	561426790	Fox_Forest_90_P1_23M	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\A0\{A024A86C-5427-EFCA-DDA0-9FAA1FA2B5DA}.wem		\Interactive Music Hierarchy\Music\Fox_Forest\Fox_Forest_90_P1_23M\Fox_Forest_90_P1_23M		25276500
+	654732009	Base_Mountain_180_P1_M57	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\8C\{8C393569-61B5-803F-3045-718BDA7A0AC7}.wem		\Interactive Music Hierarchy\Music\Base_Mountain\Base_Mountain_180_P1_M57\Base_Mountain_180_P1_M57		17934096
+	688029564	OpeningCutscene_70_17M	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\D7\{D79468D4-F8AD-7B0B-CF3A-7D4E48313D21}.wem		\Interactive Music Hierarchy\Music\OpeningCutscene_70_17M\OpeningCutscene_70_17M		10281696
+	737404590	Bison_Mountain_180_P1_M57	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\6C\{6C0675C3-A8C3-8931-C624-C094895B249B}.wem		\Interactive Music Hierarchy\Music\Bison_Mountain\Bison_Mountain_180_P1_M57\Bison_Mountain_180_P1_M57		17934096
+	832757559	BaseForm_Jungle_220_60M	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\F8\{F8FC344C-AEB2-13DB-5BBF-F48E6564A75F}.wem		\Interactive Music Hierarchy\Music\Base_Jungle\Base_Jungle_220_60M\BaseForm_Jungle_220_60M		16458216
+	897119248	Base_Forest_90_P1_23M	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\DB\{DB3ECA47-2F00-5C7D-46C8-13BFB9296721}.wem		\Interactive Music Hierarchy\Music\Base_Forest\Base_Forest_90_P1_23M\Base_Forest_90_P1_23M		10348896
+	909418832	EndingCutscene_90_16M	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\C6\{C6F4C618-B37F-9924-2598-BD2DE445BA68}.wem		\Interactive Music Hierarchy\Music\EndingCutscene_90_16M\EndingCutscene_90_16M		7526496
+	961251536	Keyhole_120_3M	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\DA\{DAC00D67-B498-06F5-524B-7F6512EF09C7}.wem		\Interactive Music Hierarchy\Music\Keyhole_120_3M\Keyhole_120_3M		1234896
+>>>>>>> Stashed changes:New_UCGameJam_WwiseProject/GeneratedSoundBanks/Windows/NewMusicEvents.txt
+
