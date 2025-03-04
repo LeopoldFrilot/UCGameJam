@@ -4,6 +4,9 @@
 		<WorkUnit Name="Forest" ID="{2B98268B-C42F-4E72-9215-2C2F9B1DC947}" PersistMode="Standalone">
 			<ChildrenList>
 				<Sound Name="amb_forest_day_calm" ID="{BA9C8D7F-CAE5-4709-8024-245CB880A832}" ShortID="279265178">
+					<PropertyList>
+						<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>

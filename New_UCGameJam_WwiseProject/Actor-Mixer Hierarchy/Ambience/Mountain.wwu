@@ -14,6 +14,9 @@
 					</ReferenceList>
 					<ChildrenList>
 						<Sound Name="amb_gentle_wind_01" ID="{846B563E-42C7-4CE8-AD25-1E09D76ADF8A}" ShortID="95680826">
+							<PropertyList>
+								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
@@ -36,6 +39,9 @@
 							</ActiveSourceList>
 						</Sound>
 						<Sound Name="amb_gentle_wind_02" ID="{5BEE35CC-B3D4-43D2-B549-3833AAD0012B}" ShortID="753311806">
+							<PropertyList>
+								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
@@ -58,6 +64,9 @@
 							</ActiveSourceList>
 						</Sound>
 						<Sound Name="amb_gentle_wind_03" ID="{F8903E64-DA8B-421E-853F-E0FC8EC6582B}" ShortID="320128345">
+							<PropertyList>
+								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
@@ -80,6 +89,9 @@
 							</ActiveSourceList>
 						</Sound>
 						<Sound Name="amb_gentle_wind_04" ID="{944FEBFD-154C-4345-B530-DD95975500AF}" ShortID="742314701">
+							<PropertyList>
+								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
@@ -102,6 +114,9 @@
 							</ActiveSourceList>
 						</Sound>
 						<Sound Name="amb_gentle_wind_05" ID="{3E362879-4437-461F-B1F9-2915D5CA2D21}" ShortID="760202283">
+							<PropertyList>
+								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>

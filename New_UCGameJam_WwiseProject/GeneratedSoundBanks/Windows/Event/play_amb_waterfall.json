@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{A94E4932-642C-4BC7-BF98-3969FB49BF59}",
     "Language": "SFX",
-    "Hash": "{5264F981-277E-F396-524A-281197ABB7D1}",
+    "Hash": "{D2BD77EF-9C33-3E6A-28AA-1885E457BC38}",
     "ObjectPath": "play_amb_waterfall",
     "ShortName": "play_amb_waterfall",
     "Path": "Event/play_amb_waterfall.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "amb_cave_waterfall.wav",
       "Path": "Media/244424738.wem",
-      "CachePath": "39/{397C1003-C830-2D80-C0FE-D6337007A69E}.wem"
+      "CachePath": "42/{4287F610-F2E9-E831-8D72-6A4F9EE983C3}.wem"
      }
     ],
     "Events": [
@@ -32,26 +32,16 @@
       "ObjectPath": "\\Events\\Ambience\\Cave\\play_amb_waterfall",
       "GUID": "{A94E4932-642C-4BC7-BF98-3969FB49BF59}",
       "Color": "5",
-      "DurationType": "OneShot",
-      "DurationMin": "236.54596",
-      "DurationMax": "236.54596",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "244424738"
        }
       ]
      }
-    ],
-    "GameParameters": [
-     {
-      "Id": "1333026528",
-      "Name": "Music_Proximity",
-      "ObjectPath": "\\Game Parameters\\Music Layer Control\\Music_Proximity",
-      "GUID": "{81DBE1A9-C6FE-4B58-9B9F-457481EEF51E}"
-     }
     ]
    }
   ],
-  "FileHash": "{2466A726-6B8B-55A6-A604-152E01271DD9}"
+  "FileHash": "{D15C0312-BE61-AB28-0799-DDE7F2ED30B2}"
  }
 }

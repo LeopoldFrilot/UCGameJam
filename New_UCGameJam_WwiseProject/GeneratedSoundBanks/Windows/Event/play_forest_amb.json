@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{EEA5E64A-5058-426D-8998-9601E364C69B}",
     "Language": "SFX",
-    "Hash": "{AA758BA0-D866-E632-C89E-D1B38CC9EBCB}",
+    "Hash": "{77882226-BF3D-E00A-A92A-1457AF5985B1}",
     "ObjectPath": "play_forest_amb",
     "ShortName": "play_forest_amb",
     "Path": "Event/play_forest_amb.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "amb_forest_day_calm.wav",
       "Path": "Media/949655227.wem",
-      "CachePath": "F2/{F26DA297-8560-AA00-F967-421526141F77}.wem"
+      "CachePath": "F9/{F9D9D471-7CDC-48C8-F9CB-EE7A066A2470}.wem"
      }
     ],
     "Events": [
@@ -32,9 +32,7 @@
       "ObjectPath": "\\Events\\Ambience\\Forest\\play_forest_amb",
       "GUID": "{EEA5E64A-5058-426D-8998-9601E364C69B}",
       "Color": "5",
-      "DurationType": "OneShot",
-      "DurationMin": "76.37834",
-      "DurationMax": "76.37834",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "949655227"
@@ -44,6 +42,6 @@
     ]
    }
   ],
-  "FileHash": "{91CFCA36-9899-BC76-9AAD-345BF3AD211D}"
+  "FileHash": "{952CD5EC-CA4E-15CB-3A53-A0CD4A0A65A4}"
  }
 }

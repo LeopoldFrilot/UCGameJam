@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{34009E22-C9D0-4054-9C09-36BFB04D1D38}",
     "Language": "SFX",
-    "Hash": "{AB11F2A7-B80C-C4E1-3B75-8828B4AE32E3}",
+    "Hash": "{AB699659-C51F-0173-44E3-2D42D54A8E4C}",
     "ObjectPath": "play_cave_waterdrop",
     "ShortName": "play_cave_waterdrop",
     "Path": "Event/play_cave_waterdrop.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "amb_cave_waterdrop.wav",
       "Path": "Media/798108893.wem",
-      "CachePath": "1D/{1D78E51D-905C-1C1C-A473-4B113106B3CD}.wem"
+      "CachePath": "16/{1655CEC6-3FD3-024C-628E-DFF94CE79FBC}.wem"
      }
     ],
     "Events": [
@@ -32,9 +32,7 @@
       "ObjectPath": "\\Events\\Ambience\\Cave\\play_cave_waterdrop",
       "GUID": "{34009E22-C9D0-4054-9C09-36BFB04D1D38}",
       "Color": "5",
-      "DurationType": "OneShot",
-      "DurationMin": "125.2439",
-      "DurationMax": "125.2439",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "798108893"
@@ -44,6 +42,6 @@
     ]
    }
   ],
-  "FileHash": "{7E41C67A-EC7F-9BB7-2350-BFAC4BF11B4F}"
+  "FileHash": "{992E6325-897B-B964-5596-FCD09BBF185D}"
  }
 }

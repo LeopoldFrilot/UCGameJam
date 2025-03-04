@@ -4,6 +4,9 @@
 		<WorkUnit Name="Cave" ID="{A2EC9233-3768-49C9-856A-257AED729966}" PersistMode="Standalone">
 			<ChildrenList>
 				<Sound Name="amb_cave_waterdrop" ID="{0BF3DFDF-7C19-4FA6-85AA-873B498967CA}" ShortID="736785378">
+					<PropertyList>
+						<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
