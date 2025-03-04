@@ -475,7 +475,17 @@
 								</Action>
 							</ChildrenList>
 						</Event>
-						<Event Name="play_fox" ID="{3DCAA5B4-0FE2-463C-97D4-D1E1B03A81E9}"/>
+						<Event Name="play_fox" ID="{3DCAA5B4-0FE2-463C-97D4-D1E1B03A81E9}">
+							<ChildrenList>
+								<Action Name="" ID="{1A0E4344-2198-4855-A3F4-277A9FB07A3C}" ShortID="144171273">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Fox_Forest_90_P1_23M" ID="{DBA5754C-E706-4099-BF2F-509634D52859}" WorkUnitID="{392C3C07-326F-4C17-A66B-D0793B595F32}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 						<Event Name="play_bison" ID="{9270FAA5-6DFC-4447-8DE5-BA9DDCE078D4}">
 							<ChildrenList>
 								<Action Name="" ID="{37A9DD9A-538A-4746-8BA1-AEB6B7F0F385}" ShortID="375647934">
@@ -487,11 +497,51 @@
 								</Action>
 							</ChildrenList>
 						</Event>
-						<Event Name="play_turtle" ID="{AC10E935-424D-40A5-80ED-A1C128233BF0}"/>
-						<Event Name="play_keyhole" ID="{914CAEDF-F30C-47AE-B75E-389B7EF877D0}"/>
+						<Event Name="play_turtle" ID="{AC10E935-424D-40A5-80ED-A1C128233BF0}">
+							<ChildrenList>
+								<Action Name="" ID="{33742C7A-DB62-40BB-A973-E499EBB7EA15}" ShortID="281389446">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Turtle_Town_70_P1_M42" ID="{23A83CF1-1350-4691-93F6-DEA28AC79F5E}" WorkUnitID="{392C3C07-326F-4C17-A66B-D0793B595F32}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="play_keyhole" ID="{914CAEDF-F30C-47AE-B75E-389B7EF877D0}">
+							<ChildrenList>
+								<Action Name="" ID="{B9B2630C-2674-4870-90A0-476A09237AF6}" ShortID="596797541">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Keyhole_120_3M" ID="{22A72DA6-6274-4994-8D3E-15F7FEEDDB3C}" WorkUnitID="{392C3C07-326F-4C17-A66B-D0793B595F32}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 						<Event Name="play_endgame" ID="{EC21855C-D3CB-469F-8296-788552414E05}"/>
-						<Event Name="play_prologue" ID="{0839B71D-2EAD-4188-AD1F-83040E48DE1A}"/>
-						<Event Name="play_epilogue" ID="{7C2B420B-C96D-4396-8497-21373A3C74A7}"/>
+						<Event Name="play_prologue" ID="{0839B71D-2EAD-4188-AD1F-83040E48DE1A}">
+							<ChildrenList>
+								<Action Name="" ID="{DBB04AA6-7B56-46A2-B528-34335FD43048}" ShortID="552804952">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="OpeningCutscene_70_17M" ID="{164DFC7F-00CA-4E3A-8EAB-E854A67D3DD8}" WorkUnitID="{392C3C07-326F-4C17-A66B-D0793B595F32}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="play_epilogue" ID="{7C2B420B-C96D-4396-8497-21373A3C74A7}">
+							<ChildrenList>
+								<Action Name="" ID="{0019C3DD-069B-4D34-A2A4-3835FB45B5F1}" ShortID="891643977">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="EndingCutscene_90_16M" ID="{2505FD23-2B75-4661-8316-88A73544A1FD}" WorkUnitID="{392C3C07-326F-4C17-A66B-D0793B595F32}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 					</ChildrenList>
 				</Folder>
 			</ChildrenList>

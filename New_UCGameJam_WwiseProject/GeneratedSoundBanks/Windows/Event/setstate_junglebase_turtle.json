@@ -1,0 +1,205 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2893020138",
+    "Type": "Event",
+    "GUID": "{614E887B-433A-4AB0-B82E-BFF37376C91B}",
+    "Language": "SFX",
+    "Hash": "{8CF3F0DA-DD98-590F-1596-446B43FB25FE}",
+    "ObjectPath": "setstate_junglebase_turtle",
+    "ShortName": "setstate_junglebase_turtle",
+    "Path": "Event/setstate_junglebase_turtle.bnk",
+    "Events": [
+     {
+      "Id": "2893020138",
+      "Name": "setstate_junglebase_turtle",
+      "ObjectPath": "\\Events\\Music\\Set State Events\\setstate_junglebase_turtle",
+      "GUID": "{614E887B-433A-4AB0-B82E-BFF37376C91B}",
+      "Color": "16",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "1447980276",
+        "Id": "699082574",
+        "Name": "JungleBase_Turtle",
+        "ObjectPath": "\\States\\Music\\Music_EnvironmentStateGroup\\JungleBase_Turtle",
+        "GUID": "{49383394-9483-4AA4-AD5F-0CB3CBC0214D}",
+        "Color": "3"
+       }
+      ]
+     }
+    ],
+    "StateGroups": [
+     {
+      "Id": "1447980276",
+      "Name": "Music_EnvironmentStateGroup",
+      "ObjectPath": "\\States\\Music\\Music_EnvironmentStateGroup",
+      "GUID": "{8AC3F24B-AD6B-4B10-BA7C-A388A8A129DE}",
+      "States": [
+       {
+        "Id": "194580953",
+        "Name": "ForestBase_Bison",
+        "ObjectPath": "\\States\\Music\\Music_EnvironmentStateGroup\\ForestBase_Bison",
+        "GUID": "{C5A07BAB-A6AF-43B7-96A9-CAE64612F92E}",
+        "Color": "4"
+       },
+       {
+        "Id": "286395037",
+        "Name": "JungleBase",
+        "ObjectPath": "\\States\\Music\\Music_EnvironmentStateGroup\\JungleBase",
+        "GUID": "{3F19BEF5-2225-4441-B99D-E3D699F2DB07}",
+        "Color": "3"
+       },
+       {
+        "Id": "500737996",
+        "Name": "MountainBase_Turtle",
+        "ObjectPath": "\\States\\Music\\Music_EnvironmentStateGroup\\MountainBase_Turtle",
+        "GUID": "{CC3ADEFF-DFE7-4614-89D7-8E4D55AF5E8A}",
+        "Color": "15"
+       },
+       {
+        "Id": "569714735",
+        "Name": "ForestBase_End",
+        "ObjectPath": "\\States\\Music\\Music_EnvironmentStateGroup\\ForestBase_End",
+        "GUID": "{C16F2E5C-9975-4D8D-85FF-07F759CF1EC4}",
+        "Color": "4"
+       },
+       {
+        "Id": "586100606",
+        "Name": "TownBase_Bison",
+        "ObjectPath": "\\States\\Music\\Music_EnvironmentStateGroup\\TownBase_Bison",
+        "GUID": "{C4049E83-4394-4412-A6F7-A3D81FC07236}",
+        "Color": "25"
+       },
+       {
+        "Id": "688641135",
+        "Name": "MountainBase",
+        "ObjectPath": "\\States\\Music\\Music_EnvironmentStateGroup\\MountainBase",
+        "GUID": "{7DCF93FF-23EA-4F0D-B102-73DBCC22D7C6}",
+        "Color": "15"
+       },
+       {
+        "Id": "699082574",
+        "Name": "JungleBase_Turtle",
+        "ObjectPath": "\\States\\Music\\Music_EnvironmentStateGroup\\JungleBase_Turtle",
+        "GUID": "{49383394-9483-4AA4-AD5F-0CB3CBC0214D}",
+        "Color": "3"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Music\\Music_EnvironmentStateGroup\\None",
+        "GUID": "{0BCD0DCC-B1E7-40B2-8697-145998FF0B8C}"
+       },
+       {
+        "Id": "971182938",
+        "Name": "CaveAmbience",
+        "ObjectPath": "\\States\\Music\\Music_EnvironmentStateGroup\\CaveAmbience",
+        "GUID": "{AFA0840F-1882-44FB-A285-B8CE49DD6B4C}"
+       },
+       {
+        "Id": "1044481740",
+        "Name": "Keyhole",
+        "ObjectPath": "\\States\\Music\\Music_EnvironmentStateGroup\\Keyhole",
+        "GUID": "{FD805E68-8988-4184-81F5-E11CBF7DAC7F}",
+        "Color": "7"
+       },
+       {
+        "Id": "1089968087",
+        "Name": "ForestBase_Fox",
+        "ObjectPath": "\\States\\Music\\Music_EnvironmentStateGroup\\ForestBase_Fox",
+        "GUID": "{61C5AF21-66DB-4DD7-AA83-05C8DF586D8B}",
+        "Color": "4"
+       },
+       {
+        "Id": "1410155337",
+        "Name": "JungleBase_Bison",
+        "ObjectPath": "\\States\\Music\\Music_EnvironmentStateGroup\\JungleBase_Bison",
+        "GUID": "{28818769-27DA-431B-A13A-CE47075C8832}",
+        "Color": "3"
+       },
+       {
+        "Id": "1525389319",
+        "Name": "JungleBase_Fox",
+        "ObjectPath": "\\States\\Music\\Music_EnvironmentStateGroup\\JungleBase_Fox",
+        "GUID": "{4E646FB4-9045-4BC2-B82A-4A059C90311C}",
+        "Color": "3"
+       },
+       {
+        "Id": "2266067251",
+        "Name": "TownBase_Turtle",
+        "ObjectPath": "\\States\\Music\\Music_EnvironmentStateGroup\\TownBase_Turtle",
+        "GUID": "{418CBF5D-3462-4448-917A-25E6D4E1C765}",
+        "Color": "25"
+       },
+       {
+        "Id": "2361562093",
+        "Name": "ForestBase",
+        "ObjectPath": "\\States\\Music\\Music_EnvironmentStateGroup\\ForestBase",
+        "GUID": "{07D21ACC-51A1-434D-AE5C-108D00FEDA09}",
+        "Color": "4"
+       },
+       {
+        "Id": "2455225329",
+        "Name": "FinaleMusic",
+        "ObjectPath": "\\States\\Music\\Music_EnvironmentStateGroup\\FinaleMusic",
+        "GUID": "{D6344B9F-7C0D-44F0-8B9D-6AFEE3E07932}",
+        "Color": "10"
+       },
+       {
+        "Id": "2590592578",
+        "Name": "TownBase",
+        "ObjectPath": "\\States\\Music\\Music_EnvironmentStateGroup\\TownBase",
+        "GUID": "{A65C2056-783B-4ACB-A5E3-0BB71E583959}",
+        "Color": "25"
+       },
+       {
+        "Id": "2917641631",
+        "Name": "MountainBase_Bison",
+        "ObjectPath": "\\States\\Music\\Music_EnvironmentStateGroup\\MountainBase_Bison",
+        "GUID": "{64E12E63-3905-409B-9FC7-0A413715C1CC}",
+        "Color": "15"
+       },
+       {
+        "Id": "3500157790",
+        "Name": "ForestBase_Turtle",
+        "ObjectPath": "\\States\\Music\\Music_EnvironmentStateGroup\\ForestBase_Turtle",
+        "GUID": "{1BC9AD93-FE55-49D0-8120-4F79794ABAB0}",
+        "Color": "4"
+       },
+       {
+        "Id": "3604647259",
+        "Name": "MainMenu",
+        "ObjectPath": "\\States\\Music\\Music_EnvironmentStateGroup\\MainMenu",
+        "GUID": "{49663F9C-544C-4D62-BF74-7A098007C833}"
+       },
+       {
+        "Id": "3713964256",
+        "Name": "TownBase_Fox",
+        "ObjectPath": "\\States\\Music\\Music_EnvironmentStateGroup\\TownBase_Fox",
+        "GUID": "{971D81F9-7159-43F8-B594-242CB88CEDB6}",
+        "Color": "25"
+       },
+       {
+        "Id": "4162693989",
+        "Name": "MountainBase_Fox",
+        "ObjectPath": "\\States\\Music\\Music_EnvironmentStateGroup\\MountainBase_Fox",
+        "GUID": "{18FD7022-212D-4647-B526-6DB2AE6CD99C}",
+        "Color": "15"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{424CAF88-C770-AC01-A539-7D0AB04E7C6E}"
+ }
+}

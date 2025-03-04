@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2947508833	setstate_junglebase			\Music\Set State Events\setstate_junglebase	
+

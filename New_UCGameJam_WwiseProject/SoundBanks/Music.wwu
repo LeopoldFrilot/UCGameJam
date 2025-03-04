@@ -5,8 +5,7 @@
 			<ChildrenList>
 				<SoundBank Name="MusicSoundBank" ID="{C91AF3C2-386D-4B6B-991C-34E8895D5C81}">
 					<ObjectInclusionList>
-						<ObjectRef Name="Set State Events" ID="{F4E60DC9-9CA0-4379-A4DB-1B32324FA03F}" WorkUnitID="{3D7BECF8-A511-4B20-AAF4-DD78F97BFC76}" Origin="Manual" Filter="7"/>
-						<ObjectRef Name="play_environmentalmusicswitch" ID="{074E3CC7-7AF3-4C95-A8B0-AB908437B9A0}" WorkUnitID="{3D7BECF8-A511-4B20-AAF4-DD78F97BFC76}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Music Events" ID="{12C9EF9A-794E-414E-B9AD-7E9EB2C4F99C}" WorkUnitID="{3D7BECF8-A511-4B20-AAF4-DD78F97BFC76}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>

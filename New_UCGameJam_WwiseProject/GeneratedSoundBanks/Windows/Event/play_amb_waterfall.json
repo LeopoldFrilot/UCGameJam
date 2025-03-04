@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{A94E4932-642C-4BC7-BF98-3969FB49BF59}",
     "Language": "SFX",
-    "Hash": "{D2BD77EF-9C33-3E6A-28AA-1885E457BC38}",
+    "Hash": "{64E7B171-E1BE-10E9-6700-0C1EF07C53EF}",
     "ObjectPath": "play_amb_waterfall",
     "ShortName": "play_amb_waterfall",
     "Path": "Event/play_amb_waterfall.bnk",
@@ -32,6 +32,7 @@
       "ObjectPath": "\\Events\\Ambience\\Cave\\play_amb_waterfall",
       "GUID": "{A94E4932-642C-4BC7-BF98-3969FB49BF59}",
       "Color": "5",
+      "MaxAttenuation": "40",
       "DurationType": "Infinite",
       "MediaRefs": [
        {
@@ -42,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{D15C0312-BE61-AB28-0799-DDE7F2ED30B2}"
+  "FileHash": "{B441D1F1-1F62-E7DB-1FA8-899CFA38BBF9}"
  }
 }

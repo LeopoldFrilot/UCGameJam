@@ -1,3 +1,0 @@
-Event	ID	Name			Wwise Object Path	Notes
-	2803126897	play_keyhole			\Music\Music Events\play_keyhole	
-
