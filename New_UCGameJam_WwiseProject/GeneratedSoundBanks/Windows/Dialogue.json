@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{30CFE3D3-7470-4120-B31B-8223525BD108}",
     "Language": "SFX",
-    "Hash": "{AB1FE243-4C98-D4DC-CC4F-CC571C178652}",
+    "Hash": "{424506BB-A18A-FE6E-66C6-3613BC287EB2}",
     "ObjectPath": "\\SoundBanks\\Dialogue\\Dialogue",
     "ShortName": "Dialogue",
     "Path": "Dialogue.bnk",
@@ -69,7 +69,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Opening1_2.wav",
-      "CachePath": "34/{34777565-84BC-4ED0-0F78-49BD394E7C65}.wem"
+      "CachePath": "11/{11222A76-68A6-C5C2-4AF6-F56D99B56362}.wem"
      },
      {
       "Id": "154961850",
@@ -165,7 +165,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Opening1_1.wav",
-      "CachePath": "BD/{BD6EE835-C3E2-EBC5-F178-A49B9D07499C}.wem"
+      "CachePath": "0B/{0B2C1560-B808-8EA5-5D6B-434FC151CD9A}.wem"
      },
      {
       "Id": "398979805",
@@ -189,7 +189,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Opening1_0.wav",
-      "CachePath": "F5/{F5A24721-D22A-2834-103C-ABD518A08F3E}.wem"
+      "CachePath": "AC/{ACB91E8C-2137-1F09-D62D-2E5F5851E6A3}.wem"
      },
      {
       "Id": "453997404",
@@ -221,7 +221,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Opening1_3.wav",
-      "CachePath": "6E/{6E9E5F79-9993-0E72-C248-92D4A05383B4}.wem"
+      "CachePath": "D2/{D23B62F2-0836-3BAC-92E7-B38E27499969}.wem"
      },
      {
       "Id": "490524262",
@@ -294,6 +294,14 @@
       "Location": "Memory",
       "ShortName": "2_1_Graham.wav",
       "CachePath": "6D/{6DB28B38-3FC0-7BA5-45E0-32146764322C}.wem"
+     },
+     {
+      "Id": "611788238",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "4_2_Ancestor.wav",
+      "CachePath": "76/{76D2A82C-1391-31AF-5A11-123F3035B75A}.wem"
      },
      {
       "Id": "645129789",
@@ -397,7 +405,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Narrator_6_1.wav",
-      "CachePath": "50/{5062A99A-0122-9724-432F-C4C500ACD0AA}.wem"
+      "CachePath": "EA/{EAF1AF4E-2E63-CE1D-E16A-AB9CCF125947}.wem"
      },
      {
       "Id": "943424504",
@@ -405,7 +413,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "4_1_1_Ancestor.wav",
-      "CachePath": "A4/{A46C4BAD-1409-D04C-25F6-78337B716E65}.wem"
+      "CachePath": "FE/{FEAA4DF8-4A21-B8D1-90FF-33968C9450E2}.wem"
      },
      {
       "Id": "967807972",
@@ -413,7 +421,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Fox_6_3.wav",
-      "CachePath": "41/{419C982D-A4EB-F9AA-4A39-7B08B90FF672}.wem"
+      "CachePath": "E6/{E6284337-718E-199F-BA6A-ABBC2AF514FC}.wem"
      },
      {
       "Id": "973373941",
@@ -448,11 +456,26 @@
       "GUID": "{A33D3E16-2831-4037-A93E-ACE4D17A866E}",
       "Color": "19",
       "DurationType": "OneShot",
-      "DurationMin": "46.942623",
-      "DurationMax": "46.942623",
+      "DurationMin": "25.268064",
+      "DurationMax": "25.268064",
       "MediaRefs": [
        {
         "Id": "943424504"
+       }
+      ]
+     },
+     {
+      "Id": "3866394420",
+      "Name": "ancestor_4_2",
+      "ObjectPath": "\\Events\\Dialogue\\Ancestor\\ancestor_4_2",
+      "GUID": "{89AD114C-A847-4DFC-974A-1991EDDECF3C}",
+      "Color": "19",
+      "DurationType": "OneShot",
+      "DurationMin": "8.902568",
+      "DurationMax": "8.902568",
+      "MediaRefs": [
+       {
+        "Id": "611788238"
        }
       ]
      },
@@ -1224,6 +1247,6 @@
     ]
    }
   ],
-  "FileHash": "{8727F7CC-E768-A87E-E91C-C5E2BEB5E3CC}"
+  "FileHash": "{7493611E-0474-8C61-E94A-8F7415353DB2}"
  }
 }

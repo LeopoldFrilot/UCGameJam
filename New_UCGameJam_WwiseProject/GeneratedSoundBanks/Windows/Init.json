@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
-    "Hash": "{8F4B68F0-A56F-D7E2-D55B-D52DF8A99834}",
+    "Hash": "{426519FE-E50B-4407-226A-93D1B2B99C57}",
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk",
@@ -90,6 +90,12 @@
       "Name": "SS_Air_Size",
       "ObjectPath": "\\Game Parameters\\Factory Soundseed Air Game Syncs\\SS_Air_Size",
       "GUID": "{1329EBEF-A193-472E-A38C-64668B494879}"
+     },
+     {
+      "Id": "3091942379",
+      "Name": "PlaybackPosition_01",
+      "ObjectPath": "\\Game Parameters\\Music Layer Control\\PlaybackPosition_01",
+      "GUID": "{5FB89101-A1B7-4CA4-80CE-1751EC29A3FB}"
      },
      {
       "Id": "3203397129",
@@ -949,6 +955,6 @@
     ]
    }
   ],
-  "FileHash": "{65F4103F-443B-4871-DE76-5E432CEC6BF2}"
+  "FileHash": "{AFEFF5CE-476A-7292-E563-830AF5133778}"
  }
 }

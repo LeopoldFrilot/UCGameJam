@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{C91AF3C2-386D-4B6B-991C-34E8895D5C81}",
     "Language": "SFX",
-    "Hash": "{23CB8C73-B91B-093F-17F4-75C545F129EE}",
+    "Hash": "{A74E794A-E32F-62B4-49EA-FF9AD7742C2E}",
     "ObjectPath": "\\SoundBanks\\Music\\MusicSoundBank",
     "ShortName": "MusicSoundBank",
     "Path": "MusicSoundBank.bnk",
@@ -285,6 +285,6 @@
     ]
    }
   ],
-  "FileHash": "{721B6D3F-77B2-5664-6A54-FE0EC5C7B146}"
+  "FileHash": "{9DCDFD43-C8FF-122C-E036-D822566A3FDC}"
  }
 }

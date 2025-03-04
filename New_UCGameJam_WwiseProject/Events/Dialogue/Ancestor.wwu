@@ -14,6 +14,17 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="ancestor_4_2" ID="{89AD114C-A847-4DFC-974A-1991EDDECF3C}">
+					<ChildrenList>
+						<Action Name="" ID="{14B65C62-BF06-4E39-9765-74E8B77748A5}" ShortID="602538735">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="4_2_Ancestor" ID="{0D248723-CA17-4C03-AD86-97523C1C2574}" WorkUnitID="{5A65E504-9C50-45F0-ADA5-1C6BD8F29DBB}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
