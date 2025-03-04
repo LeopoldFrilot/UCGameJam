@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{F6FAB784-AEF9-486D-8E47-A69A6D423F7C}",
     "Language": "SFX",
-    "Hash": "{6D7F3216-9DD3-4E6B-A928-F2A637319E2C}",
+    "Hash": "{13F716BB-68BF-0F09-5F46-E1A3FBB757AA}",
     "ObjectPath": "play_amb_wind",
     "ShortName": "play_amb_wind",
     "Path": "Event/play_amb_wind.bnk",
@@ -70,7 +70,7 @@
       "Color": "5",
       "DurationType": "OneShot",
       "DurationMin": "7.125329",
-      "DurationMax": "11.1980505",
+      "DurationMax": "11.178662",
       "MediaRefs": [
        {
         "Id": "16792256"
@@ -92,6 +92,6 @@
     ]
    }
   ],
-  "FileHash": "{59B8FFE1-B9BF-E1D6-E479-5D0335C87BFD}"
+  "FileHash": "{BB6DB1EC-0968-722A-33C8-F9CDCB9BBB2C}"
  }
 }
