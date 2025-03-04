@@ -10,7 +10,11 @@
     "Type": "Event",
     "GUID": "{34009E22-C9D0-4054-9C09-36BFB04D1D38}",
     "Language": "SFX",
+<<<<<<< Updated upstream
     "Hash": "{AB11F2A7-B80C-C4E1-3B75-8828B4AE32E3}",
+=======
+    "Hash": "{3B8D9F3E-4D6B-EBEF-4299-EC242331DE8E}",
+>>>>>>> Stashed changes
     "ObjectPath": "play_cave_waterdrop",
     "ShortName": "play_cave_waterdrop",
     "Path": "Event/play_cave_waterdrop.bnk",
@@ -22,7 +26,11 @@
       "Location": "Loose",
       "ShortName": "amb_cave_waterdrop.wav",
       "Path": "Media/798108893.wem",
+<<<<<<< Updated upstream
       "CachePath": "1D/{1D78E51D-905C-1C1C-A473-4B113106B3CD}.wem"
+=======
+      "CachePath": "6C/{6C5AE893-3D91-78A4-8B7F-BA4BCCE3D27A}.wem"
+>>>>>>> Stashed changes
      }
     ],
     "Events": [
@@ -44,6 +52,10 @@
     ]
    }
   ],
+<<<<<<< Updated upstream
   "FileHash": "{7E41C67A-EC7F-9BB7-2350-BFAC4BF11B4F}"
+=======
+  "FileHash": "{EA30BFB7-A9AE-BD12-A4B9-34E49C168474}"
+>>>>>>> Stashed changes
  }
 }

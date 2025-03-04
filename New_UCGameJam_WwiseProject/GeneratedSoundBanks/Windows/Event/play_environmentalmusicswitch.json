@@ -1,0 +1,426 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "270170587",
+    "Type": "Event",
+    "GUID": "{074E3CC7-7AF3-4C95-A8B0-AB908437B9A0}",
+    "Language": "SFX",
+    "Hash": "{2AF286A7-FBC9-647C-18FB-B7E084A6B9FB}",
+    "ObjectPath": "play_environmentalmusicswitch",
+    "ShortName": "play_environmentalmusicswitch",
+    "Path": "Event/play_environmentalmusicswitch.bnk",
+    "Media": [
+     {
+      "Id": "61125819",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MainTheme_120_P1_38M.wav",
+      "Path": "Media/61125819.wem",
+      "CachePath": "5F/{5FFB19CC-FA04-AC97-E064-076E01F86C40}.wem"
+     },
+     {
+      "Id": "188272564",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Bison_Jungle_220_60M.wav",
+      "Path": "Media/188272564.wem",
+      "CachePath": "BB/{BBD0F00C-9CCC-15A9-A8F5-6E7C5601D83B}.wem"
+     },
+     {
+      "Id": "355898398",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Turtle_Jungle_220_60M.wav",
+      "Path": "Media/355898398.wem",
+      "CachePath": "4B/{4B56A9AE-C42E-CBEA-72EF-CEF1C9FFFF88}.wem"
+     },
+     {
+      "Id": "362199500",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Turtle_Forest_90_P1_23M.wav",
+      "Path": "Media/362199500.wem",
+      "CachePath": "18/{18368309-EC62-325F-029D-D7BAA0AC9434}.wem"
+     },
+     {
+      "Id": "389945573",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Fox_Mountain_180_P1_M57.wav",
+      "Path": "Media/389945573.wem",
+      "CachePath": "9F/{9FA2C7D8-A96D-90F2-254D-AD2C6CB5EBB3}.wem"
+     },
+     {
+      "Id": "720517380",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Bison_Town_70_P1_M42.wav",
+      "Path": "Media/720517380.wem",
+      "CachePath": "D1/{D18ED2BA-4878-84B2-A5F6-5D74AD1C6D16}.wem"
+     },
+     {
+      "Id": "896261069",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Turtle_Mountain_180_P1_M57.wav",
+      "Path": "Media/896261069.wem",
+      "CachePath": "10/{107D2464-411A-03C3-6F51-5BD4C334204C}.wem"
+     },
+     {
+      "Id": "971490900",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Fox_Jungle_220_60M.wav",
+      "Path": "Media/971490900.wem",
+      "CachePath": "3D/{3DCB9D0E-46A6-30BA-FC74-44A6B592BCD2}.wem"
+     },
+     {
+      "Id": "1010437247",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Bison_Forest_90_P1_23M.wav",
+      "Path": "Media/1010437247.wem",
+      "CachePath": "F9/{F9DA77AA-666D-2A56-C99C-2F1B5A0A9E16}.wem"
+     },
+     {
+      "Id": "1061003077",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Fox_Town_70_P1_M42.wav",
+      "Path": "Media/1061003077.wem",
+      "CachePath": "2D/{2DA4CB0B-6154-F483-A173-49821C0D5F73}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "270170587",
+      "Name": "play_environmentalmusicswitch",
+      "ObjectPath": "\\Events\\Music\\play_environmentalmusicswitch",
+      "GUID": "{074E3CC7-7AF3-4C95-A8B0-AB908437B9A0}",
+      "DurationType": "Infinite",
+      "SwitchContainers": [
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "3670165402",
+         "Id": "194580953",
+         "GUID": "{99700365-BACC-4981-9AB8-132FA3BE0929}",
+         "Color": "4"
+        },
+        "MediaRefs": [
+         {
+          "Id": "1010437247"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "3670165402",
+         "Id": "1410155337",
+         "GUID": "{B67614E0-B069-4DF0-9CF1-FBD580D47F2E}",
+         "Color": "3"
+        },
+        "MediaRefs": [
+         {
+          "Id": "188272564"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "3670165402",
+         "Id": "586100606",
+         "GUID": "{E1534DB1-5061-4A58-A430-D90903EE6033}",
+         "Color": "11"
+        },
+        "MediaRefs": [
+         {
+          "Id": "720517380"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "3670165402",
+         "Id": "1525389319",
+         "GUID": "{F42B6595-E6ED-46FB-8D15-D64C71AFE800}",
+         "Color": "3"
+        },
+        "MediaRefs": [
+         {
+          "Id": "971490900"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "3670165402",
+         "Id": "1552951391",
+         "GUID": "{9DCEA08D-C398-4DE3-A725-E39583BB46D8}",
+         "Color": "15"
+        },
+        "MediaRefs": [
+         {
+          "Id": "389945573"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "3670165402",
+         "Id": "3713964256",
+         "GUID": "{7013C3B5-FAB8-4345-A0ED-AAAE3C38D319}",
+         "Color": "11"
+        },
+        "MediaRefs": [
+         {
+          "Id": "1061003077"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "3670165402",
+         "Id": "3604647259",
+         "GUID": "{7232B8DB-1ECD-4C5A-9CFA-125E2F30D36A}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "61125819"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "3670165402",
+         "Id": "3500157790",
+         "GUID": "{55BD5453-CB7D-499A-9D8D-C7401C623BDF}",
+         "Color": "4"
+        },
+        "MediaRefs": [
+         {
+          "Id": "362199500"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "3670165402",
+         "Id": "699082574",
+         "GUID": "{5F6A67D2-5AF3-4BB6-819F-7077B65C9DEA}",
+         "Color": "3"
+        },
+        "MediaRefs": [
+         {
+          "Id": "355898398"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "3670165402",
+         "Id": "3247706854",
+         "GUID": "{801E5BA7-2E7F-4486-8A8F-BB70F65580BB}",
+         "Color": "15"
+        },
+        "MediaRefs": [
+         {
+          "Id": "896261069"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "1333026528",
+      "Name": "Music_Proximity",
+      "ObjectPath": "\\Game Parameters\\Music Layer Control\\Music_Proximity",
+      "GUID": "{81DBE1A9-C6FE-4B58-9B9F-457481EEF51E}"
+     }
+    ],
+    "SwitchGroups": [
+     {
+      "Id": "3670165402",
+      "Name": "Music_SwitchGroup",
+      "ObjectPath": "\\Switches\\Default Work Unit\\Music_SwitchGroup",
+      "GUID": "{8D0DA2C6-2587-4817-B1D8-35575BD5C938}",
+      "Switches": [
+       {
+        "Id": "194580953",
+        "Name": "ForestBase_Bison",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Music_SwitchGroup\\ForestBase_Bison",
+        "GUID": "{99700365-BACC-4981-9AB8-132FA3BE0929}",
+        "Color": "4"
+       },
+       {
+        "Id": "286395037",
+        "Name": "JungleBase",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Music_SwitchGroup\\JungleBase",
+        "GUID": "{96B90A3A-A5B4-4D07-A091-4939D3844F79}",
+        "Color": "3"
+       },
+       {
+        "Id": "435632177",
+        "Name": "MoutainBase_Bison",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Music_SwitchGroup\\MoutainBase_Bison",
+        "GUID": "{697ADECF-FCE2-420B-9452-C1A37428D450}",
+        "Color": "15"
+       },
+       {
+        "Id": "569714735",
+        "Name": "ForestBase_End",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Music_SwitchGroup\\ForestBase_End",
+        "GUID": "{BACDCF67-C51C-431F-8936-05B9242A7932}",
+        "Color": "4"
+       },
+       {
+        "Id": "586100606",
+        "Name": "TownBase_Bison",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Music_SwitchGroup\\TownBase_Bison",
+        "GUID": "{E1534DB1-5061-4A58-A430-D90903EE6033}",
+        "Color": "11"
+       },
+       {
+        "Id": "699082574",
+        "Name": "JungleBase_Turtle",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Music_SwitchGroup\\JungleBase_Turtle",
+        "GUID": "{5F6A67D2-5AF3-4BB6-819F-7077B65C9DEA}",
+        "Color": "3"
+       },
+       {
+        "Id": "971182938",
+        "Name": "CaveAmbience",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Music_SwitchGroup\\CaveAmbience",
+        "GUID": "{EC3AFB5D-8FAC-42ED-AC05-15B8FFA05D79}"
+       },
+       {
+        "Id": "1044481740",
+        "Name": "Keyhole",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Music_SwitchGroup\\Keyhole",
+        "GUID": "{F657FBA3-C4C8-4BEE-AA6C-D29F9FDB02AB}",
+        "Color": "7"
+       },
+       {
+        "Id": "1089968087",
+        "Name": "ForestBase_Fox",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Music_SwitchGroup\\ForestBase_Fox",
+        "GUID": "{FC919A32-F0EA-4ABB-B33F-D52739964902}",
+        "Color": "4"
+       },
+       {
+        "Id": "1410155337",
+        "Name": "JungleBase_Bison",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Music_SwitchGroup\\JungleBase_Bison",
+        "GUID": "{B67614E0-B069-4DF0-9CF1-FBD580D47F2E}",
+        "Color": "3"
+       },
+       {
+        "Id": "1525389319",
+        "Name": "JungleBase_Fox",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Music_SwitchGroup\\JungleBase_Fox",
+        "GUID": "{F42B6595-E6ED-46FB-8D15-D64C71AFE800}",
+        "Color": "3"
+       },
+       {
+        "Id": "1552951391",
+        "Name": "MoutainBase_Fox",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Music_SwitchGroup\\MoutainBase_Fox",
+        "GUID": "{9DCEA08D-C398-4DE3-A725-E39583BB46D8}",
+        "Color": "15"
+       },
+       {
+        "Id": "2266067251",
+        "Name": "TownBase_Turtle",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Music_SwitchGroup\\TownBase_Turtle",
+        "GUID": "{E1CEA8FE-3425-47E4-A507-3163744CEA8D}",
+        "Color": "11"
+       },
+       {
+        "Id": "2361562093",
+        "Name": "ForestBase",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Music_SwitchGroup\\ForestBase",
+        "GUID": "{2BCC3A03-FFB6-46A5-A064-ECEBFC7D5679}",
+        "Color": "4"
+       },
+       {
+        "Id": "2394783333",
+        "Name": "MoutainBase",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Music_SwitchGroup\\MoutainBase",
+        "GUID": "{307872AF-6EFC-40C6-B2E5-019E85DE02E9}",
+        "Color": "15"
+       },
+       {
+        "Id": "2455225329",
+        "Name": "FinaleMusic",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Music_SwitchGroup\\FinaleMusic",
+        "GUID": "{8684F95D-586D-4E75-B8D0-18C283032300}",
+        "Color": "10"
+       },
+       {
+        "Id": "2590592578",
+        "Name": "TownBase",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Music_SwitchGroup\\TownBase",
+        "GUID": "{E8682488-E8F7-4589-B38C-0A0FAF998E0D}",
+        "Color": "11"
+       },
+       {
+        "Id": "3247706854",
+        "Name": "MoutainBase_Turtle",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Music_SwitchGroup\\MoutainBase_Turtle",
+        "GUID": "{801E5BA7-2E7F-4486-8A8F-BB70F65580BB}",
+        "Color": "15"
+       },
+       {
+        "Id": "3500157790",
+        "Name": "ForestBase_Turtle",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Music_SwitchGroup\\ForestBase_Turtle",
+        "GUID": "{55BD5453-CB7D-499A-9D8D-C7401C623BDF}",
+        "Color": "4"
+       },
+       {
+        "Id": "3604647259",
+        "Name": "MainMenu",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Music_SwitchGroup\\MainMenu",
+        "GUID": "{7232B8DB-1ECD-4C5A-9CFA-125E2F30D36A}"
+       },
+       {
+        "Id": "3713964256",
+        "Name": "TownBase_Fox",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Music_SwitchGroup\\TownBase_Fox",
+        "GUID": "{7013C3B5-FAB8-4345-A0ED-AAAE3C38D319}",
+        "Color": "11"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{339FC44C-AEA8-3691-9998-BD38D5B28DD7}"
+ }
+}

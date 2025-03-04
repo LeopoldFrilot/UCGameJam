@@ -1,3 +1,6 @@
 Event	ID	Name			Wwise Object Path	Notes
 	1236374173	play_amb_waterfall			\Ambience\Cave\play_amb_waterfall	
 
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	1333026528	Music_Proximity			\Music Layer Control\Music_Proximity	
+
