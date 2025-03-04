@@ -638,7 +638,7 @@
 						<MusicSegment Name="Bison_Mountain_180_P1_M57" ID="{168EEB97-973E-496B-82E2-80CCA38DA3C2}" ShortID="525592857">
 							<PropertyList>
 								<Property Name="Color" Type="int16" Value="15"/>
-								<Property Name="EndPosition" Type="Real64" Value="101666.666666667"/>
+								<Property Name="EndPosition" Type="Real64" Value="98551.9452591688"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
 							</PropertyList>
 							<ReferenceList>
@@ -686,11 +686,11 @@
 																	<Local>
 																		<MusicClip Name="Bison_Mountain_180_P1_M57" ID="{87043F3F-85DF-4479-B5C2-7035A48E7B73}">
 																			<PropertyList>
-																				<Property Name="BeginTrimOffset" Type="Real64" Value="1600.57800844347"/>
+																				<Property Name="BeginTrimOffset" Type="Real64" Value="1665.30064163385"/>
 																				<Property Name="EndTrimOffset" Type="Real64" Value="100081.667124731"/>
 																				<Property Name="FadeInMode" Type="int16" Value="0"/>
 																				<Property Name="FadeOutMode" Type="int16" Value="0"/>
-																				<Property Name="PlayAt" Type="Real64" Value="-1600.57800844347"/>
+																				<Property Name="PlayAt" Type="Real64" Value="-1665.30064163385"/>
 																			</PropertyList>
 																			<AudioSourceRef Name="Bison_Mountain_180_P1_M57" ID="{747BCC14-F393-4FDB-88A3-C2FFDEACB5FA}"/>
 																			<PropertyCurveList>
@@ -701,7 +701,7 @@
 																						</PropertyList>
 																						<PointList>
 																							<Point>
-																								<XPos>1.60058</XPos>
+																								<XPos>1.6653</XPos>
 																								<YPos>0</YPos>
 																								<Flags>5</Flags>
 																							</Point>
@@ -720,7 +720,7 @@
 																						</PropertyList>
 																						<PointList>
 																							<Point>
-																								<XPos>1.60058</XPos>
+																								<XPos>1.6653</XPos>
 																								<YPos>0</YPos>
 																								<Flags>5</Flags>
 																							</Point>
@@ -739,7 +739,7 @@
 																						</PropertyList>
 																						<PointList>
 																							<Point>
-																								<XPos>1.60058</XPos>
+																								<XPos>1.6653</XPos>
 																								<YPos>0</YPos>
 																								<Flags>5</Flags>
 																							</Point>
@@ -1997,7 +1997,7 @@
 						<MusicSegment Name="FinalGauntlet_145_50M" ID="{BDD86ADF-4871-4C0B-A2E5-49AFB9EBC0EB}" ShortID="129353898">
 							<PropertyList>
 								<Property Name="Color" Type="int16" Value="10"/>
-								<Property Name="EndPosition" Type="Real64" Value="82758.6394557823"/>
+								<Property Name="EndPosition" Type="Real64" Value="82758.6394557825"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
 							</PropertyList>
 							<ReferenceList>
@@ -2045,11 +2045,70 @@
 																	<Local>
 																		<MusicClip Name="FinalGauntlet_145_50M" ID="{C6DED2CF-4AE0-4C27-A3C9-5FA45F776BD5}">
 																			<PropertyList>
-																				<Property Name="EndTrimOffset" Type="Real64" Value="82758.6394557823"/>
-																				<Property Name="FadeInMode" Type="int16" Value="0"/>
-																				<Property Name="FadeOutMode" Type="int16" Value="0"/>
+																				<Property Name="EndTrimOffset" Type="Real64" Value="82758.6394557825"/>
+																				<Property Name="FadeInDuration" Type="Real64" Value="58.0574802401595"/>
+																				<Property Name="FadeOutDuration" Type="Real64" Value="126.014901703049"/>
 																			</PropertyList>
 																			<AudioSourceRef Name="FinalGauntlet_145_50M" ID="{F3D1DBF7-0628-4B1D-B346-492727A7B0B1}"/>
+																			<PropertyCurveList>
+																				<PropertyCurve PropertyName="Highpass">
+																					<Curve Name="" ID="{F91504D3-F492-4F5E-81F6-EBC9B52A8B02}">
+																						<PropertyList>
+																							<Property Name="Flags" Type="int32" Value="1"/>
+																						</PropertyList>
+																						<PointList>
+																							<Point>
+																								<XPos>0</XPos>
+																								<YPos>0</YPos>
+																								<Flags>5</Flags>
+																							</Point>
+																							<Point>
+																								<XPos>82.75864</XPos>
+																								<YPos>0</YPos>
+																								<Flags>37</Flags>
+																							</Point>
+																						</PointList>
+																					</Curve>
+																				</PropertyCurve>
+																				<PropertyCurve PropertyName="Lowpass">
+																					<Curve Name="" ID="{B58DE369-E8D4-468F-AF68-2123E1DD7B76}">
+																						<PropertyList>
+																							<Property Name="Flags" Type="int32" Value="1"/>
+																						</PropertyList>
+																						<PointList>
+																							<Point>
+																								<XPos>0</XPos>
+																								<YPos>0</YPos>
+																								<Flags>5</Flags>
+																							</Point>
+																							<Point>
+																								<XPos>82.75864</XPos>
+																								<YPos>0</YPos>
+																								<Flags>37</Flags>
+																							</Point>
+																						</PointList>
+																					</Curve>
+																				</PropertyCurve>
+																				<PropertyCurve PropertyName="Volume">
+																					<Curve Name="" ID="{66C971E0-42F2-4B5D-8E46-D3298656C762}">
+																						<PropertyList>
+																							<Property Name="Flags" Type="int32" Value="3"/>
+																						</PropertyList>
+																						<PointList>
+																							<Point>
+																								<XPos>0</XPos>
+																								<YPos>0</YPos>
+																								<Flags>5</Flags>
+																							</Point>
+																							<Point>
+																								<XPos>82.75864</XPos>
+																								<YPos>0</YPos>
+																								<Flags>37</Flags>
+																							</Point>
+																						</PointList>
+																					</Curve>
+																				</PropertyCurve>
+																			</PropertyCurveList>
 																		</MusicClip>
 																	</Local>
 																</Reference>
@@ -4714,7 +4773,7 @@
 						<MusicSegment Name="Base_Forest_90_P1_23M" ID="{E951F788-58AD-421B-BA02-53C4C692348A}" ShortID="562861279">
 							<PropertyList>
 								<Property Name="Color" Type="int16" Value="4"/>
-								<Property Name="EndPosition" Type="Real64" Value="61272.2716171287"/>
+								<Property Name="EndPosition" Type="Real64" Value="53334.0592759829"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
 							</PropertyList>
 							<ReferenceList>

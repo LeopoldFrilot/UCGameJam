@@ -27,6 +27,10 @@
 							<GameParameterRef Name="PlaybackPosition" ID="{EA906266-2036-4382-87BA-946D8B1444AC}"/>
 							<Value>0</Value>
 						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="Music_Proximity" ID="{81DBE1A9-C6FE-4B58-9B9F-457481EEF51E}"/>
+							<Value>50</Value>
+						</RTPCValue>
 					</RTPCValueList>
 					<CurrentStateList ShowAll="true">
 						<CurrentStateRef Name="ForestBase" ID="{07D21ACC-51A1-434D-AE5C-108D00FEDA09}"/>
