@@ -14,7 +14,7 @@
 						<Property Name="InitialValue" Type="Real64" Value="0"/>
 					</PropertyList>
 				</GameParameter>
-				<GameParameter Name="PlaybackPosition" ID="{EA906266-2036-4382-87BA-946D8B1444AC}">
+				<GameParameter Name="PlaybackPosition_01" ID="{66AFED50-8858-4295-A27A-217C6659BE4A}">
 					<PropertyList>
 						<Property Name="InitialValue" Type="Real64" Value="0"/>
 					</PropertyList>
