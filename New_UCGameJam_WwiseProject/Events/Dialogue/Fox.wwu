@@ -102,6 +102,17 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Fox_6_3" ID="{CEF9B4F7-588D-4D1A-9D81-F50EDC3461DA}">
+					<ChildrenList>
+						<Action Name="" ID="{A414B0F1-034A-44C7-94F9-4404B7B8C5D4}" ShortID="1012002506">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Fox_6_3" ID="{4CFB702A-5649-4B6C-A10F-05BB488E3C93}" WorkUnitID="{CA020838-B5AF-49D9-A433-7DA858A415A2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

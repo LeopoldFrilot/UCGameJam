@@ -33,7 +33,7 @@
 						<CurrentStateRef Name="None" ID="{D07B3A97-5BEC-4085-B10E-74E862F1AF75}"/>
 					</CurrentStateList>
 					<CurrentSwitchList ShowAll="true">
-						<CurrentSwitchRef Name="ForestBase" ID="{2BCC3A03-FFB6-46A5-A064-ECEBFC7D5679}"/>
+						<CurrentSwitchRef Name="CaveAmbience" ID="{EC3AFB5D-8FAC-42ED-AC05-15B8FFA05D79}"/>
 					</CurrentSwitchList>
 				</SoundcasterSession>
 			</ChildrenList>

@@ -80,6 +80,28 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="bison_6_4" ID="{924D9ECC-D359-4396-8EFA-93B85A57C845}">
+					<ChildrenList>
+						<Action Name="" ID="{8ABCFA49-7F13-4F2A-9C92-398B7ADD28D5}" ShortID="100192857">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Bison_6_4" ID="{DDBB1D3A-6663-4EDB-8921-D8E8B6A5593A}" WorkUnitID="{BD0CD880-5719-4AE6-930E-D2121301024E}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="bison_6_4_1" ID="{4B83AF2D-B313-4A0B-9321-17FE87D88620}">
+					<ChildrenList>
+						<Action Name="" ID="{CFF7A38F-DD74-45A6-8408-BFFA756F051C}" ShortID="337334959">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Bison_6_4_1" ID="{18A74DC0-B236-451C-AC29-AC43383D17A3}" WorkUnitID="{BD0CD880-5719-4AE6-930E-D2121301024E}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

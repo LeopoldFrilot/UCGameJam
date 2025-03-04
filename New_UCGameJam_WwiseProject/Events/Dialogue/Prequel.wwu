@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{775FDCF6-8BC4-4BF5-8970-759288890319}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Prequel" ID="{775FDCF6-8BC4-4BF5-8970-759288890319}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Opening_1_0" ID="{CBE3801F-F985-4F28-B542-B44B67EB552F}">
+					<ChildrenList>
+						<Action Name="" ID="{ECB8C043-584B-4CBB-87D5-AF1F58432788}" ShortID="1046092387">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Opening1_0" ID="{8AF81798-1355-48AF-92AC-A5D739EF7082}" WorkUnitID="{31035F9D-D80C-48FD-9FCE-493A789485CE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Opening_1_2" ID="{57B1534B-12C1-43A5-A37C-551958363063}">
+					<ChildrenList>
+						<Action Name="" ID="{CA35CD1E-0525-420A-9CF8-0BEFD1BD9943}" ShortID="908010484">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Opening1_2" ID="{C6ACDDE3-4B5F-476B-84AB-FE180E502679}" WorkUnitID="{31035F9D-D80C-48FD-9FCE-493A789485CE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Opening_1_3" ID="{68740A48-0EA9-468E-B5E3-B5795AEF2D39}">
+					<ChildrenList>
+						<Action Name="" ID="{81144B4E-A0D9-4CEA-A5E0-D8B8A7D8BF4A}" ShortID="799574828">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Opening1_3" ID="{BB569E8B-4238-4CC0-AB66-385EE56426E9}" WorkUnitID="{31035F9D-D80C-48FD-9FCE-493A789485CE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Opening_1_1" ID="{626EA9C5-46C5-4F31-8EFC-67A57B0535C7}">
+					<ChildrenList>
+						<Action Name="" ID="{C8CEE3D6-769F-4456-8883-1099AEA42FD6}" ShortID="229886281">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Opening1_1" ID="{86B1618E-3F85-4B19-BD48-702E94428910}" WorkUnitID="{31035F9D-D80C-48FD-9FCE-493A789485CE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
