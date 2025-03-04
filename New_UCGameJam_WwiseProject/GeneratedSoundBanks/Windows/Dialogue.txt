@@ -89,7 +89,7 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	595181852	1_6_Fox	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\1E\{1ECBDE6A-7175-FFE2-C121-CB310E076B25}.wem		\Actor-Mixer Hierarchy\Dialogue\Fox\1_6_Fox		644036
 	606763850	3_2_Turtle-01	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\2E\{2E3248B4-51D1-C99A-B8E1-7DB0C6BA7586}.wem		\Actor-Mixer Hierarchy\Dialogue\Turtle\3_2_Turtle-01		598514
 	607584112	2_1_Graham	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\6D\{6DB28B38-3FC0-7BA5-45E0-32146764322C}.wem		\Actor-Mixer Hierarchy\Dialogue\Narrator\2_1_Graham		265400
-	611788238	4_2_Ancestor	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\76\{76D2A82C-1391-31AF-5A11-123F3035B75A}.wem		\Actor-Mixer Hierarchy\Dialogue\Ancestor\4_2_Ancestor		1570508
+	611788238	4_2_Ancestor	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\0B\{0B144737-2D3B-553A-213A-BD8FB6F29ABB}.wem		\Actor-Mixer Hierarchy\Dialogue\Ancestor\4_2_Ancestor		1570508
 	645129789	1_1_Narrator	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\6A\{6ADFE7A8-9AB3-3AA6-E7AB-820C6E15C80C}.wem		\Actor-Mixer Hierarchy\Dialogue\Narrator\1_1_Narrator		399360
 	702355560	3_7_Turtle	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\29\{2943E27F-E6EF-E6D6-396B-3CC2AE5F9A92}.wem		\Actor-Mixer Hierarchy\Dialogue\Turtle\3_7_Turtle		481864
 	734745326	4_1_0_Narrator	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\50\{5065F1F9-C6F7-9A53-B58F-E8183CFFFA99}.wem		\Actor-Mixer Hierarchy\Dialogue\Narrator\4_1_0_Narrator		159424
@@ -103,7 +103,7 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	913294837	1_4_Fox	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\C3\{C348F84D-B4E8-BE15-8ED4-6083BA2EE93C}.wem		\Actor-Mixer Hierarchy\Dialogue\Fox\1_4_Fox		382284
 	917204501	2_6_Bison	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\19\{19488D80-CB8B-A4A4-A9DC-22D1FE71F7D6}.wem		\Actor-Mixer Hierarchy\Dialogue\Bison\2_6_Bison		524538
 	917253457	Narrator_6_1	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\EA\{EAF1AF4E-2E63-CE1D-E16A-AB9CCF125947}.wem		\Actor-Mixer Hierarchy\Dialogue\Narrator\Narrator_6_1		596916
-	943424504	4_1_1_Ancestor	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\FE\{FEAA4DF8-4A21-B8D1-90FF-33968C9450E2}.wem		\Actor-Mixer Hierarchy\Dialogue\Ancestor\4_1_1_Ancestor		1874154
+	943424504	4_1_1_Ancestor	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\F7\{F703E160-1C83-EF06-8FA2-0F194962F211}.wem		\Actor-Mixer Hierarchy\Dialogue\Ancestor\4_1_1_Ancestor		1874154
 	967807972	Fox_6_3	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\E6\{E6284337-718E-199F-BA6A-ABBC2AF514FC}.wem		\Actor-Mixer Hierarchy\Dialogue\Fox\Fox_6_3		719270
 	973373941	3_0_Narrator_v2-01	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\F1\{F1D36325-CA43-B628-D354-9E8F1F41359F}.wem		\Actor-Mixer Hierarchy\Dialogue\Narrator\3_0_Narrator_v2-01		373750
 	1006552458	1_2_1_Fox	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\D0\{D07AD857-9DBF-697D-CE66-85F396868D4D}.wem		\Actor-Mixer Hierarchy\Dialogue\Fox\1_2_1_Fox		140454

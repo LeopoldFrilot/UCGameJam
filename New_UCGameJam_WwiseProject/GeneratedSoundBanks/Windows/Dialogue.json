@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{30CFE3D3-7470-4120-B31B-8223525BD108}",
     "Language": "SFX",
-    "Hash": "{424506BB-A18A-FE6E-66C6-3613BC287EB2}",
+    "Hash": "{8DE0434B-4D62-216D-0796-25EF0B693C10}",
     "ObjectPath": "\\SoundBanks\\Dialogue\\Dialogue",
     "ShortName": "Dialogue",
     "Path": "Dialogue.bnk",
@@ -301,7 +301,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "4_2_Ancestor.wav",
-      "CachePath": "76/{76D2A82C-1391-31AF-5A11-123F3035B75A}.wem"
+      "CachePath": "0B/{0B144737-2D3B-553A-213A-BD8FB6F29ABB}.wem"
      },
      {
       "Id": "645129789",
@@ -413,7 +413,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "4_1_1_Ancestor.wav",
-      "CachePath": "FE/{FEAA4DF8-4A21-B8D1-90FF-33968C9450E2}.wem"
+      "CachePath": "F7/{F703E160-1C83-EF06-8FA2-0F194962F211}.wem"
      },
      {
       "Id": "967807972",
@@ -1247,6 +1247,6 @@
     ]
    }
   ],
-  "FileHash": "{7493611E-0474-8C61-E94A-8F7415353DB2}"
+  "FileHash": "{672C6458-1B34-BABF-653D-507ECBBC26E2}"
  }
 }

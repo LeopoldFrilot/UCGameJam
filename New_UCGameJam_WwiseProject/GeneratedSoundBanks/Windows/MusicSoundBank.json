@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{C91AF3C2-386D-4B6B-991C-34E8895D5C81}",
     "Language": "SFX",
-    "Hash": "{A74E794A-E32F-62B4-49EA-FF9AD7742C2E}",
+    "Hash": "{16CB502B-8618-C732-93F7-844780B50165}",
     "ObjectPath": "\\SoundBanks\\Music\\MusicSoundBank",
     "ShortName": "MusicSoundBank",
     "Path": "MusicSoundBank.bnk",
@@ -110,9 +110,7 @@
       "Name": "play_bison",
       "ObjectPath": "\\Events\\Music\\Music Events\\play_bison",
       "GUID": "{9270FAA5-6DFC-4447-8DE5-BA9DDCE078D4}",
-      "DurationType": "OneShot",
-      "DurationMin": "98.48078",
-      "DurationMax": "98.48078",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "737404590"
@@ -134,9 +132,7 @@
       "Name": "play_epilogue",
       "ObjectPath": "\\Events\\Music\\Music Events\\play_epilogue",
       "GUID": "{7C2B420B-C96D-4396-8497-21373A3C74A7}",
-      "DurationType": "OneShot",
-      "DurationMin": "42.666668",
-      "DurationMax": "42.666668",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "909418832"
@@ -149,9 +145,7 @@
       "ObjectPath": "\\Events\\Music\\Music Events\\play_finale",
       "GUID": "{546E1AAF-2ED1-42E1-910D-5C5B3D6E6584}",
       "Color": "10",
-      "DurationType": "OneShot",
-      "DurationMin": "82.758644",
-      "DurationMax": "82.758644",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "353757325"
@@ -164,9 +158,7 @@
       "ObjectPath": "\\Events\\Music\\Music Events\\play_forestbase",
       "GUID": "{292D1428-8087-4CA4-AFFB-EBE55B61E335}",
       "Color": "4",
-      "DurationType": "OneShot",
-      "DurationMin": "53.334057",
-      "DurationMax": "53.334057",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "897119248"
@@ -178,9 +170,7 @@
       "Name": "play_fox",
       "ObjectPath": "\\Events\\Music\\Music Events\\play_fox",
       "GUID": "{3DCAA5B4-0FE2-463C-97D4-D1E1B03A81E9}",
-      "DurationType": "OneShot",
-      "DurationMin": "121.09997",
-      "DurationMax": "121.09997",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "561426790"
@@ -193,9 +183,7 @@
       "ObjectPath": "\\Events\\Music\\Music Events\\play_junglebase",
       "GUID": "{7A3073A7-7494-4994-AE83-817622CF7074}",
       "Color": "16",
-      "DurationType": "OneShot",
-      "DurationMin": "90.74199",
-      "DurationMax": "90.74199",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "832757559"
@@ -208,8 +196,8 @@
       "ObjectPath": "\\Events\\Music\\Music Events\\play_keyhole",
       "GUID": "{914CAEDF-F30C-47AE-B75E-389B7EF877D0}",
       "DurationType": "OneShot",
-      "DurationMin": "6.033884",
-      "DurationMax": "6.033884",
+      "DurationMin": "6.000857",
+      "DurationMax": "6.000857",
       "MediaRefs": [
        {
         "Id": "961251536"
@@ -222,9 +210,7 @@
       "ObjectPath": "\\Events\\Music\\Music Events\\play_mountainbase",
       "GUID": "{435EE584-8CCE-414F-B419-F224AE3B9D64}",
       "Color": "2",
-      "DurationType": "OneShot",
-      "DurationMin": "101.666664",
-      "DurationMax": "101.666664",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "654732009"
@@ -236,9 +222,7 @@
       "Name": "play_prologue",
       "ObjectPath": "\\Events\\Music\\Music Events\\play_prologue",
       "GUID": "{0839B71D-2EAD-4188-AD1F-83040E48DE1A}",
-      "DurationType": "OneShot",
-      "DurationMin": "58.285713",
-      "DurationMax": "58.285713",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "688029564"
@@ -251,9 +235,7 @@
       "ObjectPath": "\\Events\\Music\\Music Events\\play_town",
       "GUID": "{7B1AB4A3-00BF-4AAA-8FD9-33F5999C405E}",
       "Color": "11",
-      "DurationType": "OneShot",
-      "DurationMin": "137.506",
-      "DurationMax": "137.506",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "553835786"
@@ -265,9 +247,7 @@
       "Name": "play_turtle",
       "ObjectPath": "\\Events\\Music\\Music Events\\play_turtle",
       "GUID": "{AC10E935-424D-40A5-80ED-A1C128233BF0}",
-      "DurationType": "OneShot",
-      "DurationMin": "137.39474",
-      "DurationMax": "137.39474",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "268249401"
@@ -285,6 +265,6 @@
     ]
    }
   ],
-  "FileHash": "{9DCDFD43-C8FF-122C-E036-D822566A3FDC}"
+  "FileHash": "{8F3C9EFA-D25B-1EC1-293D-C2C59FF87CAC}"
  }
 }
