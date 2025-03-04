@@ -10,17 +10,10 @@
     "Type": "User",
     "GUID": "{3C91BF11-54EE-4735-B83D-DB86BB475C89}",
     "Language": "SFX",
-<<<<<<< Updated upstream:New_UCGameJam_WwiseProject/GeneratedSoundBanks/Windows/MusicSoundBank.json
     "Hash": "{18EA8AD9-A81B-8C8D-B487-8ABD0B0A6E49}",
     "ObjectPath": "\\SoundBanks\\Music\\MusicSoundBank",
     "ShortName": "MusicSoundBank",
     "Path": "MusicSoundBank.bnk",
-=======
-    "Hash": "{1B1C36BE-B1A1-EB49-63CB-C79568AB887A}",
-    "ObjectPath": "\\SoundBanks\\Music\\NewMusicEvents",
-    "ShortName": "NewMusicEvents",
-    "Path": "NewMusicEvents.bnk",
->>>>>>> Stashed changes:New_UCGameJam_WwiseProject/GeneratedSoundBanks/Windows/NewMusicEvents.json
     "Media": [
      {
       "Id": "61125819",
@@ -517,16 +510,11 @@
       "ObjectPath": "\\Events\\Music\\Set State Events\\setstate_forestbase",
       "GUID": "{B31389FD-13DE-4FA3-838B-1AFA4838BB5C}",
       "Color": "4",
-<<<<<<< Updated upstream:New_UCGameJam_WwiseProject/GeneratedSoundBanks/Windows/MusicSoundBank.json
       "MaxAttenuation": "0",
       "DurationType": "OneShot",
       "DurationMin": "0",
       "DurationMax": "0",
       "ActionSetState": [
-=======
-      "DurationType": "Infinite",
-      "MediaRefs": [
->>>>>>> Stashed changes:New_UCGameJam_WwiseProject/GeneratedSoundBanks/Windows/NewMusicEvents.json
        {
         "GroupId": "1447980276",
         "Id": "2361562093",
@@ -753,15 +741,9 @@
       "Color": "2",
       "MaxAttenuation": "0",
       "DurationType": "OneShot",
-<<<<<<< Updated upstream:New_UCGameJam_WwiseProject/GeneratedSoundBanks/Windows/MusicSoundBank.json
       "DurationMin": "0",
       "DurationMax": "0",
       "ActionSetState": [
-=======
-      "DurationMin": "98.64283",
-      "DurationMax": "98.64283",
-      "MediaRefs": [
->>>>>>> Stashed changes:New_UCGameJam_WwiseProject/GeneratedSoundBanks/Windows/NewMusicEvents.json
        {
         "GroupId": "1447980276",
         "Id": "688641135",
@@ -919,7 +901,6 @@
        }
       ]
      }
-<<<<<<< Updated upstream:New_UCGameJam_WwiseProject/GeneratedSoundBanks/Windows/MusicSoundBank.json
     ],
     "GameParameters": [
      {
@@ -1248,11 +1229,5 @@
    }
   ],
   "FileHash": "{1E5A979A-94BE-470F-A268-4D417EAEB07F}"
-=======
-    ]
-   }
-  ],
-  "FileHash": "{AD01C7E6-A833-9BC9-DE3E-6904F0CC0332}"
->>>>>>> Stashed changes:New_UCGameJam_WwiseProject/GeneratedSoundBanks/Windows/NewMusicEvents.json
  }
 }
