@@ -1,0 +1,57 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3482603914",
+    "Type": "Event",
+    "GUID": "{7A3073A7-7494-4994-AE83-817622CF7074}",
+    "Language": "SFX",
+    "Hash": "{384EDAA2-7976-0022-1D7D-2C1063F55071}",
+    "ObjectPath": "play_junglebase",
+    "ShortName": "play_junglebase",
+    "Path": "Event/play_junglebase.bnk",
+    "Media": [
+     {
+      "Id": "832757559",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "BaseForm_Jungle_220_60M.wav",
+      "Path": "Media/832757559.wem",
+      "CachePath": "F8/{F8FC344C-AEB2-13DB-5BBF-F48E6564A75F}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3482603914",
+      "Name": "play_junglebase",
+      "ObjectPath": "\\Events\\Music\\Music Events\\play_junglebase",
+      "GUID": "{7A3073A7-7494-4994-AE83-817622CF7074}",
+      "Color": "16",
+      "DurationType": "OneShot",
+      "DurationMin": "90.74199",
+      "DurationMax": "90.74199",
+      "MediaRefs": [
+       {
+        "Id": "832757559"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "1333026528",
+      "Name": "Music_Proximity",
+      "ObjectPath": "\\Game Parameters\\Music Layer Control\\Music_Proximity",
+      "GUID": "{81DBE1A9-C6FE-4B58-9B9F-457481EEF51E}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{E7EDFE33-36EC-D0D8-0F97-D548567045F1}"
+ }
+}

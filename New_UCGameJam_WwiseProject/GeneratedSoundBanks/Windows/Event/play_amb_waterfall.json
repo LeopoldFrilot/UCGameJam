@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{A94E4932-642C-4BC7-BF98-3969FB49BF59}",
     "Language": "SFX",
-    "Hash": "{21273870-05B3-D9FC-7FC8-6981B01F8E2C}",
+    "Hash": "{5264F981-277E-F396-524A-281197ABB7D1}",
     "ObjectPath": "play_amb_waterfall",
     "ShortName": "play_amb_waterfall",
     "Path": "Event/play_amb_waterfall.bnk",
@@ -41,9 +41,17 @@
        }
       ]
      }
+    ],
+    "GameParameters": [
+     {
+      "Id": "1333026528",
+      "Name": "Music_Proximity",
+      "ObjectPath": "\\Game Parameters\\Music Layer Control\\Music_Proximity",
+      "GUID": "{81DBE1A9-C6FE-4B58-9B9F-457481EEF51E}"
+     }
     ]
    }
   ],
-  "FileHash": "{7363DE86-8B77-1F86-4134-19B1052E27AE}"
+  "FileHash": "{2466A726-6B8B-55A6-A604-152E01271DD9}"
  }
 }

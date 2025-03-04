@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3553001198",
+    "Type": "Event",
+    "GUID": "{7C2B420B-C96D-4396-8497-21373A3C74A7}",
+    "Language": "SFX",
+    "Hash": "{B67F713A-61BC-12EF-AE37-A60CA858DB47}",
+    "ObjectPath": "play_epilogue",
+    "ShortName": "play_epilogue",
+    "Path": "Event/play_epilogue.bnk",
+    "Events": [
+     {
+      "Id": "3553001198",
+      "Name": "play_epilogue",
+      "ObjectPath": "\\Events\\Music\\Music Events\\play_epilogue",
+      "GUID": "{7C2B420B-C96D-4396-8497-21373A3C74A7}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{E26EDBEA-641D-39A8-22A4-3E1342205ED6}"
+ }
+}

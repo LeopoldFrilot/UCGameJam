@@ -1,0 +1,56 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3646522415",
+    "Type": "Event",
+    "GUID": "{9270FAA5-6DFC-4447-8DE5-BA9DDCE078D4}",
+    "Language": "SFX",
+    "Hash": "{B49E5E8B-45E2-3982-C5B2-A23BB2360FB9}",
+    "ObjectPath": "play_bison",
+    "ShortName": "play_bison",
+    "Path": "Event/play_bison.bnk",
+    "Media": [
+     {
+      "Id": "737404590",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Bison_Mountain_180_P1_M57.wav",
+      "Path": "Media/737404590.wem",
+      "CachePath": "6C/{6C0675C3-A8C3-8931-C624-C094895B249B}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3646522415",
+      "Name": "play_bison",
+      "ObjectPath": "\\Events\\Music\\Music Events\\play_bison",
+      "GUID": "{9270FAA5-6DFC-4447-8DE5-BA9DDCE078D4}",
+      "DurationType": "OneShot",
+      "DurationMin": "98.48078",
+      "DurationMax": "98.48078",
+      "MediaRefs": [
+       {
+        "Id": "737404590"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "1333026528",
+      "Name": "Music_Proximity",
+      "ObjectPath": "\\Game Parameters\\Music Layer Control\\Music_Proximity",
+      "GUID": "{81DBE1A9-C6FE-4B58-9B9F-457481EEF51E}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{D47A4BD5-DEDB-FA73-FDC6-81F979F1C0A2}"
+ }
+}

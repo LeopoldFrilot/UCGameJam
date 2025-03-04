@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2670164187",
+    "Type": "Event",
+    "GUID": "{EC21855C-D3CB-469F-8296-788552414E05}",
+    "Language": "SFX",
+    "Hash": "{934FB5D8-E672-100B-822A-8D7DF027B88D}",
+    "ObjectPath": "play_endgame",
+    "ShortName": "play_endgame",
+    "Path": "Event/play_endgame.bnk",
+    "Events": [
+     {
+      "Id": "2670164187",
+      "Name": "play_endgame",
+      "ObjectPath": "\\Events\\Music\\Music Events\\play_endgame",
+      "GUID": "{EC21855C-D3CB-469F-8296-788552414E05}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{126B057F-2865-8787-2FDA-67D204F65CF0}"
+ }
+}

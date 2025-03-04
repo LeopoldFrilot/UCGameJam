@@ -1,0 +1,57 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1744712247",
+    "Type": "Event",
+    "GUID": "{546E1AAF-2ED1-42E1-910D-5C5B3D6E6584}",
+    "Language": "SFX",
+    "Hash": "{2125350B-0425-DC12-61B7-E9793A179F70}",
+    "ObjectPath": "play_finale",
+    "ShortName": "play_finale",
+    "Path": "Event/play_finale.bnk",
+    "Media": [
+     {
+      "Id": "353757325",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FinalGauntlet_145_50M.wav",
+      "Path": "Media/353757325.wem",
+      "CachePath": "D8/{D869C827-9F8B-7054-CB7A-49A4E58901F8}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1744712247",
+      "Name": "play_finale",
+      "ObjectPath": "\\Events\\Music\\Music Events\\play_finale",
+      "GUID": "{546E1AAF-2ED1-42E1-910D-5C5B3D6E6584}",
+      "Color": "10",
+      "DurationType": "OneShot",
+      "DurationMin": "82.758644",
+      "DurationMax": "82.758644",
+      "MediaRefs": [
+       {
+        "Id": "353757325"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "1333026528",
+      "Name": "Music_Proximity",
+      "ObjectPath": "\\Game Parameters\\Music Layer Control\\Music_Proximity",
+      "GUID": "{81DBE1A9-C6FE-4B58-9B9F-457481EEF51E}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{375FD635-57CD-265D-C711-44AE637DE45A}"
+ }
+}
