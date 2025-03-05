@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "581437690",
+    "Type": "Event",
+    "GUID": "{7FD76C27-F9A6-4EFF-AC37-8B71D01323D1}",
+    "Language": "SFX",
+    "Hash": "{DB1E085F-C93C-A765-72C3-9CA6AB9B9DF1}",
+    "ObjectPath": "play_minecart_loop",
+    "ShortName": "play_minecart_loop",
+    "Path": "Event/play_minecart_loop.bnk",
+    "Media": [
+     {
+      "Id": "580007246",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "minecart_loop.wav",
+      "Path": "Media/580007246.wem",
+      "CachePath": "90/{9017ECB2-1403-977C-06E8-9BF52320E87D}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "581437690",
+      "Name": "play_minecart_loop",
+      "ObjectPath": "\\Events\\MinecartLoop\\play_minecart_loop",
+      "GUID": "{7FD76C27-F9A6-4EFF-AC37-8B71D01323D1}",
+      "DurationType": "OneShot",
+      "DurationMin": "49.781254",
+      "DurationMax": "49.781254",
+      "MediaRefs": [
+       {
+        "Id": "580007246"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{C04FF43D-4D64-DB0E-09A4-6DBD08572E8E}"
+ }
+}

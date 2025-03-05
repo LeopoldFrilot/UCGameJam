@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1470732359	play_shell_parry			\Actions\Actions\play_shell_parry	
+

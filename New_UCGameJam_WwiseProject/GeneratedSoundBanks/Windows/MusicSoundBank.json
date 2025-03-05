@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{C91AF3C2-386D-4B6B-991C-34E8895D5C81}",
     "Language": "SFX",
-    "Hash": "{95AB9DCF-9C79-6D33-0AA7-DFF4A9F62044}",
+    "Hash": "{EF0B64DB-C598-111C-19F4-A5BFB15AD5F8}",
     "ObjectPath": "\\SoundBanks\\Music\\MusicSoundBank",
     "ShortName": "MusicSoundBank",
     "Path": "MusicSoundBank.bnk",
@@ -54,6 +54,14 @@
       "Location": "Memory",
       "ShortName": "Base_Mountain_180_P1_M57.wav",
       "CachePath": "8C/{8C393569-61B5-803F-3045-718BDA7A0AC7}.wem"
+     },
+     {
+      "Id": "655543587",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Endgame_Forest_NoAmbience_90_14M_Finish.wav",
+      "CachePath": "D8/{D8C3B10A-C149-BB0B-718A-2415A47A84C5}.wem"
      },
      {
       "Id": "688029564",
@@ -122,10 +130,12 @@
       "Name": "play_endgame",
       "ObjectPath": "\\Events\\Music\\Music Events\\play_endgame",
       "GUID": "{EC21855C-D3CB-469F-8296-788552414E05}",
-      "MaxAttenuation": "0",
-      "DurationType": "OneShot",
-      "DurationMin": "0",
-      "DurationMax": "0"
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "655543587"
+       }
+      ]
      },
      {
       "Id": "3553001198",
@@ -265,6 +275,6 @@
     ]
    }
   ],
-  "FileHash": "{A3FBFA86-3E8B-8AC1-59D2-E47E47FE952F}"
+  "FileHash": "{B1FC7669-510C-D726-A72D-B5B21A7C7F7C}"
  }
 }

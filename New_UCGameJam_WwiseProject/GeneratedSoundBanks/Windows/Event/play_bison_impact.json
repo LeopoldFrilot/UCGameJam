@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "4030239748",
+    "Type": "Event",
+    "GUID": "{C25A3EC7-7064-4247-A113-C4275EF47AC5}",
+    "Language": "SFX",
+    "Hash": "{5708AF8A-B4C7-698C-717D-6A3FC63F24D2}",
+    "ObjectPath": "play_bison_impact",
+    "ShortName": "play_bison_impact",
+    "Path": "Event/play_bison_impact.bnk",
+    "Media": [
+     {
+      "Id": "499184537",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "charge_impact.wav",
+      "Path": "Media/499184537.wem",
+      "CachePath": "B4/{B469327F-5B76-555D-6A99-62CEF66FD9DD}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "4030239748",
+      "Name": "play_bison_impact",
+      "ObjectPath": "\\Events\\Actions\\Actions\\play_bison_impact",
+      "GUID": "{C25A3EC7-7064-4247-A113-C4275EF47AC5}",
+      "Color": "13",
+      "DurationType": "OneShot",
+      "DurationMin": "1.3151474",
+      "DurationMax": "1.3151474",
+      "MediaRefs": [
+       {
+        "Id": "499184537"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{06892F07-CBD2-A878-C590-DD72970B4E0B}"
+ }
+}

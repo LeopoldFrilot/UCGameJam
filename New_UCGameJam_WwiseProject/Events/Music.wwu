@@ -519,7 +519,17 @@
 								</Action>
 							</ChildrenList>
 						</Event>
-						<Event Name="play_endgame" ID="{EC21855C-D3CB-469F-8296-788552414E05}"/>
+						<Event Name="play_endgame" ID="{EC21855C-D3CB-469F-8296-788552414E05}">
+							<ChildrenList>
+								<Action Name="" ID="{260A1F2D-161C-41F0-A5DC-2B259EF9F750}" ShortID="667477656">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Forest_Endgame" ID="{3B867180-D324-488A-B42E-29DCE1828F96}" WorkUnitID="{392C3C07-326F-4C17-A66B-D0793B595F32}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 						<Event Name="play_prologue" ID="{0839B71D-2EAD-4188-AD1F-83040E48DE1A}">
 							<ChildrenList>
 								<Action Name="" ID="{B72F0606-C417-4C46-B7B8-5D798360BADA}" ShortID="488228448">

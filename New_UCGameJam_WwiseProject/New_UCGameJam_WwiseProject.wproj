@@ -11620,6 +11620,14 @@
 				<PhysicalFolder Path="Actor-Mixer Hierarchy">
 					<WorkUnit Name="Actor-Mixer Hierarchy" ID="{5EA7BBF8-64C0-4A50-8821-A07E8BE21D68}" PersistMode="Standalone"/>
 				</PhysicalFolder>
+				<PhysicalFolder Path="Actor-Mixer Hierarchy\Actions">
+					<WorkUnit Name="Actions" ID="{58B992E7-A2D3-4E59-850B-E08321BD17DF}" PersistMode="Standalone">
+						<PropertyList>
+							<Property Name="Color" Type="int16" Value="13"/>
+							<Property Name="OverrideColor" Type="bool" Value="True"/>
+						</PropertyList>
+					</WorkUnit>
+				</PhysicalFolder>
 				<PhysicalFolder Path="Actor-Mixer Hierarchy\Ambience">
 					<WorkUnit Name="Ambience" ID="{BA3A21B1-0FC2-40BE-BB17-06D594BB9A6C}" PersistMode="Standalone">
 						<PropertyList>
@@ -11683,6 +11691,14 @@
 				</PhysicalFolder>
 				<PhysicalFolder Path="Events">
 					<WorkUnit Name="Events" ID="{A69BF0FC-D84A-487C-ABDD-56F71CB2A126}" PersistMode="Standalone"/>
+				</PhysicalFolder>
+				<PhysicalFolder Path="Events\Actions">
+					<WorkUnit Name="Actions" ID="{D6EBAC83-AD70-416B-80F4-749A1E07A6DC}" PersistMode="Standalone">
+						<PropertyList>
+							<Property Name="Color" Type="int16" Value="13"/>
+							<Property Name="OverrideColor" Type="bool" Value="True"/>
+						</PropertyList>
+					</WorkUnit>
 				</PhysicalFolder>
 				<PhysicalFolder Path="Events\Ambience">
 					<WorkUnit Name="Ambience" ID="{0779A35A-B085-4C8D-85FF-227540787220}" PersistMode="Standalone">

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{65540B74-20A8-4C55-A9E3-B0A3A467082B}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Actions" ID="{65540B74-20A8-4C55-A9E3-B0A3A467082B}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="play_bison_charge" ID="{A31332CF-D22F-46CA-895D-5595E6CD0F81}">
+					<ChildrenList>
+						<Action Name="" ID="{BFFA0E13-D44C-4AFE-8D8D-08E7DD40BFED}" ShortID="262120185">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="bison_charge" ID="{589F78EE-22DA-4CFD-90A0-99B9FAB91880}" WorkUnitID="{42AFE56D-9365-42FC-B83F-4491901F71BC}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_bison_impact" ID="{C25A3EC7-7064-4247-A113-C4275EF47AC5}">
+					<ChildrenList>
+						<Action Name="" ID="{DEBE4254-5988-466A-AED7-A5238CFDD28D}" ShortID="84345080">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="bison_impact" ID="{307B9559-A1A3-4A1F-8EA3-B7EB7469BBA9}" WorkUnitID="{42AFE56D-9365-42FC-B83F-4491901F71BC}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_shell_parry" ID="{6117D478-D719-452A-B014-CF2CCAE83E2E}">
+					<ChildrenList>
+						<Action Name="" ID="{7645F70B-96BE-4049-A991-ACCC2E4AC171}" ShortID="146855898">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="shell_parry" ID="{08007C48-D563-47B9-84CE-95A268EDD780}" WorkUnitID="{42AFE56D-9365-42FC-B83F-4491901F71BC}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

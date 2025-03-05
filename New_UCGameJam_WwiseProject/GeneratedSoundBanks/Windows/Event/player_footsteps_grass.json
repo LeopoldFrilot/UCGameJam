@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{ECB1B67A-73EB-4E3E-817E-C49D31876884}",
     "Language": "SFX",
-    "Hash": "{9F64C753-2DDE-7DF1-4BA7-15BD43AFB258}",
+    "Hash": "{7746E9E7-BB54-FD37-DC2E-EF1BF61B2B71}",
     "ObjectPath": "player_footsteps_grass",
     "ShortName": "player_footsteps_grass",
     "Path": "Event/player_footsteps_grass.bnk",
@@ -42,8 +42,8 @@
       "GUID": "{ECB1B67A-73EB-4E3E-817E-C49D31876884}",
       "Color": "2",
       "DurationType": "OneShot",
-      "DurationMin": "0.08736961",
-      "DurationMax": "0.094671205",
+      "DurationMin": "0.0734688",
+      "DurationMax": "0.11258367",
       "MediaRefs": [
        {
         "Id": "525181682"
@@ -56,6 +56,6 @@
     ]
    }
   ],
-  "FileHash": "{8F8A74A0-9731-A8D9-3117-6D1BB3139925}"
+  "FileHash": "{EE9B5E90-ED4C-0E65-F252-303B69FEB99C}"
  }
 }

@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3599204018",
+    "Type": "Event",
+    "GUID": "{A31332CF-D22F-46CA-895D-5595E6CD0F81}",
+    "Language": "SFX",
+    "Hash": "{FDD87C4F-3095-9A26-1C4B-A12E48B3BAF3}",
+    "ObjectPath": "play_bison_charge",
+    "ShortName": "play_bison_charge",
+    "Path": "Event/play_bison_charge.bnk",
+    "Media": [
+     {
+      "Id": "368127174",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "charge_short.wav",
+      "Path": "Media/368127174.wem",
+      "CachePath": "2F/{2FBDC36D-D460-B1DC-8211-F382A26E4CAB}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3599204018",
+      "Name": "play_bison_charge",
+      "ObjectPath": "\\Events\\Actions\\Actions\\play_bison_charge",
+      "GUID": "{A31332CF-D22F-46CA-895D-5595E6CD0F81}",
+      "Color": "13",
+      "DurationType": "OneShot",
+      "DurationMin": "0.27755103",
+      "DurationMax": "0.27755103",
+      "MediaRefs": [
+       {
+        "Id": "368127174"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{542F76D6-ACE1-B44E-B0BE-6E62254B3598}"
+ }
+}

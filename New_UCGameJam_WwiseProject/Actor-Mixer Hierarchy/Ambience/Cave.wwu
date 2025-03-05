@@ -145,6 +145,28 @@
 						<ActiveSource Name="amb_cave_waterfall" ID="{CF06A55D-88D9-4CC1-99C0-B86F8C6D9E7A}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
+				<Sound Name="amb_cave_nodrop" ID="{A5A7CAB0-9B10-40A0-B3CD-E97235B27BED}" ShortID="693205160">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="amb_cave_nodrop" ID="{E8157490-D780-4A31-A776-06214AB0773B}">
+							<Language>SFX</Language>
+							<AudioFile>amb_cave_nodrop.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="731847937"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="amb_cave_nodrop" ID="{E8157490-D780-4A31-A776-06214AB0773B}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>

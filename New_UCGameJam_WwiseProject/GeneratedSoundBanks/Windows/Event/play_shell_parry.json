@@ -1,0 +1,73 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1470732359",
+    "Type": "Event",
+    "GUID": "{6117D478-D719-452A-B014-CF2CCAE83E2E}",
+    "Language": "SFX",
+    "Hash": "{A8E27A77-212F-2593-FE9E-8EC0493053C4}",
+    "ObjectPath": "play_shell_parry",
+    "ShortName": "play_shell_parry",
+    "Path": "Event/play_shell_parry.bnk",
+    "Media": [
+     {
+      "Id": "54141085",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "turtle_shell_02.wav",
+      "Path": "Media/54141085.wem",
+      "CachePath": "E5/{E52AC867-F226-A214-9361-B076357D7D8D}.wem"
+     },
+     {
+      "Id": "725704793",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "turtle_shell_03.wav",
+      "Path": "Media/725704793.wem",
+      "CachePath": "A5/{A5E4A2C1-EA98-92BE-25F3-CD689FA3A1AD}.wem"
+     },
+     {
+      "Id": "1059910672",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "turtle_shell_01.wav",
+      "Path": "Media/1059910672.wem",
+      "CachePath": "D3/{D37C3E82-2B6C-086C-FBE4-E982B8FE8211}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1470732359",
+      "Name": "play_shell_parry",
+      "ObjectPath": "\\Events\\Actions\\Actions\\play_shell_parry",
+      "GUID": "{6117D478-D719-452A-B014-CF2CCAE83E2E}",
+      "Color": "13",
+      "DurationType": "OneShot",
+      "DurationMin": "0.25",
+      "DurationMax": "0.33333334",
+      "MediaRefs": [
+       {
+        "Id": "54141085"
+       },
+       {
+        "Id": "725704793"
+       },
+       {
+        "Id": "1059910672"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{E1A1A7ED-771E-E041-F718-545734349077}"
+ }
+}
