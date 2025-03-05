@@ -10,11 +10,19 @@
     "Type": "User",
     "GUID": "{C91AF3C2-386D-4B6B-991C-34E8895D5C81}",
     "Language": "SFX",
-    "Hash": "{72E91284-099A-F61F-99BC-D0B6051770B8}",
+    "Hash": "{D3630530-7352-0911-AAF4-00F360CCACA9}",
     "ObjectPath": "\\SoundBanks\\Music\\MusicSoundBank",
     "ShortName": "MusicSoundBank",
     "Path": "MusicSoundBank.bnk",
     "Media": [
+     {
+      "Id": "115317097",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "keyhole_nosparkle.wav",
+      "CachePath": "BB/{BB9DEE26-C455-C4FF-6027-8721183C6851}.wem"
+     },
      {
       "Id": "268249401",
       "Language": "SFX",
@@ -30,6 +38,14 @@
       "Location": "Memory",
       "ShortName": "FinalGauntlet_145_50M.wav",
       "CachePath": "D8/{D869C827-9F8B-7054-CB7A-49A4E58901F8}.wem"
+     },
+     {
+      "Id": "364754566",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "keyhole_sparkle-01.wav",
+      "CachePath": "1B/{1B694445-176C-AE8C-1260-FC185C9CB38A}.wem"
      },
      {
       "Id": "553835786",
@@ -102,17 +118,23 @@
       "Location": "Memory",
       "ShortName": "EndingCutscene_90_16M.wav",
       "CachePath": "C6/{C6F4C618-B37F-9924-2598-BD2DE445BA68}.wem"
-     },
-     {
-      "Id": "961251536",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Memory",
-      "ShortName": "Keyhole_120_3M.wav",
-      "CachePath": "DA/{DAC00D67-B498-06F5-524B-7F6512EF09C7}.wem"
      }
     ],
     "Events": [
+     {
+      "Id": "1118704081",
+      "Name": "play_ancestor",
+      "ObjectPath": "\\Events\\Music\\Music Events\\play_ancestor",
+      "GUID": "{AB664166-3438-4534-8D57-263A25D739F3}",
+      "DurationType": "OneShot",
+      "DurationMin": "90.15886",
+      "DurationMax": "90.15886",
+      "MediaRefs": [
+       {
+        "Id": "115317097"
+       }
+      ]
+     },
      {
       "Id": "3646522415",
       "Name": "play_bison",
@@ -206,11 +228,11 @@
       "ObjectPath": "\\Events\\Music\\Music Events\\play_keyhole",
       "GUID": "{914CAEDF-F30C-47AE-B75E-389B7EF877D0}",
       "DurationType": "OneShot",
-      "DurationMin": "6.000857",
-      "DurationMax": "6.000857",
+      "DurationMin": "65.49089",
+      "DurationMax": "65.49089",
       "MediaRefs": [
        {
-        "Id": "961251536"
+        "Id": "364754566"
        }
       ]
      },
@@ -264,17 +286,9 @@
        }
       ]
      }
-    ],
-    "GameParameters": [
-     {
-      "Id": "1333026528",
-      "Name": "Music_Proximity",
-      "ObjectPath": "\\Game Parameters\\Music Layer Control\\Music_Proximity",
-      "GUID": "{81DBE1A9-C6FE-4B58-9B9F-457481EEF51E}"
-     }
     ]
    }
   ],
-  "FileHash": "{7D1C39A7-1F37-75C7-7082-05B918669091}"
+  "FileHash": "{2674FFEB-BD60-C2B9-DA85-A8A2B139C87D}"
  }
 }

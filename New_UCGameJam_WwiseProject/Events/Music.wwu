@@ -513,7 +513,7 @@
 								<Action Name="" ID="{B9B2630C-2674-4870-90A0-476A09237AF6}" ShortID="596797541">
 									<ReferenceList>
 										<Reference Name="Target">
-											<ObjectRef Name="Keyhole_120_3M" ID="{22A72DA6-6274-4994-8D3E-15F7FEEDDB3C}" WorkUnitID="{392C3C07-326F-4C17-A66B-D0793B595F32}"/>
+											<ObjectRef Name="keyhole_sparkle-01" ID="{11328EB5-9194-438B-A0CA-3B169805FF31}" WorkUnitID="{BF58EF7E-572A-4E21-B106-19F64267C86A}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>
@@ -547,6 +547,17 @@
 									<ReferenceList>
 										<Reference Name="Target">
 											<ObjectRef Name="Epilogue_Music" ID="{C1AF2AB5-870F-4E00-B0CD-C5EA3C0BB8FB}" WorkUnitID="{392C3C07-326F-4C17-A66B-D0793B595F32}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="play_ancestor" ID="{AB664166-3438-4534-8D57-263A25D739F3}">
+							<ChildrenList>
+								<Action Name="" ID="{82358D08-0DB3-4FF7-84BB-8DBA6924C4A4}" ShortID="541702144">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="keyhole_nosparkle" ID="{D3943D18-040F-4241-A235-26E1829DD831}" WorkUnitID="{BF58EF7E-572A-4E21-B106-19F64267C86A}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>

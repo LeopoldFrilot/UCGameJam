@@ -1,5 +1,6 @@
 Event	ID	Name			Wwise Object Path	Notes
 	869144128	play_mountainbase			\Music\Music Events\play_mountainbase	
+	1118704081	play_ancestor			\Music\Music Events\play_ancestor	
 	1293040988	play_turtle			\Music\Music Events\play_turtle	
 	1744712247	play_finale			\Music\Music Events\play_finale	
 	1967981985	play_prologue			\Music\Music Events\play_prologue	
@@ -12,12 +13,11 @@ Event	ID	Name			Wwise Object Path	Notes
 	3553001198	play_epilogue			\Music\Music Events\play_epilogue	
 	3646522415	play_bison			\Music\Music Events\play_bison	
 
-Game Parameter	ID	Name			Wwise Object Path	Notes
-	1333026528	Music_Proximity			\Music Layer Control\Music_Proximity	
-
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	115317097	keyhole_nosparkle	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\BB\{BB9DEE26-C455-C4FF-6027-8721183C6851}.wem		\Actor-Mixer Hierarchy\Keyhole\keyhole_nosparkle		15904120
 	268249401	Turtle_Town_70_P1_M42	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\77\{770A6FB2-4DB0-46B1-FB4E-1A6BABFF44BB}.wem		\Interactive Music Hierarchy\Music\Turtle_Town\Turtle_Town_70_P1_M42\Turtle_Town_70_P1_M42		25401696
 	353757325	FinalGauntlet_145_50M	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\D8\{D869C827-9F8B-7054-CB7A-49A4E58901F8}.wem		\Interactive Music Hierarchy\Music\Finale\FinalGauntlet_145_50M\FinalGauntlet_145_50M		14598720
+	364754566	keyhole_sparkle-01	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\1B\{1B694445-176C-AE8C-1260-FC185C9CB38A}.wem		\Actor-Mixer Hierarchy\Keyhole\keyhole_sparkle-01		11552688
 	553835786	Base_Town_70_P1_M42	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\A2\{A296CA3D-0434-E950-980B-AF354EE94F24}.wem		\Interactive Music Hierarchy\Music\Town_Base\Base_Town_70_P1_M42\Base_Town_70_P1_M42		25401696
 	561426790	Fox_Forest_90_P1_23M	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\A0\{A024A86C-5427-EFCA-DDA0-9FAA1FA2B5DA}.wem		\Interactive Music Hierarchy\Music\Fox_Forest\Fox_Forest_90_P1_23M\Fox_Forest_90_P1_23M		25276500
 	654732009	Base_Mountain_180_P1_M57	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\8C\{8C393569-61B5-803F-3045-718BDA7A0AC7}.wem		\Interactive Music Hierarchy\Music\Mountain_Base\Base_Mountain_180_P1_M57\Base_Mountain_180_P1_M57		17934096
@@ -27,5 +27,4 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	832757559	BaseForm_Jungle_220_60M	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\F8\{F8FC344C-AEB2-13DB-5BBF-F48E6564A75F}.wem		\Interactive Music Hierarchy\Music\Jungle_Base\Base_Jungle_220_60M\BaseForm_Jungle_220_60M		16458216
 	897119248	Base_Forest_90_P1_23M	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\DB\{DB3ECA47-2F00-5C7D-46C8-13BFB9296721}.wem		\Interactive Music Hierarchy\Music\Forest_Base\Base_Forest_90_P1_23M\Base_Forest_90_P1_23M		10348896
 	909418832	EndingCutscene_90_16M	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\C6\{C6F4C618-B37F-9924-2598-BD2DE445BA68}.wem		\Interactive Music Hierarchy\Music\Epilogue_Music\EndingCutscene_90_16M\EndingCutscene_90_16M		7526496
-	961251536	Keyhole_120_3M	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\DA\{DAC00D67-B498-06F5-524B-7F6512EF09C7}.wem		\Interactive Music Hierarchy\Music\Keyhole_120_3M\Keyhole_120_3M		1234896
 

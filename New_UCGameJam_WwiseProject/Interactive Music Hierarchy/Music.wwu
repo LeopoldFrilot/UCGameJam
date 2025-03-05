@@ -4869,43 +4869,6 @@
 								</Local>
 							</Reference>
 						</ObjectList>
-						<ObjectList Name="RTPC">
-							<Reference>
-								<Local>
-									<RTPC Name="" ID="{8B38D046-7F88-4D4F-9D78-7874C15C6871}" ShortID="158339493">
-										<PropertyList>
-											<Property Name="PropertyName" Type="string" Value="Volume"/>
-										</PropertyList>
-										<ReferenceList>
-											<Reference Name="ControlInput">
-												<ObjectRef Name="Music_Proximity" ID="{81DBE1A9-C6FE-4B58-9B9F-457481EEF51E}" WorkUnitID="{E625BD56-1C2E-42E6-840A-2FAE604C7FB5}"/>
-											</Reference>
-											<Reference Name="Curve">
-												<Custom>
-													<Curve Name="" ID="{C300085B-4C71-4A84-9CEA-576130723F1E}">
-														<PropertyList>
-															<Property Name="Flags" Type="int32" Value="3"/>
-														</PropertyList>
-														<PointList>
-															<Point>
-																<XPos>0</XPos>
-																<YPos>-200</YPos>
-																<Flags>5</Flags>
-															</Point>
-															<Point>
-																<XPos>100</XPos>
-																<YPos>0</YPos>
-																<Flags>37</Flags>
-															</Point>
-														</PointList>
-													</Curve>
-												</Custom>
-											</Reference>
-										</ReferenceList>
-									</RTPC>
-								</Local>
-							</Reference>
-						</ObjectList>
 					</ObjectLists>
 				</MusicSegment>
 				<MusicPlaylistContainer Name="Forest_Base" ID="{E4F1CBE4-5FAD-404F-BE7E-B48A6C1B4C66}" ShortID="667396581">
