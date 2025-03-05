@@ -1,0 +1,109 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "361142094",
+    "Type": "Event",
+    "GUID": "{A456B54D-6BEF-4AD0-90CE-0A07C5B776F3}",
+    "Language": "SFX",
+    "Hash": "{D4FC3F54-A408-4625-6EC4-E72D6DD0F9AD}",
+    "ObjectPath": "play_turtle_moan",
+    "ShortName": "play_turtle_moan",
+    "Path": "Event/play_turtle_moan.bnk",
+    "Media": [
+     {
+      "Id": "306125780",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "turtle_moan_02.wav",
+      "Path": "Media/306125780.wem",
+      "CachePath": "66/{66143200-FA32-1170-8B11-3AE930531241}.wem"
+     },
+     {
+      "Id": "454784589",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "turtle_moan_06.wav",
+      "Path": "Media/454784589.wem",
+      "CachePath": "88/{8827C0EA-DCDF-235C-8CCD-C34E5C9FCE29}.wem"
+     },
+     {
+      "Id": "455589223",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "turtle_moan_05.wav",
+      "Path": "Media/455589223.wem",
+      "CachePath": "7D/{7DF7812F-0225-6BD1-AD89-C494266E4AB6}.wem"
+     },
+     {
+      "Id": "518402701",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "turtle_moan_04.wav",
+      "Path": "Media/518402701.wem",
+      "CachePath": "A9/{A9A78D3F-8A78-B54D-D0CC-D06303D63BF4}.wem"
+     },
+     {
+      "Id": "710719724",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "turtle_moan_03.wav",
+      "Path": "Media/710719724.wem",
+      "CachePath": "C2/{C209D388-B50F-3C01-CB90-77272F3770DF}.wem"
+     },
+     {
+      "Id": "781050314",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "turtle_moan_01.wav",
+      "Path": "Media/781050314.wem",
+      "CachePath": "E0/{E05D0AA8-812D-9788-BF69-11EF7E415863}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "361142094",
+      "Name": "play_turtle_moan",
+      "ObjectPath": "\\Events\\Animal\\Turtle\\play_turtle_moan",
+      "GUID": "{A456B54D-6BEF-4AD0-90CE-0A07C5B776F3}",
+      "Color": "11",
+      "DurationType": "OneShot",
+      "DurationMin": "0.55911565",
+      "DurationMax": "0.8064172",
+      "MediaRefs": [
+       {
+        "Id": "306125780"
+       },
+       {
+        "Id": "454784589"
+       },
+       {
+        "Id": "455589223"
+       },
+       {
+        "Id": "518402701"
+       },
+       {
+        "Id": "710719724"
+       },
+       {
+        "Id": "781050314"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{855A4CBC-F30C-36AA-EBB1-7A9C7F8A51A6}"
+ }
+}

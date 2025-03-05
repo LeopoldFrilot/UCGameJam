@@ -1,0 +1,34 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1704306043",
+    "Type": "Event",
+    "GUID": "{3DCD5CF6-1524-434B-A54F-B97E96D7B91B}",
+    "Language": "SFX",
+    "Hash": "{84959226-9CDE-DE9F-218F-0228D252F90C}",
+    "ObjectPath": "stop_jungle",
+    "ShortName": "stop_jungle",
+    "Path": "Event/stop_jungle.bnk",
+    "Events": [
+     {
+      "Id": "1704306043",
+      "Name": "stop_jungle",
+      "ObjectPath": "\\Events\\Ambience\\Jungle\\stop_jungle",
+      "GUID": "{3DCD5CF6-1524-434B-A54F-B97E96D7B91B}",
+      "Color": "5",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{8C8F18C6-892C-EB91-CB0E-0E10CAD24C81}"
+ }
+}

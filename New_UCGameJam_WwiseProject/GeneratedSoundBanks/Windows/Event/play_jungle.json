@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3716259809",
+    "Type": "Event",
+    "GUID": "{AF42022A-3CD9-4776-BE07-1CAFEC40B53F}",
+    "Language": "SFX",
+    "Hash": "{EB34626E-BCC8-9B72-875B-CDA797225A97}",
+    "ObjectPath": "play_jungle",
+    "ShortName": "play_jungle",
+    "Path": "Event/play_jungle.bnk",
+    "Media": [
+     {
+      "Id": "883964647",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "amb_jungle_02.wav",
+      "Path": "Media/883964647.wem",
+      "CachePath": "FA/{FAA098D8-C49F-C6C4-E14B-D2E785D83459}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3716259809",
+      "Name": "play_jungle",
+      "ObjectPath": "\\Events\\Ambience\\Jungle\\play_jungle",
+      "GUID": "{AF42022A-3CD9-4776-BE07-1CAFEC40B53F}",
+      "Color": "5",
+      "DurationType": "OneShot",
+      "DurationMin": "134.04489",
+      "DurationMax": "134.04489",
+      "MediaRefs": [
+       {
+        "Id": "883964647"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{C6451EA2-2A1F-0B72-E1B3-E705B2CFEF6C}"
+ }
+}

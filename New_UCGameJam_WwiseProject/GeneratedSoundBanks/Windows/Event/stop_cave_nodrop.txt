@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	774724684	stop_cave_nodrop			\Ambience\Cave\stop_cave_nodrop	
+

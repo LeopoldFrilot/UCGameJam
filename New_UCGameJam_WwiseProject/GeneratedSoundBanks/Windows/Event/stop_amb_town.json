@@ -1,0 +1,34 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2088002831",
+    "Type": "Event",
+    "GUID": "{F7944FF3-B497-4AD8-93F1-72DD8D8EC82A}",
+    "Language": "SFX",
+    "Hash": "{D7AB8075-493D-A24F-B31B-BE03D708A9C1}",
+    "ObjectPath": "stop_amb_town",
+    "ShortName": "stop_amb_town",
+    "Path": "Event/stop_amb_town.bnk",
+    "Events": [
+     {
+      "Id": "2088002831",
+      "Name": "stop_amb_town",
+      "ObjectPath": "\\Events\\Ambience\\Town\\stop_amb_town",
+      "GUID": "{F7944FF3-B497-4AD8-93F1-72DD8D8EC82A}",
+      "Color": "5",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{DCB35140-5C82-1EFB-1A83-A31D068DA347}"
+ }
+}

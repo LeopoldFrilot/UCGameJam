@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{7FD76C27-F9A6-4EFF-AC37-8B71D01323D1}",
     "Language": "SFX",
-    "Hash": "{DB1E085F-C93C-A765-72C3-9CA6AB9B9DF1}",
+    "Hash": "{2931D7FC-0EB4-A121-C6E8-4BE2A40F6ECB}",
     "ObjectPath": "play_minecart_loop",
     "ShortName": "play_minecart_loop",
     "Path": "Event/play_minecart_loop.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "minecart_loop.wav",
       "Path": "Media/580007246.wem",
-      "CachePath": "90/{9017ECB2-1403-977C-06E8-9BF52320E87D}.wem"
+      "CachePath": "38/{3861D818-3E88-4B5B-035E-B00A79B500D1}.wem"
      }
     ],
     "Events": [
@@ -43,6 +43,6 @@
     ]
    }
   ],
-  "FileHash": "{C04FF43D-4D64-DB0E-09A4-6DBD08572E8E}"
+  "FileHash": "{488318D6-2679-AEEB-8992-4D78B4E2BBC8}"
  }
 }

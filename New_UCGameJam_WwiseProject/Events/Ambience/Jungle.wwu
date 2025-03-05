@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{1743EFB1-F262-483C-8E5E-4ED72BC1EF1D}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Jungle" ID="{1743EFB1-F262-483C-8E5E-4ED72BC1EF1D}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="play_jungle" ID="{AF42022A-3CD9-4776-BE07-1CAFEC40B53F}">
+					<ChildrenList>
+						<Action Name="" ID="{EEA2542E-3717-4C95-811C-D22429219FB6}" ShortID="611249948">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="amb_jungle_02" ID="{CE1D1ED3-39B9-4718-B486-9AA2AA6BEFAD}" WorkUnitID="{2B98268B-C42F-4E72-9215-2C2F9B1DC947}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="stop_jungle" ID="{3DCD5CF6-1524-434B-A54F-B97E96D7B91B}">
+					<ChildrenList>
+						<Action Name="" ID="{D32ECA6E-129A-4591-9C23-EDC160F5A3D1}" ShortID="956415251">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="amb_jungle_02" ID="{CE1D1ED3-39B9-4718-B486-9AA2AA6BEFAD}" WorkUnitID="{2B98268B-C42F-4E72-9215-2C2F9B1DC947}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

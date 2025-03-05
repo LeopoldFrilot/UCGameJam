@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{728B7DB2-6B2F-430C-868E-BFFE6EC49062}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Book Page" ID="{728B7DB2-6B2F-430C-868E-BFFE6EC49062}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="play_pageflip" ID="{3B77B87A-E98F-4FDA-97BB-09010C63AE82}">
+					<ChildrenList>
+						<Action Name="" ID="{27DC6B69-DF78-4B35-A17B-88100D81A632}" ShortID="127003367">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="page_flip" ID="{C8DF21BD-2445-4AEB-A289-CBBDED8A157B}" WorkUnitID="{F03EEC88-7893-4D45-90F5-803873808474}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

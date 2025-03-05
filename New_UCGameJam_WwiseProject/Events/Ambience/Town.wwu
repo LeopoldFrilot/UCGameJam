@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{67968267-161B-4DAD-8229-B4B63CC19BB2}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Town" ID="{67968267-161B-4DAD-8229-B4B63CC19BB2}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="play_amb_town" ID="{415265EA-1DF3-427B-B898-BEBBEE4E2766}">
+					<ChildrenList>
+						<Action Name="" ID="{84E76583-EAF6-42C6-8706-376D39F3E34F}" ShortID="843348814">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="amb_town_desertwind" ID="{18B1099A-09FF-46AB-8A7B-FAF3938C4CC2}" WorkUnitID="{3FD01894-B2EA-4D6A-933F-05C5AD5E5AD6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="stop_amb_town" ID="{F7944FF3-B497-4AD8-93F1-72DD8D8EC82A}">
+					<ChildrenList>
+						<Action Name="" ID="{55F521B7-E119-43E5-95E4-BD019F67790B}" ShortID="669148805">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="amb_town_desertwind" ID="{18B1099A-09FF-46AB-8A7B-FAF3938C4CC2}" WorkUnitID="{3FD01894-B2EA-4D6A-933F-05C5AD5E5AD6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

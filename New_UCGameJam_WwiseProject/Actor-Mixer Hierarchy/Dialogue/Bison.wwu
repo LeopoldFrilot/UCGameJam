@@ -178,6 +178,13 @@
 					</ActiveSourceList>
 				</Sound>
 				<Sound Name="2_0_Bison" ID="{DB14A636-30C9-42F9-A647-93E15D464A03}" ShortID="513883159">
+					<PropertyList>
+						<Property Name="Pitch" Type="int32">
+							<ValueList>
+								<Value>-300</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>

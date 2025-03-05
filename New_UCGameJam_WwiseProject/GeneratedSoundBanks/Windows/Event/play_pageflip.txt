@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1627151722	play_pageflip			\UI\Book\Book Page\play_pageflip	
+

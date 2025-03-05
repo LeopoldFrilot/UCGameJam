@@ -1,0 +1,61 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1627151722",
+    "Type": "Event",
+    "GUID": "{3B77B87A-E98F-4FDA-97BB-09010C63AE82}",
+    "Language": "SFX",
+    "Hash": "{DE0F5DF6-5409-0343-0493-8ECFE3885BB0}",
+    "ObjectPath": "play_pageflip",
+    "ShortName": "play_pageflip",
+    "Path": "Event/play_pageflip.bnk",
+    "Media": [
+     {
+      "Id": "514105211",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "page_flip_02.wav",
+      "Path": "Media/514105211.wem",
+      "CachePath": "16/{16AF5C87-1105-AED1-E2B6-2B0F5420C4BE}.wem"
+     },
+     {
+      "Id": "752891853",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "page_flip_01.wav",
+      "Path": "Media/752891853.wem",
+      "CachePath": "BC/{BC779212-64E0-2C5E-7845-60369599F0F9}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1627151722",
+      "Name": "play_pageflip",
+      "ObjectPath": "\\Events\\UI\\Book\\Book Page\\play_pageflip",
+      "GUID": "{3B77B87A-E98F-4FDA-97BB-09010C63AE82}",
+      "Color": "14",
+      "DurationType": "OneShot",
+      "DurationMin": "0.5537415",
+      "DurationMax": "0.91396827",
+      "MediaRefs": [
+       {
+        "Id": "514105211"
+       },
+       {
+        "Id": "752891853"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{12F76287-4FD1-A9AE-09BE-C7044908970A}"
+ }
+}

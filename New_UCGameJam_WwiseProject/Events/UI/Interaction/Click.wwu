@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{18371A3D-D649-4D59-9B2F-D35739380EF0}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Click" ID="{18371A3D-D649-4D59-9B2F-D35739380EF0}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="play_mouseclick01" ID="{7A161C2D-853D-4D7A-A53D-E22BD17143C6}">
+					<ChildrenList>
+						<Action Name="" ID="{A26A0D42-993E-4FB7-AD57-177891BD5E7F}" ShortID="718724328">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ui_click_mouse01" ID="{960EB335-2E25-4437-9F21-AFBB7C8E0B07}" WorkUnitID="{19FA1F58-0983-4510-A8BC-85B47DB2372A}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_mouseclick02" ID="{0F484567-FFFD-474F-94AF-1D0D424D4AB4}">
+					<ChildrenList>
+						<Action Name="" ID="{64E620C7-9F15-49F7-8083-EA8872964D70}" ShortID="112095107">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ui_click_mouse02" ID="{62F9CBA3-1A78-4AE2-8FAF-B75A637E258E}" WorkUnitID="{19FA1F58-0983-4510-A8BC-85B47DB2372A}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_mouseclick03" ID="{36954C5C-D3F5-4138-A61D-35983D524966}">
+					<ChildrenList>
+						<Action Name="" ID="{C07F76C0-E5C1-4300-AFAC-5B44D921ED08}" ShortID="849277221">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ui_click_mouse03" ID="{6AF1EAC3-E11B-44D0-AD6C-F7A045019C82}" WorkUnitID="{19FA1F58-0983-4510-A8BC-85B47DB2372A}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_click_blip" ID="{A1E6F467-D7E0-48D4-941F-2C48D22F7A6A}">
+					<ChildrenList>
+						<Action Name="" ID="{B15AB956-839B-483E-9B39-A77450B7304E}" ShortID="412010265">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ui_click_blip" ID="{E0255E78-8D8D-4B12-8AE3-B204635A6633}" WorkUnitID="{B4F4D06C-EAF2-4BE6-8226-C143C9121A42}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

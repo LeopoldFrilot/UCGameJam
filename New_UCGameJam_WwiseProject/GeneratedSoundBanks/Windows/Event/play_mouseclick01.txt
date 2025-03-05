@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3669290932	play_mouseclick01			\UI\Interaction\Click\play_mouseclick01	
+

@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3669290935",
+    "Type": "Event",
+    "GUID": "{0F484567-FFFD-474F-94AF-1D0D424D4AB4}",
+    "Language": "SFX",
+    "Hash": "{5079F609-E9D9-CC6F-88D0-38F6A92ED84D}",
+    "ObjectPath": "play_mouseclick02",
+    "ShortName": "play_mouseclick02",
+    "Path": "Event/play_mouseclick02.bnk",
+    "Media": [
+     {
+      "Id": "65869418",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "ui_click_mouse02.wav",
+      "Path": "Media/65869418.wem",
+      "CachePath": "47/{47A91DEC-BF03-1F68-CE2D-D43EF01E242B}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3669290935",
+      "Name": "play_mouseclick02",
+      "ObjectPath": "\\Events\\UI\\Interaction\\Click\\play_mouseclick02",
+      "GUID": "{0F484567-FFFD-474F-94AF-1D0D424D4AB4}",
+      "Color": "14",
+      "DurationType": "OneShot",
+      "DurationMin": "0.026908826",
+      "DurationMax": "0.026908826",
+      "MediaRefs": [
+       {
+        "Id": "65869418"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{660E8359-4911-40ED-4DC2-363C73BECD01}"
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3313379525",
+    "Type": "Event",
+    "GUID": "{415265EA-1DF3-427B-B898-BEBBEE4E2766}",
+    "Language": "SFX",
+    "Hash": "{B5B9A953-913F-767D-4628-46A39BBB59DA}",
+    "ObjectPath": "play_amb_town",
+    "ShortName": "play_amb_town",
+    "Path": "Event/play_amb_town.bnk",
+    "Media": [
+     {
+      "Id": "826193711",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "amb_town_desertwind.wav",
+      "Path": "Media/826193711.wem",
+      "CachePath": "1C/{1C712F4A-E525-CBE2-DCE4-D0B1C9F4CFF1}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3313379525",
+      "Name": "play_amb_town",
+      "ObjectPath": "\\Events\\Ambience\\Town\\play_amb_town",
+      "GUID": "{415265EA-1DF3-427B-B898-BEBBEE4E2766}",
+      "Color": "5",
+      "DurationType": "OneShot",
+      "DurationMin": "79.56773",
+      "DurationMax": "79.56773",
+      "MediaRefs": [
+       {
+        "Id": "826193711"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{A08CF7D4-4200-5567-F3ED-1FD2A7DCDEAF}"
+ }
+}

@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	361142094	play_turtle_moan			\Animal\Turtle\play_turtle_moan	
+

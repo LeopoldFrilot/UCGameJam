@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{472DAFB6-F47A-4A81-A4BA-1EBED27A500E}" SchemaVersion="123">
+	<AudioObjects>
+		<WorkUnit Name="Turtle" ID="{472DAFB6-F47A-4A81-A4BA-1EBED27A500E}" PersistMode="Standalone">
+			<ChildrenList>
+				<RandomSequenceContainer Name="turtle_moan" ID="{5F922D71-886D-45D2-8390-7B21563501A2}" ShortID="243072141">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="turtle_moan_01" ID="{25C1E2D6-0DD4-423C-9A2C-E391311416A4}" ShortID="744102202">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="turtle_moan_01" ID="{8C271CCA-250D-4B23-965F-985CE733DC96}">
+									<Language>SFX</Language>
+									<AudioFile>turtle_moan_01.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="781050314"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="turtle_moan_01" ID="{8C271CCA-250D-4B23-965F-985CE733DC96}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="turtle_moan_02" ID="{665BD210-CFA0-45F2-BA81-83C2CBC97B99}" ShortID="491324692">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="turtle_moan_02" ID="{76AD2EF5-C8FC-4F10-94E9-46E8F99CB886}">
+									<Language>SFX</Language>
+									<AudioFile>turtle_moan_02.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="306125780"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="turtle_moan_02" ID="{76AD2EF5-C8FC-4F10-94E9-46E8F99CB886}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="turtle_moan_03" ID="{E1677734-755C-4D8E-BB07-29DC217F7D41}" ShortID="202241738">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="turtle_moan_03" ID="{3123FF12-0E9B-46BB-8089-CFCA2A0D64F2}">
+									<Language>SFX</Language>
+									<AudioFile>turtle_moan_03.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="710719724"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="turtle_moan_03" ID="{3123FF12-0E9B-46BB-8089-CFCA2A0D64F2}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="turtle_moan_04" ID="{5E678CD2-1004-443C-A825-45AD31C7C552}" ShortID="335161650">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="turtle_moan_04" ID="{6EC12290-5046-40F2-A860-AA0FCF4BD39B}">
+									<Language>SFX</Language>
+									<AudioFile>turtle_moan_04.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="518402701"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="turtle_moan_04" ID="{6EC12290-5046-40F2-A860-AA0FCF4BD39B}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="turtle_moan_05" ID="{CA054685-4DBF-455A-80C8-77DF7DA47D29}" ShortID="934705144">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="turtle_moan_05" ID="{4FC18EF3-3091-4F59-8898-BA874B8104C0}">
+									<Language>SFX</Language>
+									<AudioFile>turtle_moan_05.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="455589223"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="turtle_moan_05" ID="{4FC18EF3-3091-4F59-8898-BA874B8104C0}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="turtle_moan_06" ID="{310A02A4-4F9A-44D2-AB5F-5D31A30715A5}" ShortID="595557441">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="turtle_moan_06" ID="{233922FE-00BB-4B85-B129-CA657C2DCD80}">
+									<Language>SFX</Language>
+									<AudioFile>turtle_moan_06.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="454784589"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="turtle_moan_06" ID="{233922FE-00BB-4B85-B129-CA657C2DCD80}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</RandomSequenceContainer>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

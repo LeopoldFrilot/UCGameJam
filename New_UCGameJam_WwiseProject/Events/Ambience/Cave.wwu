@@ -53,6 +53,31 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="play_cave_nodrop" ID="{FD20929F-5F71-4E48-BC6F-3D46AB66F624}">
+					<ChildrenList>
+						<Action Name="" ID="{02C14ACB-EE78-442A-B2D1-7B90F29FFA21}" ShortID="299043282">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="amb_cave_nodrop" ID="{A5A7CAB0-9B10-40A0-B3CD-E97235B27BED}" WorkUnitID="{A2EC9233-3768-49C9-856A-257AED729966}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="stop_cave_nodrop" ID="{587EC26D-2D2A-4D90-8447-E66D513FA02A}">
+					<ChildrenList>
+						<Action Name="" ID="{F7CD08A7-30B0-40B0-9495-C9979A3CBE30}" ShortID="28806915">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="amb_cave_nodrop" ID="{A5A7CAB0-9B10-40A0-B3CD-E97235B27BED}" WorkUnitID="{A2EC9233-3768-49C9-856A-257AED729966}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

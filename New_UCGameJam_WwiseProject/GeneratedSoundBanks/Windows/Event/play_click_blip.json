@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "768707172",
+    "Type": "Event",
+    "GUID": "{A1E6F467-D7E0-48D4-941F-2C48D22F7A6A}",
+    "Language": "SFX",
+    "Hash": "{ABCE45DD-39E3-ABB7-60BB-0453682506CD}",
+    "ObjectPath": "play_click_blip",
+    "ShortName": "play_click_blip",
+    "Path": "Event/play_click_blip.bnk",
+    "Media": [
+     {
+      "Id": "1018957979",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "ui_click_blip.wav",
+      "Path": "Media/1018957979.wem",
+      "CachePath": "4D/{4D0589D3-63D9-D1E7-0F4E-A33213D796F9}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "768707172",
+      "Name": "play_click_blip",
+      "ObjectPath": "\\Events\\UI\\Interaction\\Click\\play_click_blip",
+      "GUID": "{A1E6F467-D7E0-48D4-941F-2C48D22F7A6A}",
+      "Color": "14",
+      "DurationType": "OneShot",
+      "DurationMin": "0.06657597",
+      "DurationMax": "0.06657597",
+      "MediaRefs": [
+       {
+        "Id": "1018957979"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{67D5AD37-F2B6-8B3A-1239-5300F80B7BBC}"
+ }
+}

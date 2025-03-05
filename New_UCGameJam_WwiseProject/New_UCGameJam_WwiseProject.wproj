@@ -11644,9 +11644,6 @@
 						</PropertyList>
 					</WorkUnit>
 				</PhysicalFolder>
-				<PhysicalFolder Path="Actor-Mixer Hierarchy\Animal\Turtle">
-					<WorkUnit Name="Turtle" ID="{B83721AF-0F40-4A00-BE60-03EDADB0CC40}" PersistMode="Standalone"/>
-				</PhysicalFolder>
 				<PhysicalFolder Path="Actor-Mixer Hierarchy\Dialogue">
 					<WorkUnit Name="Dialogue" ID="{536765CF-F436-41AF-99AC-F07B776619C0}" PersistMode="Standalone">
 						<PropertyList>
@@ -11739,6 +11736,12 @@
 							<Property Name="OverrideColor" Type="bool" Value="True"/>
 						</PropertyList>
 					</WorkUnit>
+				</PhysicalFolder>
+				<PhysicalFolder Path="Events\UI\Book">
+					<WorkUnit Name="Book" ID="{846A7B06-5194-43C9-B0AE-0F9B2E36B36B}" PersistMode="Standalone"/>
+				</PhysicalFolder>
+				<PhysicalFolder Path="Events\UI\Interaction">
+					<WorkUnit Name="Interaction" ID="{EEB2DC73-F733-405D-9004-D17DAB3BC9A6}" PersistMode="Standalone"/>
 				</PhysicalFolder>
 				<PhysicalFolder Path="Events\UI\Puzzle">
 					<WorkUnit Name="Puzzle" ID="{45909D5F-E9A0-4094-A19F-F516D2662ADB}" PersistMode="Standalone"/>

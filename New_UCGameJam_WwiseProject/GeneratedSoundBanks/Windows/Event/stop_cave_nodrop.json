@@ -1,0 +1,34 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "774724684",
+    "Type": "Event",
+    "GUID": "{587EC26D-2D2A-4D90-8447-E66D513FA02A}",
+    "Language": "SFX",
+    "Hash": "{B0EC0F56-78A0-E5E0-86CA-A990661EBDFD}",
+    "ObjectPath": "stop_cave_nodrop",
+    "ShortName": "stop_cave_nodrop",
+    "Path": "Event/stop_cave_nodrop.bnk",
+    "Events": [
+     {
+      "Id": "774724684",
+      "Name": "stop_cave_nodrop",
+      "ObjectPath": "\\Events\\Ambience\\Cave\\stop_cave_nodrop",
+      "GUID": "{587EC26D-2D2A-4D90-8447-E66D513FA02A}",
+      "Color": "5",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{7A7DFD20-8828-09A7-68C0-BC6D48DE3A04}"
+ }
+}

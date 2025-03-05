@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{C42BF13F-F94A-4497-BA71-52F5889991A4}" SchemaVersion="123">
+	<AudioObjects>
+		<WorkUnit Name="Clicks" ID="{C42BF13F-F94A-4497-BA71-52F5889991A4}" PersistMode="Standalone">
+			<ChildrenList>
+				<WorkUnit Name="Blip" ID="{B4F4D06C-EAF2-4BE6-8226-C143C9121A42}" PersistMode="Reference"/>
+				<WorkUnit Name="Mouse Click" ID="{19FA1F58-0983-4510-A8BC-85B47DB2372A}" PersistMode="Reference"/>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
