@@ -10,6 +10,11 @@
 								<Value>-150</Value>
 							</ValueList>
 						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>8</Value>
+							</ValueList>
+						</Property>
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
@@ -37,6 +42,11 @@
 						<Property Name="Pitch" Type="int32">
 							<ValueList>
 								<Value>-150</Value>
+							</ValueList>
+						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>8</Value>
 							</ValueList>
 						</Property>
 					</PropertyList>
@@ -68,6 +78,11 @@
 								<Value>-150</Value>
 							</ValueList>
 						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>8</Value>
+							</ValueList>
+						</Property>
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
@@ -95,6 +110,11 @@
 						<Property Name="Pitch" Type="int32">
 							<ValueList>
 								<Value>-150</Value>
+							</ValueList>
+						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>8</Value>
 							</ValueList>
 						</Property>
 					</PropertyList>
@@ -126,6 +146,11 @@
 								<Value>-150</Value>
 							</ValueList>
 						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>8</Value>
+							</ValueList>
+						</Property>
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
@@ -153,6 +178,11 @@
 						<Property Name="Pitch" Type="int32">
 							<ValueList>
 								<Value>-150</Value>
+							</ValueList>
+						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>8</Value>
 							</ValueList>
 						</Property>
 					</PropertyList>
@@ -184,6 +214,11 @@
 								<Value>-150</Value>
 							</ValueList>
 						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>8</Value>
+							</ValueList>
+						</Property>
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
@@ -211,6 +246,11 @@
 						<Property Name="Pitch" Type="int32">
 							<ValueList>
 								<Value>-150</Value>
+							</ValueList>
+						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>9</Value>
 							</ValueList>
 						</Property>
 					</PropertyList>

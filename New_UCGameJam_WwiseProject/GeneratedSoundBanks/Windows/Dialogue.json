@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{30CFE3D3-7470-4120-B31B-8223525BD108}",
     "Language": "SFX",
-    "Hash": "{DECCCDC2-9D85-DA7E-C1DC-E9F69B865FA3}",
+    "Hash": "{7AA774FD-A72B-EF47-EE0B-5D59AB2160C9}",
     "ObjectPath": "\\SoundBanks\\Dialogue\\Dialogue",
     "ShortName": "Dialogue",
     "Path": "Dialogue.bnk",
@@ -1262,6 +1262,6 @@
     ]
    }
   ],
-  "FileHash": "{6B62B058-FFFB-AA04-6667-3BF8E143360B}"
+  "FileHash": "{CF893D83-D6CC-1D95-4A1B-0ECA4C40C5AC}"
  }
 }

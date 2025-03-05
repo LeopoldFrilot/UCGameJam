@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{FD20929F-5F71-4E48-BC6F-3D46AB66F624}",
     "Language": "SFX",
-    "Hash": "{B3E0B759-0F5C-917C-736E-C7C0A8D9CCCD}",
+    "Hash": "{A21503BA-2F10-1862-ECC5-2B99182478D1}",
     "ObjectPath": "play_cave_nodrop",
     "ShortName": "play_cave_nodrop",
     "Path": "Event/play_cave_nodrop.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{A8964A72-64B6-C639-FB39-BDA2BBD5245A}"
+  "FileHash": "{206734E2-A020-2D4A-DCEA-1DB34CBAEF66}"
  }
 }

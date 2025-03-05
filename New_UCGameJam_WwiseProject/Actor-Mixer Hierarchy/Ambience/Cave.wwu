@@ -146,6 +146,13 @@
 					</ActiveSourceList>
 				</Sound>
 				<Sound Name="amb_cave_nodrop" ID="{A5A7CAB0-9B10-40A0-B3CD-E97235B27BED}" ShortID="693205160">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-8</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
