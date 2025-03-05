@@ -10,6 +10,11 @@
 								<Value>24</Value>
 							</ValueList>
 						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-4</Value>
+							</ValueList>
+						</Property>
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
@@ -66,6 +71,11 @@
 						<Property Name="Highpass" Type="int16">
 							<ValueList>
 								<Value>24</Value>
+							</ValueList>
+						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>3</Value>
 							</ValueList>
 						</Property>
 					</PropertyList>
@@ -126,6 +136,11 @@
 								<Value>24</Value>
 							</ValueList>
 						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-4</Value>
+							</ValueList>
+						</Property>
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
@@ -153,6 +168,11 @@
 						<Property Name="Highpass" Type="int16">
 							<ValueList>
 								<Value>24</Value>
+							</ValueList>
+						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>2</Value>
 							</ValueList>
 						</Property>
 					</PropertyList>
@@ -213,6 +233,11 @@
 								<Value>24</Value>
 							</ValueList>
 						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>2</Value>
+							</ValueList>
+						</Property>
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
@@ -265,6 +290,13 @@
 					</ActiveSourceList>
 				</Sound>
 				<Sound Name="Fox_6_3" ID="{4CFB702A-5649-4B6C-A10F-05BB488E3C93}" ShortID="911849864">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-1</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>

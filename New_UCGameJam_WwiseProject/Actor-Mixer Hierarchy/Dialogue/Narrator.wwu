@@ -10,6 +10,11 @@
 								<Value>24</Value>
 							</ValueList>
 						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>3</Value>
+							</ValueList>
+						</Property>
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
@@ -37,6 +42,11 @@
 						<Property Name="Highpass" Type="int16">
 							<ValueList>
 								<Value>24</Value>
+							</ValueList>
+						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>3</Value>
 							</ValueList>
 						</Property>
 					</PropertyList>
@@ -68,6 +78,11 @@
 								<Value>24</Value>
 							</ValueList>
 						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>3</Value>
+							</ValueList>
+						</Property>
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
@@ -95,6 +110,11 @@
 						<Property Name="Highpass" Type="int16">
 							<ValueList>
 								<Value>24</Value>
+							</ValueList>
+						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>3</Value>
 							</ValueList>
 						</Property>
 					</PropertyList>
@@ -126,6 +146,11 @@
 								<Value>24</Value>
 							</ValueList>
 						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>3</Value>
+							</ValueList>
+						</Property>
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
@@ -153,6 +178,11 @@
 						<Property Name="Highpass" Type="int16">
 							<ValueList>
 								<Value>24</Value>
+							</ValueList>
+						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>4</Value>
 							</ValueList>
 						</Property>
 					</PropertyList>
@@ -184,6 +214,11 @@
 								<Value>24</Value>
 							</ValueList>
 						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>4</Value>
+							</ValueList>
+						</Property>
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
@@ -211,6 +246,11 @@
 						<Property Name="Highpass" Type="int16">
 							<ValueList>
 								<Value>24</Value>
+							</ValueList>
+						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>4</Value>
 							</ValueList>
 						</Property>
 					</PropertyList>
@@ -271,6 +311,11 @@
 								<Value>24</Value>
 							</ValueList>
 						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>4</Value>
+							</ValueList>
+						</Property>
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
@@ -298,6 +343,11 @@
 						<Property Name="Highpass" Type="int16">
 							<ValueList>
 								<Value>24</Value>
+							</ValueList>
+						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>2</Value>
 							</ValueList>
 						</Property>
 					</PropertyList>
@@ -329,6 +379,11 @@
 								<Value>24</Value>
 							</ValueList>
 						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>4</Value>
+							</ValueList>
+						</Property>
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
@@ -356,6 +411,11 @@
 						<Property Name="Highpass" Type="int16">
 							<ValueList>
 								<Value>24</Value>
+							</ValueList>
+						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>4</Value>
 							</ValueList>
 						</Property>
 					</PropertyList>
@@ -387,6 +447,11 @@
 								<Value>24</Value>
 							</ValueList>
 						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>4</Value>
+							</ValueList>
+						</Property>
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
@@ -414,6 +479,11 @@
 						<Property Name="Highpass" Type="int16">
 							<ValueList>
 								<Value>24</Value>
+							</ValueList>
+						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>4</Value>
 							</ValueList>
 						</Property>
 					</PropertyList>
@@ -445,6 +515,11 @@
 								<Value>24</Value>
 							</ValueList>
 						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>3</Value>
+							</ValueList>
+						</Property>
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
@@ -472,6 +547,11 @@
 						<Property Name="Highpass" Type="int16">
 							<ValueList>
 								<Value>24</Value>
+							</ValueList>
+						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>5</Value>
 							</ValueList>
 						</Property>
 					</PropertyList>
@@ -503,6 +583,11 @@
 								<Value>24</Value>
 							</ValueList>
 						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>5</Value>
+							</ValueList>
+						</Property>
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
@@ -530,6 +615,11 @@
 						<Property Name="Highpass" Type="int16">
 							<ValueList>
 								<Value>24</Value>
+							</ValueList>
+						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>5</Value>
 							</ValueList>
 						</Property>
 					</PropertyList>
@@ -561,6 +651,11 @@
 								<Value>24</Value>
 							</ValueList>
 						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>5</Value>
+							</ValueList>
+						</Property>
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
@@ -584,6 +679,13 @@
 					</ActiveSourceList>
 				</Sound>
 				<Sound Name="Narrator_6_1" ID="{D9C18624-D211-4348-8F43-E4B4E28F08A3}" ShortID="294187636">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>4</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>

@@ -4,6 +4,13 @@
 		<WorkUnit Name="Keyhole" ID="{BF58EF7E-572A-4E21-B106-19F64267C86A}" PersistMode="Standalone">
 			<ChildrenList>
 				<Sound Name="keyhole_sparkle-01" ID="{11328EB5-9194-438B-A0CA-3B169805FF31}" ShortID="1010466973">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>8</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>
