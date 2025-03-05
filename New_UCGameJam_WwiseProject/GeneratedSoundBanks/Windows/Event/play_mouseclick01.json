@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{7A161C2D-853D-4D7A-A53D-E22BD17143C6}",
     "Language": "SFX",
-    "Hash": "{671B6673-C577-13E3-1545-9261485615F9}",
+    "Hash": "{A72A336C-E017-6739-D4FA-06416F5194D7}",
     "ObjectPath": "play_mouseclick01",
     "ShortName": "play_mouseclick01",
     "Path": "Event/play_mouseclick01.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "ui_click_mouse01.wav",
       "Path": "Media/916277342.wem",
-      "CachePath": "39/{392EB0E4-CBFA-9F15-695D-9609DEC2445A}.wem"
+      "CachePath": "0C/{0CD231F0-5666-FFF4-F0B8-BE51EC093570}.wem"
      }
     ],
     "Events": [
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{A92F6C80-EE90-5B8E-F561-C14A27B5DF4C}"
+  "FileHash": "{739535FC-2B67-7119-AFA8-6658EA5D496F}"
  }
 }

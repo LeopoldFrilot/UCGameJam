@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{30CFE3D3-7470-4120-B31B-8223525BD108}",
     "Language": "SFX",
-    "Hash": "{8DE0434B-4D62-216D-0796-25EF0B693C10}",
+    "Hash": "{70F6E17A-61D2-82C4-AC32-9D89404A18C5}",
     "ObjectPath": "\\SoundBanks\\Dialogue\\Dialogue",
     "ShortName": "Dialogue",
     "Path": "Dialogue.bnk",
@@ -486,8 +486,8 @@
       "GUID": "{6ED6EA50-AE53-445D-A31D-77C24EEB6266}",
       "Color": "19",
       "DurationType": "OneShot",
-      "DurationMin": "6.075102",
-      "DurationMax": "6.075102",
+      "DurationMin": "7.224554",
+      "DurationMax": "7.224554",
       "MediaRefs": [
        {
         "Id": "33773801"
@@ -1247,6 +1247,6 @@
     ]
    }
   ],
-  "FileHash": "{672C6458-1B34-BABF-653D-507ECBBC26E2}"
+  "FileHash": "{9F338F15-FAD8-8282-0253-3AC7C0AB0D2E}"
  }
 }
