@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{7A161C2D-853D-4D7A-A53D-E22BD17143C6}",
     "Language": "SFX",
-    "Hash": "{A72A336C-E017-6739-D4FA-06416F5194D7}",
+    "Hash": "{D59ABFC2-5FAF-7991-B548-400C99A76BB8}",
     "ObjectPath": "play_mouseclick01",
     "ShortName": "play_mouseclick01",
     "Path": "Event/play_mouseclick01.bnk",
@@ -44,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{739535FC-2B67-7119-AFA8-6658EA5D496F}"
+  "FileHash": "{B3E52A13-1FF3-F36A-D992-AF8847199136}"
  }
 }
