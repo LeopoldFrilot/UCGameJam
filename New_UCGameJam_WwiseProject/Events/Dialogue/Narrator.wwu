@@ -223,7 +223,17 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="Narrator_6_1" ID="{BACF36A6-8421-404D-BCF3-0FAA863A2B69}"/>
+				<Event Name="Narrator_6_1" ID="{BACF36A6-8421-404D-BCF3-0FAA863A2B69}">
+					<ChildrenList>
+						<Action Name="" ID="{1BCCF482-ADF8-4E47-B088-0119DC45F75F}" ShortID="509251590">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Narrator_6_1" ID="{D9C18624-D211-4348-8F43-E4B4E28F08A3}" WorkUnitID="{04200D87-8A79-4466-A745-3F0C9CA8CF6A}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

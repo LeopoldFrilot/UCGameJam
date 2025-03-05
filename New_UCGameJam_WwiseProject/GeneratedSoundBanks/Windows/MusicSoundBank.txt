@@ -14,10 +14,10 @@ Event	ID	Name			Wwise Object Path	Notes
 	3646522415	play_bison			\Music\Music Events\play_bison	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	115317097	keyhole_nosparkle	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\BB\{BB9DEE26-C455-C4FF-6027-8721183C6851}.wem		\Actor-Mixer Hierarchy\Keyhole\keyhole_nosparkle		15904120
+	115317097	keyhole_nosparkle	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\3A\{3A9DB7E6-24B8-1237-B400-21DF9931B191}.wem		\Actor-Mixer Hierarchy\Keyhole\keyhole_nosparkle		15904120
 	268249401	Turtle_Town_70_P1_M42	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\77\{770A6FB2-4DB0-46B1-FB4E-1A6BABFF44BB}.wem		\Interactive Music Hierarchy\Music\Turtle_Town\Turtle_Town_70_P1_M42\Turtle_Town_70_P1_M42		25401696
 	353757325	FinalGauntlet_145_50M	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\D8\{D869C827-9F8B-7054-CB7A-49A4E58901F8}.wem		\Interactive Music Hierarchy\Music\Finale\FinalGauntlet_145_50M\FinalGauntlet_145_50M		14598720
-	364754566	keyhole_sparkle-01	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\1B\{1B694445-176C-AE8C-1260-FC185C9CB38A}.wem		\Actor-Mixer Hierarchy\Keyhole\keyhole_sparkle-01		11552688
+	364754566	keyhole_sparkle-01	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\10\{105CA86F-1649-F3DB-99AB-6FE1A7AEDF5B}.wem		\Actor-Mixer Hierarchy\Keyhole\keyhole_sparkle-01		11552688
 	553835786	Base_Town_70_P1_M42	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\A2\{A296CA3D-0434-E950-980B-AF354EE94F24}.wem		\Interactive Music Hierarchy\Music\Town_Base\Base_Town_70_P1_M42\Base_Town_70_P1_M42		25401696
 	561426790	Fox_Forest_90_P1_23M	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\A0\{A024A86C-5427-EFCA-DDA0-9FAA1FA2B5DA}.wem		\Interactive Music Hierarchy\Music\Fox_Forest\Fox_Forest_90_P1_23M\Fox_Forest_90_P1_23M		25276500
 	654732009	Base_Mountain_180_P1_M57	D:\UCGameJam\New_UCGameJam_WwiseProject\.cache\8C\{8C393569-61B5-803F-3045-718BDA7A0AC7}.wem		\Interactive Music Hierarchy\Music\Mountain_Base\Base_Mountain_180_P1_M57\Base_Mountain_180_P1_M57		17934096

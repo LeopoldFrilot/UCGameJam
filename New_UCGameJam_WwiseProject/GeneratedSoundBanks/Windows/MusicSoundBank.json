@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{C91AF3C2-386D-4B6B-991C-34E8895D5C81}",
     "Language": "SFX",
-    "Hash": "{D3630530-7352-0911-AAF4-00F360CCACA9}",
+    "Hash": "{B14B5B05-F75F-4074-B913-0D3870A70F4F}",
     "ObjectPath": "\\SoundBanks\\Music\\MusicSoundBank",
     "ShortName": "MusicSoundBank",
     "Path": "MusicSoundBank.bnk",
@@ -21,7 +21,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "keyhole_nosparkle.wav",
-      "CachePath": "BB/{BB9DEE26-C455-C4FF-6027-8721183C6851}.wem"
+      "CachePath": "3A/{3A9DB7E6-24B8-1237-B400-21DF9931B191}.wem"
      },
      {
       "Id": "268249401",
@@ -45,7 +45,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "keyhole_sparkle-01.wav",
-      "CachePath": "1B/{1B694445-176C-AE8C-1260-FC185C9CB38A}.wem"
+      "CachePath": "10/{105CA86F-1649-F3DB-99AB-6FE1A7AEDF5B}.wem"
      },
      {
       "Id": "553835786",
@@ -289,6 +289,6 @@
     ]
    }
   ],
-  "FileHash": "{2674FFEB-BD60-C2B9-DA85-A8A2B139C87D}"
+  "FileHash": "{9A14394D-5664-6171-DE41-A7FA9A590224}"
  }
 }

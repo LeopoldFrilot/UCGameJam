@@ -50,6 +50,7 @@ Event	ID	Name			Wwise Object Path	Notes
 	3656910135	Opening_1_1			\Dialogue\Prequel\Opening_1_1	
 	3702716130	Narrator_1_1			\Dialogue\Narrator\Narrator_1_1	
 	3702716131	Narrator_1_0			\Dialogue\Narrator\Narrator_1_0	
+	3703157417	Narrator_6_1			\Dialogue\Narrator\Narrator_6_1	
 	3866394420	ancestor_4_2			\Dialogue\Ancestor\ancestor_4_2	
 	4191155452	bison_6_4			\Dialogue\Bison\bison_6_4	
 

@@ -5689,6 +5689,9 @@
 					</ChildrenList>
 				</MusicPlaylistContainer>
 				<MusicPlaylistContainer Name="Bison_Mountain" ID="{66758D55-C373-4A94-A060-2D975C0F8336}" ShortID="628567819">
+					<PropertyList>
+						<Property Name="Tempo" Type="Real64" Value="180"/>
+					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA29F468-EF60-4933-94F7-4235A8076B25}"/>

@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{30CFE3D3-7470-4120-B31B-8223525BD108}",
     "Language": "SFX",
-    "Hash": "{70F6E17A-61D2-82C4-AC32-9D89404A18C5}",
+    "Hash": "{FE605DB3-C6CF-A089-E555-ED81E044368B}",
     "ObjectPath": "\\SoundBanks\\Dialogue\\Dialogue",
     "ShortName": "Dialogue",
     "Path": "Dialogue.bnk",
@@ -1065,6 +1065,21 @@
       ]
      },
      {
+      "Id": "3703157417",
+      "Name": "Narrator_6_1",
+      "ObjectPath": "\\Events\\Dialogue\\Narrator\\Narrator_6_1",
+      "GUID": "{BACF36A6-8421-404D-BCF3-0FAA863A2B69}",
+      "Color": "19",
+      "DurationType": "OneShot",
+      "DurationMin": "6.7666683",
+      "DurationMax": "6.7666683",
+      "MediaRefs": [
+       {
+        "Id": "917253457"
+       }
+      ]
+     },
+     {
       "Id": "3656910134",
       "Name": "Opening_1_0",
       "ObjectPath": "\\Events\\Dialogue\\Prequel\\Opening_1_0",
@@ -1247,6 +1262,6 @@
     ]
    }
   ],
-  "FileHash": "{9F338F15-FAD8-8282-0253-3AC7C0AB0D2E}"
+  "FileHash": "{72CF1C1A-72F8-5FBD-9FEB-E31001E68C5B}"
  }
 }
