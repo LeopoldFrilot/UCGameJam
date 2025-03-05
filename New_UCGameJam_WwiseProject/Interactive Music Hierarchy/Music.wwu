@@ -4740,6 +4740,13 @@
 					</ReferenceList>
 					<ChildrenList>
 						<MusicTrack Name="Keyhole_120_3M" ID="{204BAFEF-8F18-483D-B79F-FBEFDF3953CD}" ShortID="476317431">
+							<PropertyList>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-8</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
 							<ReferenceList>
 								<Reference Name="OutputBus">
 									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0F5AB882-59B4-4955-88D7-1E284F876909}"/>
@@ -4928,6 +4935,11 @@
 								<Property Name="Color" Type="int16" Value="4"/>
 								<Property Name="EndPosition" Type="Real64" Value="53334.0592759829"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-8</Value>
+									</ValueList>
+								</Property>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
@@ -5140,6 +5152,11 @@
 								<Property Name="Color" Type="int16" Value="16"/>
 								<Property Name="EndPosition" Type="Real64" Value="93300"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-8</Value>
+									</ValueList>
+								</Property>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
@@ -5340,6 +5357,11 @@
 								<Property Name="Color" Type="int16" Value="15"/>
 								<Property Name="EndPosition" Type="Real64" Value="101666.666666667"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-8</Value>
+									</ValueList>
+								</Property>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
@@ -5542,6 +5564,11 @@
 								<Property Name="Color" Type="int16" Value="11"/>
 								<Property Name="EndPosition" Type="Real64" Value="144000"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-8</Value>
+									</ValueList>
+								</Property>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
@@ -5743,6 +5770,11 @@
 								<Property Name="Color" Type="int16" Value="15"/>
 								<Property Name="EndPosition" Type="Real64" Value="98551.9452591688"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-8</Value>
+									</ValueList>
+								</Property>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
@@ -5942,6 +5974,11 @@
 								<Property Name="EndPosition" Type="Real64" Value="82758.6394557825"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
 								<Property Name="Tempo" Type="Real64" Value="145"/>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-8</Value>
+									</ValueList>
+								</Property>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
@@ -6138,6 +6175,11 @@
 								<Property Name="Color" Type="int16" Value="4"/>
 								<Property Name="EndPosition" Type="Real64" Value="143290.272108844"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-8</Value>
+									</ValueList>
+								</Property>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
@@ -6336,6 +6378,11 @@
 								<Property Name="Color" Type="int16" Value="11"/>
 								<Property Name="EndPosition" Type="Real64" Value="144000"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-8</Value>
+									</ValueList>
+								</Property>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
@@ -6533,6 +6580,11 @@
 							<PropertyList>
 								<Property Name="EndPosition" Type="Real64" Value="58042.5144416423"/>
 								<Property Name="Tempo" Type="Real64" Value="70"/>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-8</Value>
+									</ValueList>
+								</Property>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
@@ -6730,6 +6782,11 @@
 							<PropertyList>
 								<Property Name="EndPosition" Type="Real64" Value="52554.0998390009"/>
 								<Property Name="Tempo" Type="Real64" Value="90"/>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-8</Value>
+									</ValueList>
+								</Property>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
@@ -6926,6 +6983,11 @@
 						<MusicSegment Name="Endgame_Forest_NoAmbience_90_14M_Finish" ID="{829500E2-6651-4DD1-A61F-7ABAC7381CF2}" ShortID="958873819">
 							<PropertyList>
 								<Property Name="EndPosition" Type="Real64" Value="79290.2721088435"/>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-8</Value>
+									</ValueList>
+								</Property>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
